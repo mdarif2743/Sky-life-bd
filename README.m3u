@@ -301,7 +301,7 @@ http://103.151.61.12/SONY_SPORTS_5/tracks-v1a1/mono.m3u8?token=i7bZaZWaFrSIE0
 http://103.191.99.248:5550/123/index.m3u8
 
 #EXTINF:-1 tvg-id="star_sports_1_hd" tvg-logo="http://monirul.bro.bd/assets/images/STAR SPORTS 1 HD1744991778.png" group-title="Sports",STAR SPORTS 1 HD
-http://103.151.60.204:881/StarSports1/video.m3u8
+http://103.151.61.12/STAR_SPORTS_1/tracks-v1a1/mono.m3u8?token=i7bZaZWaFrSIE0
 
 #EXTINF:-1 tvg-id="star_sports_2_hd" tvg-logo="http://monirul.bro.bd/assets/images/STAR SPORTS 2 HD1744991842.png" group-title="Sports",STAR SPORTS 2 HD
 http://103.151.60.204:881/StarSports2/video.m3u8
