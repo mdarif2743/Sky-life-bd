@@ -209,6 +209,8 @@ http://live.balajibroadband.com:3500/live/3418.m3u8
 
 #EXTINF:-1 tvg-id="star_gold_2_hd" tvg-logo="http://monirul.bro.bd/assets/images/STAR GOLD 2 HD1745043441.png" group-title="Hindi",STAR GOLD 2 HD
 
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold.png" group-title="HINDI",Star Gold BD IP
+http://103.151.60.162:2122/play/a01n/63460772.m3u8
 
 #EXTINF:-1 tvg-id="star_gold_hd" tvg-logo="http://monirul.bro.bd/assets/images/STAR GOLD HD1745034037.png" group-title="Hindi",STAR GOLD HD
 
