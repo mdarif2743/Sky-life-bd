@@ -1,5 +1,22 @@
 
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/16717/image" group-title="The Hundred Women", The Hundred Women (WILLOW - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b49d185a9ea951cfe8eac1ad9d8f4c1e:4c570c0d8df53ca1070e371c0f549b7e
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yyb40bb0u7/out/v1/13609aedb80743d38243526164f40d8b/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvZEkeGD-aTND_Umjxnkz5mM7UC7Yam3DQlA2FeQSTuw&s=10" group-title="Global Super League", Global Super League (WILLOW - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=42f2a5ec4571d78625673b5a9c8edd70:4110a77aa27300964b63cdb99b4d69e6
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/olepqibg6g/out/v1/7a937563adfa4008adc4f4cfcb75d51f/cenc.mpd
+
+#EXTINF:-1 tvg-chno="406" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZcJANelaW8aBRREj0hAfcWIjvYWJdJ_Epg&usqp=CAU",Willow SPORTS
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+
 #EXTINF:-1 tvg-chno="409" tvg-logo="https://epg.pw/media/images/epg/2025/05/09/20250509042549016858_59.png", Cricbuzz
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bn-ch-1/1104670.m3u8
 
