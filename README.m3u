@@ -61,7 +61,7 @@ https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/h
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bn-ch-1/1104678.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/500px-T_Sports_logo.svg.png" group-title="AynaOTT - Sports",T Sports
-http://103.191.99.248:5550/102/index.m3u8
+http://103.114.11.37:8081/T-Sports-HD/index.m3u8?token=dsfsdfsdfsdf
 
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_720,h_405,c_scale,f_webp,q_auto:eco/resources/0-9-zeecafehd/list/1920x1080list60cd7fc8b57c4e1baf1cd4f603413540.jpg"group-title="LIVE SPORTS" group-title="", UNITE8 SPORTS 1 HD
 http://103.151.61.12/STAR_SPORTS_SELECT1/tracks-v1a1/mono.m3u8?token=i7bZaZWaFrSIE0
