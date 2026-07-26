@@ -90,7 +90,7 @@ http://103.151.61.12/SUN_BANGLA/tracks-v1a1/mono.m3u8?token=i7bZaZWaFrSIE0
 #EXTINF:-1 tvg-id="zee_bangla_cinema" tvg-logo="http://monirul.bro.bd/assets/images/ZEE BANGLA CINEMA1745040996.png" group-title="Bangla",ZEE BANGLA CINEMA
 http://103.159.180.34:5001/live/3476.m3u8
 
-EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6G24Tj43fUDE-VMcRJd1clc1T3fb1cnSi0pcs63cmkEsBxw3jERd2jmpM&s=10", ZEE BANGLA
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6G24Tj43fUDE-VMcRJd1clc1T3fb1cnSi0pcs63cmkEsBxw3jERd2jmpM&s=10", ZEE BANGLA
 http://103.151.61.12/Z_BANGLA/tracks-v1a1/mono.m3u8?token=i7bZaZWaFrSIE0
 
 #EXTINF:-1 tvg-id="zee_bangla_hd" tvg-logo="http://monirul.bro.bd/assets/images/ZEE BANGLA HD1745033633.png" group-title="Bangla",ZEE BANGLA HD
