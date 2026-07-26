@@ -1,9 +1,5 @@
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/16717/image" group-title="The Hundred Women", The Hundred Women (WILLOW - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b49d185a9ea951cfe8eac1ad9d8f4c1e:4c570c0d8df53ca1070e371c0f549b7e
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yyb40bb0u7/out/v1/13609aedb80743d38243526164f40d8b/cenc.mpd
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="Galle Gallants vs Dambulla Sixers", Galle Gallants vs Dambulla Sixers (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
