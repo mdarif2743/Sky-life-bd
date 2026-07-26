@@ -294,11 +294,32 @@ http://103.159.180.34:5001/live/562.m3u8
 #EXTINF:-1 tvg-id="colors_hd" tvg-logo="http://monirul.bro.bd/assets/images/COLORS HD1745031404.png" group-title="Hindi",COLORS HD
 https://yowaimo.in/Sflex-ArtlPVT0719/COLORS_HD.m3u8
 
-#EXTINF:-1 tvg-id="geo_news_hd" tvg-logo="http://monirul.bro.bd/assets/images/GEO NEWS HD1745044892.png" group-title="Hindi",GEO NEWS HD
+#EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/Hum.png" group-title="Shoq",Hum TV EUROPE
+https://stream.ottplus.live/live/hum_tv_abr/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/GreenTV.png" group-title="Shoq", Green TV HD
+https://cdn01.medialive.one:2096/GREENENTFHD/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="hum_tv" tvg-logo="http://monirul.bro.bd/assets/images/HUM TV1745044837.png" group-title="Hindi",HUM TV
+#EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/Hum.png" group-title="Shoq",Hum TV HD
+https://ml-pull-dvc-myco.io:2096/HUM_ENTERTAINMENT/index.m3u8
 
+#EXTINF:-1,HUM SITERY world
+http://38.101.217.46/HumSitaray/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/Express.png" group-title="Shoq",Express Entertainment
+https://s3.ideationtec.live/Express_Entertainment/Express_Entertainment.m3u8
+
+#EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/ary-digital.png" group-title="Shoq",Ary Digital HD
+https://ml-pull-dvc-myco.io:2096/ARY_DIGITAL/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/geo-kahani.png" group-title="Shoq",Geo Kahani
+https://s3.ideationtec.live/GEO_Entertainment/GEO_Entertainment.m3u8
+
+#EXTINF:-1 tvg-id="b80579f2-22d3-4b12-881e-60139810a791" tvg-name="Goldmines Bollywood" tvg-logo="https://s3.aynaott.com/storage/d9a0314f5f9165176f492db3923709bd" group-title="Hindi",Goldmines Bollywood
+http://103.175.73.12:8080/live/52/52_0.m3u8
+
+#EXTINF:-1 tvg-id="1f8a84b3-8079-4c29-9e73-f219664e9d4d" tvg-name="Goldmines Movies" tvg-logo="https://s3.aynaott.com/storage/26c1570891267164e40563806b25ccdb" group-title="Hindi",Goldmines Movies
+http://103.175.73.12:8080/live/51/51_0.m3u8
 
 #EXTINF:-1 tvg-id="max_1" tvg-logo="http://monirul.bro.bd/assets/images/MAX 11748857466.png" group-title="Hindi",MAX 1
 http://live.balajibroadband.com:3500/live/3418.m3u8
