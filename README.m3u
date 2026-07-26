@@ -1,5 +1,9 @@
 
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="West Indies vs Pakistan", West Indies vs Pakistan (WILLOW - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ff2d3d8ee3f01ca0186ab372d834a305:20554e3b2bb2a251be086a589087820a
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tpsqlx4rhv/out/v1/1e46878c774c406a9fccb34af17fbc33/cenc.mpd
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="Galle Gallants vs Dambulla Sixers", Galle Gallants vs Dambulla Sixers (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
