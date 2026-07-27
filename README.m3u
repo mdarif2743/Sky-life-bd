@@ -247,11 +247,44 @@ http://103.114.11.37:8081/ZEE-Bangla/index.m3u8?token=dsfsdfsdfsdf
 #EXTINF:-1 tvg-id="aljazeeta_hd" tvg-logo="http://monirul.bro.bd/assets/images/ALJAZEETA HD1745044358.png" group-title="English",ALJAZEETA HD
 https://live-hls-web-aje-gcp.thehlive.com/AJE/03.m3u8
 
-#EXTINF:-1 tvg-id="animal_planet_hd" tvg-logo="http://monirul.bro.bd/assets/images/ANIMAL PLANET HD1745038671.png" group-title="English",ANIMAL PLANET HD
+#EXTINF:-1 tvg-id="Amazon.US.BBCNews" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="World TV",BBC News
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c64747ebdd2ea84f1121875441345d2a:eea1752ad9ad0309fb48a905d8c604d3
+https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/p1i5mcfkxk/out/v1/fb576725bbfd4051bf418a428f0f9493/cenc.mpd
 
+#EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://logos-world.net/wp-content/uploads/2020/11/CNN-Logo.png",CNN
+https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
 
-#EXTINF:-1 tvg-id="bbc_news" tvg-logo="http://monirul.bro.bd/assets/images/BBC NEWS1745042816.png" group-title="English",BBC NEWS
-https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+#EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://brandlogos.net/wp-content/uploads/2021/12/deutsche_welle-brandlogo.net_-512x512.png",DW
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/CGTN.svg/revision/latest/scale-to-width-down/284?cb=20170101174915",CGTN News
+https://english-livebkali.cgtn.com/live/encgtn_1.m3u8
+
+#EXTINF:-1 tvg-id="CNA" group-title="SG 🇸🇬" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png" ch-number="515", CNA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/605
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+
+#EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/ABP_Ananda.svg/revision/latest",Abp Ananda
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-ananda/master.m3u8
+
+#EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Tv9bangla.png/revision/latest/scale-to-width-down/280?cb=20210509173815",TV9 Bangla
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/pub-iotv9banaen8yq/live_720p/chunks.m3u8
+
+#EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f7/Republic-bangla.png/revision/latest/scale-to-width-down/1000",Republic Bangla
+https://amg01218-republictvfast-amg01218c1-samsung-in-1918.playouts.now.amagi.tv/playlist/amg01218-republictvfast-rbangla-samsungin/playlist.m3u8
+
+#EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1ZIcQZJsxykDxq660jvKNkeFjXlP-LkyFAjcsP_cYyIsm8pWpAjqSLChu&s=10",Kolkata TV
+https://cdn.ottlive.co.in/kolkatatv/tracks-v3a1/mono.m3u8
+
+#EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/News18_bangla.png/revision/latest?cb=20210509143000",News18 Bangla
+https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
+
+#EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/49/RPlus_24x7_News_logo_%282016%29.png/revision/latest?cb=20211209093649",R Plus News
+https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/discovery-channel-bengali.png" group-title="SM_IPTV",Discovery Channel Bengali
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
