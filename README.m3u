@@ -341,6 +341,9 @@ https://yowaimo.in/Sflex-ArtlPVT0719/SET_HD.m3u8
 #EXTINF:-1 tvg-id="sony_max_hd" tvg-logo="http://monirul.bro.bd/assets/images/SONY MAX HD1745034069.png" group-title="Hindi",SONY MAX HD
 https://yowaimo.in/Sflex-ArtlPVT0719/SONY_MAX_HD.m3u8
 
+#EXTINF:-1 tvg-id="173" tvg-chno="511" tvg-name="sony-max-2" tvg-language="HIN" tvg-logo="https://static.epg.best/in/SonyMax2.in.png" group-title="Movies", Sony Max 2
+http://live.balajibroadband.com:3500/live/483.m3u8
+
 #EXTINF:-1 tvg-id="star_bharat_hd" tvg-logo="http://monirul.bro.bd/assets/images/STAR BHARAT HD1745045255.png" group-title="Hindi",STAR BHARAT HD
 https://yowaimo.in/Sflex-ArtlPVT0719/STAR_BHARAT_HD.m3u8
 
