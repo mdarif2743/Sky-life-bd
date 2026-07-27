@@ -58,7 +58,7 @@ https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/h
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bn-ch-1/1104678.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/500px-T_Sports_logo.svg.png" group-title="AynaOTT - Sports",T Sports
-http://103.114.11.37:8081/T-Sports-HD/index.m3u8?token=dsfsdfsdfsdf
+http://103.185.24.134:3001/TSportsHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_720,h_405,c_scale,f_webp,q_auto:eco/resources/0-9-zeecafehd/list/1920x1080list60cd7fc8b57c4e1baf1cd4f603413540.jpg"group-title="LIVE SPORTS" group-title="", UNITE8 SPORTS 1 HD
 https://yowaimo.in/Sflex-ArtlPVT0719/ZEE_CAFE_HD.m3u8
@@ -285,7 +285,7 @@ https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
 
 #EXTINF:-1 tvg-id="sony_bbc_earth_hd" tvg-logo="http://monirul.bro.bd/assets/images/SONY BBC EARTH HD1745031522.png" group-title="English",SONY BBC EARTH HD
-http://live.balajibroadband.com:3500/live/821.m3u8
+http://103.185.24.134:3001/SONY-BBC/index.m3u8
 
 #EXTINF:-1 tvg-id="sony_pix_hd" tvg-logo="http://monirul.bro.bd/assets/images/SONY PIX HD1745039925.png" group-title="English",SONY PIX HD
 http://103.191.99.248:5550/503/tracks-v1a1/mono.m3u8
