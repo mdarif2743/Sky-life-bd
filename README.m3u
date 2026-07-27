@@ -273,10 +273,10 @@ http://live.balajibroadband.com:3500/live/821.m3u8
 http://103.191.99.248:5550/503/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="star_movies_hd" tvg-logo="http://monirul.bro.bd/assets/images/STAR MOVIES HD1745040174.png" group-title="English",STAR MOVIES HD
-http://103.191.99.248:5550/501/tracks-v1a1/mono.m3u8
+http://103.185.24.134:3001/Star-Movies/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="star_movies_select_hd" tvg-logo="http://monirul.bro.bd/assets/images/STAR MOVIES SELECT HD1745038723.png" group-title="English",STAR MOVIES SELECT HD
-http://66.102.126.10:8000/play/a020/index.m3u8
+http://103.185.24.134:3001/STAR-MOVIES-SEL-HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="travel_xp" tvg-logo="http://monirul.bro.bd/assets/images/TRAVEL XP1745043118.png" group-title="English",TRAVEL XP
 http://103.159.180.34:5001/live/562.m3u8
