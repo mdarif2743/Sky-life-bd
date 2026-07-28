@@ -191,8 +191,7 @@ https://app.ncare.live/live-orgin/channels.stream/playlist.m3u8
 https://ftp.assadikb.workers.dev/stream.m3u8?id=/bijoytv
 
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/mohona-tv.png" group-title="SM_IPTV",Mohona TV
-#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
-https://ftp.assadikb.workers.dev/stream.m3u8?id=/mohona_tv
+https://tvsen6.aynaott.com/AkyX5dunzju4cpo26dr7/index.m3u8
 
 #EXTINF:1 tvg-name="boishakhitv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0uWrO_3qX3hj7I2kpPiVhKpuASKJ_u5PxDTq5VoRAuQ&s" group-title="All-In-One~ENT🧩",Boishakhi tv
 https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8
