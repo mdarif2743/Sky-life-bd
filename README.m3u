@@ -664,6 +664,20 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1424311
 #EXTINF:-1 tvg-id="sky.sport.9.nz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Sky_Sport_9_NZ.svg/revision/latest/scale-to-width-down/200?cb=20230830143632", SKY SPORT NZ 9
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1424310.m3u8
 
+#EXTINF:0 tvg-id="BEINSPORT 1 FR" tvg-logo="https://i.ibb.co.com/TM78YHzf/BEIN1.png" group-title="SPORTS",BEIN SPORT 1 AU
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
+
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/VYZLb1bv/BEIN2.png" group-title="SPORTS",BEIN SPORT 2 AU
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
 #EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs1hd.png" group-title="beIN SPORTS HD",beIN SPORTS 1 HD
 http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/6123/index.m3u8
 
