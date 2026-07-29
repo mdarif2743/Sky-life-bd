@@ -584,10 +584,10 @@ http://103.151.61.12/SONY_SPORTS_5/tracks-v1a1/mono.m3u8?token=i7bZaZWaFrSIE0
 https://yowaimo.in/Sflex-ArtlPVT0719/STAR_SPORTS_SELECT_1_HD.m3u8
 
 #EXTINF:-1 tvg-id="star_sports_1_hd" tvg-logo="http://monirul.bro.bd/assets/images/STAR SPORTS 1 HD1744991778.png" group-title="Sports",STAR SPORTS 1 HD
-https://yowaimo.in/Sflex-ArtlPVT0719/STAR_SPORTS_1_HD.m3u8
+http://tvsen7.aynascope.net/sspts1/index.m3u8
 
 #EXTINF:-1 tvg-id="star_sports_2_hd" tvg-logo="http://monirul.bro.bd/assets/images/STAR SPORTS 2 HD1744991842.png" group-title="Sports",STAR SPORTS 2 HD
-http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8
+https://yowaimo.in/Sflex-ArtlPVT0719/STAR_SPORTS_2_HD.m3u8
 
 #EXTINF:-1 tvg-id="star_sports_3" tvg-logo="http://monirul.bro.bd/assets/images/STAR SPORTS 31745039893.png" group-title="Sports",STAR SPORTS 3
 https://yowaimo.in/Sflex-ArtlPVT0719/STAR_SPORTS_3.m3u8
