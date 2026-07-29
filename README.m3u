@@ -562,11 +562,8 @@ https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7jrjkW1/20240813-112630.png" group-title="Relagion Channel", Madani TV উর্দু
 https://ml-pull-dvc-myco.io:2096/MADNI_CHANNEL/index.m3u8
 
-#EXTINF:-1 tvg-id="peace_tv_bangla" tvg-logo="http://monirul.bro.bd/assets/images/PEACE TV BANGLA1745044480.png" group-title="Islamic",PEACE TV BANGLA
-
-
 #EXTINF:-1 tvg-id="a_sports_hd" tvg-logo="http://monirul.bro.bd/assets/images/A SPORTS HD1745044782.png" group-title="Sports",A SPORTS HD
-http://103.151.60.204:881/A-Sports/video.m3u8
+https://playztv-apps.pages.dev/asports/index.m3u8
 
 #EXTINF:-1 tvg-id="ptv_sports_hd" tvg-logo="http://monirul.bro.bd/assets/images/PTV SPORTS HD1745044993.png" group-title="Sports",PTV SPORTS HD
 http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
