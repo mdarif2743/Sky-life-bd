@@ -288,7 +288,7 @@ https://english-livebkali.cgtn.com/live/encgtn_1.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/605
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
-#EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/ABP_Ananda.svg/revision/latest",Abp Ananda
+#EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://i.pinimg.com/736x/48/e5/f3/48e5f3eda1bfa26b345507329d68dc73.jpg",Abp Ananda
 http://103.175.73.12:8080/live/200/200_0.m3u8
 
 #EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Tv9bangla.png/revision/latest/scale-to-width-down/280?cb=20210509173815",TV9 Bangla
