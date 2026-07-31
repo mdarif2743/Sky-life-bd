@@ -6,6 +6,10 @@ telegram:-@SKY LIFE BD
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/mdarif2743/Sky-life-bd/main/IMG_20260723_130039_939.jpg", SKY LIFE BD(FREE IPTV)
 https://raw.githubusercontent.com/mdarif2743/Sky-life-bd/main/IMG_20260723_130039_939.jpg
 
+#EXTINF:-1 tvg-chno="401" tvg-logo="https://iili.io/KWn2Z0u.png",FANCODE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://du63lhrf9y1yb.cloudfront.net/143351_hindi_hls_e275e99cda1596_1ta-di_h264/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/proxy/llgd0Pi2DmMqsfDpq3Ut_LxYQKjPIe4CccguV0GNzC7DjM5oje2Na-r1g6XTy8xpaIoO3xHL8i3_oeZnGejcpOiIGmaAXd_unuiEZHNZ"group-title="LIVE SPORTS" group-title="", LIVE SPORTS
 https://live.bdixbd.net/api/proxy/stream.m3u8?url=https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 
