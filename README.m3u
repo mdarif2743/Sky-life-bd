@@ -869,3 +869,9 @@ http://live-stream.amarbanglatv.in:8080/hls/sanandatv/index.m3u8
 
 #EXTINF:-1, tvg-logo=" ",AKASH AATH IN
 http://103.159.180.34:5001/live/698.m3u8
+
+#EXTINF:-1, tvg-logo="https://img-cdn.publive.online/fit-in/1200x675/afaqs/media/post_attachments/10748d92781bb5c4b905c6d099a049402df8755404dd10781241db6b0fe221ad.jpg", DANGAL
+https://live-dangal.akamaized.net/liveabr/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.medianews4u.com/wp-content/uploads/2022/04/Dangal-2.jpg", DANGAL 2
+https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
