@@ -596,8 +596,7 @@ https://login.bheem.tv/bpk-tv/22603/output/index.mpd
 https://login.bheem.tv/bpk-tv/22096/output/index.mpd
 
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sonic-bangla.png" group-title="SM_IPTV",Sonic Bangla
-#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
-https://madanitv.assadikb.workers.dev/live.php?id=1345&e=.m3u8
+http://live.balajibroadband.com:3500/live/1345.m3u8
 
 #EXTINF:-1 tvg-id="super_hungama" tvg-logo="http://monirul.bro.bd/assets/images/SUPER HUNGAMA1745044022.png" group-title="Kids",SUPER HUNGAMA
 
