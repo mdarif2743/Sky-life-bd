@@ -274,7 +274,7 @@ https://yowaimo.in/Sflex-ArtlPVT0719/SONY_8.m3u8
 http://103.151.61.12/Star_Jalsha/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="star_jalsha_hd" tvg-logo="http://monirul.bro.bd/assets/images/STAR JALSHA HD1745033819.png" group-title="Bangla",STAR JALSHA HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/225805.m3u8
+http://103.165.93.31:8095/starJalsha/index.m3u8
 
 #EXTINF:-1 tvg-id="sun_bangla_hd" tvg-logo="http://monirul.bro.bd/assets/images/SUN BANGLA HD1745033791.png" group-title="Bangla",SUN BANGLA HD
 http://103.151.61.12/SUN_BANGLA/tracks-v1a1/mono.m3u8?token=i7bZaZWaFrSIE0
@@ -286,7 +286,7 @@ http://103.159.180.34:5001/live/3476.m3u8
 http://103.159.180.34:5001/live/625.m3u8
 
 #EXTINF:-1 tvg-id="zee_bangla_hd" tvg-logo="http://monirul.bro.bd/assets/images/ZEE BANGLA HD1745033633.png" group-title="Bangla",ZEE BANGLA HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/225796.m3u8
+http://103.165.93.31:8095/zeeBangla/index.m3u8
 
 #EXTINF:-1 tvg-id="aljazeeta_hd" tvg-logo="http://monirul.bro.bd/assets/images/ALJAZEETA HD1745044358.png" group-title="English",ALJAZEETA HD
 https://live-hls-web-aje-gcp.thehlive.com/AJE/03.m3u8
@@ -583,7 +583,7 @@ https://tvsen5.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.fmp4.m3u8?token=8085c39b75
 
 
 #EXTINF:-1 tvg-id="nick" tvg-logo="http://monirul.bro.bd/assets/images/NICK1745041451.png" group-title="Kids",NICK
-http://live.balajibroadband.com:3500/live/1341.m3u8
+http://103.165.93.31:8095/nick/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143663_ld_h15_aa.png" group-title="watcho",Pogo
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -596,7 +596,7 @@ https://login.bheem.tv/bpk-tv/22603/output/index.mpd
 https://login.bheem.tv/bpk-tv/22096/output/index.mpd
 
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sonic-bangla.png" group-title="SM_IPTV",Sonic Bangla
-http://live.balajibroadband.com:3500/live/1345.m3u8
+http://103.165.93.31:8095/sonic/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="super_hungama" tvg-logo="http://monirul.bro.bd/assets/images/SUPER HUNGAMA1745044022.png" group-title="Kids",SUPER HUNGAMA
 
