@@ -331,11 +331,13 @@ http://103.151.61.12/SUN_BANGLA/tracks-v1a1/mono.m3u8?token=i7bZaZWaFrSIE0
 #EXTINF:-1 tvg-id="zee_bangla_cinema" tvg-logo="http://monirul.bro.bd/assets/images/ZEE BANGLA CINEMA1745040996.png" group-title="Bangla",ZEE BANGLA CINEMA
 http://103.159.180.34:5001/live/3476.m3u8
 
-#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6G24Tj43fUDE-VMcRJd1clc1T3fb1cnSi0pcs63cmkEsBxw3jERd2jmpM&s=10", ZEE BANGLA
-http://103.159.180.34:5001/live/625.m3u8
+#EXTINF:-1 tvg-id="0-9-366" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-366/list/1920x1080lista0006de49f9b4d14b3e63b76723b7e8d.png" group-title="Entertainment", Zee Bangla International
+#EXTVLCOPT:http-user-agent=com.graymatrix.did;Android TV;5.82.6(203230929);Android(10);Xiaomi(Redmi Note 8 Pro)
+http://shoebinfo.qzz.io/zee5/zee5.php?play=0-9-366
 
-#EXTINF:-1 tvg-id="zee_bangla_hd" tvg-logo="http://monirul.bro.bd/assets/images/ZEE BANGLA HD1745033633.png" group-title="Bangla",ZEE BANGLA HD
-http://103.165.93.31:8095/zeeBangla/index.m3u8
+#EXTINF:-1 tvg-id="0-9-zeebangla" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeebangla/list/1920x1080listb2674154e8ac473f8f37ad418ac013ec.png" group-title="Entertainment", Zee Bangla HD
+#EXTVLCOPT:http-user-agent=com.graymatrix.did;Android TV;5.82.6(203230929);Android(10);Xiaomi(Redmi Note 8 Pro)
+http://shoebinfo.qzz.io/zee5/zee5.php?play=0-9-zeebangla
 
 #EXTINF:-1 tvg-id="aljazeeta_hd" tvg-logo="http://monirul.bro.bd/assets/images/ALJAZEETA HD1745044358.png" group-title="English",ALJAZEETA HD
 https://live-hls-web-aje-gcp.thehlive.com/AJE/03.m3u8
