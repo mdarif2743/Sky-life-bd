@@ -6,20 +6,11 @@ telegram:-@SKY LIFE BD
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/mdarif2743/Sky-life-bd/main/IMG_20260723_130039_939.jpg", SKY LIFE BD(FREE IPTV)
 https://raw.githubusercontent.com/mdarif2743/Sky-life-bd/main/IMG_20260723_130039_939.jpg
 
-#EXTINF:-1 tvg-id="B0H7M46Y2T" tvg-name="Lanka Premier League 2026 - Final - Jaffna Kings vs Galle Gallants" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3ded9236-2021-4f12-bef7-83a84088d957/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Lanka Premier League 2026 - Final - Jaffna Kings vs Galle Gallants
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=68ed4e1c2ffeb7f9133a7624d126c0b1:9772b4fed3a42a93ffb622a8e4367e1b
-https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xnkbbanemt/out/v1/939193c7b2464f42b913f3b09f8bf604/cenc.mpd
+#EXTINF:-1 tvg-id="0-9-channel_2105335046" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1284,h_723,c_scale,f_webp,q_auto:eco/resources/0-9-channel_2105335046/list/1920x1080list88f79d7c74df4d998da1bbd448f465ff.jpg" group-title="Sports", Unite8 Sports 2 HD
+http://103.114.11.37:8081/Unite8-sports-2/index.m3u8?token=dsgdfgsdfgasf
 
-#EXTINF:-1 tvg-id="0-9-channel_2105335046" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-channel_2105335046/list/1920x1080list88f79d7c74df4d998da1bbd448f465ff.png" group-title="Sports", Unite8 Sports 2 HD
-#EXTVLCOPT:http-user-agent=com.graymatrix.did;Android TV;5.82.6(203230929);Android(10);Xiaomi(Redmi Note 8 Pro)
-http://shoebinfo.qzz.io/zee5/zee5.php?play=0-9-channel_2105335046
-
-#EXTINF:-1 tvg-id="0-9-zeecafehd" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeecafehd/list/1920x1080list60cd7fc8b57c4e1baf1cd4f603413540.png" group-title="Sports", Unite8 Sports 1 HD
-#EXTVLCOPT:http-user-agent=com.graymatrix.did;Android TV;5.82.6(203230929);Android(10);Xiaomi(Redmi Note 8 Pro)
-http://shoebinfo.qzz.io/zee5/zee5.php?play=0-9-zeecafehd
+#EXTINF:-1 tvg-id="0-9-zeecafehd" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_720,h_405,c_scale,f_webp,q_auto:eco/resources/0-9-zeecafehd/list/1920x1080list60cd7fc8b57c4e1baf1cd4f603413540.jpg" group-title="Sports", Unite8 Sports 1 HD
+https://yowaimo.in/Sflex-ArtlPVT0719/ZEE_CAFE_HD.m3u8
 
 #EXTINF:-1 tvg-id="B0H3M4Q7NB" tvg-name="PPA Tour: Asia Ho Chi Minh-Round of 16 and Quarterfinals" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d9b7bf52-a247-4521-b3c3-c6708086e6be/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",PPA Tour: Asia Ho Chi Minh-Round of 16 and Quarterfinals
 #KODIPROP:inputstream=inputstream.adaptive
@@ -341,12 +332,10 @@ http://103.159.180.34:5001/live/1669.m3u8
 http://103.159.180.34:5001/live/3476.m3u8
 
 #EXTINF:-1 tvg-id="0-9-366" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-366/list/1920x1080lista0006de49f9b4d14b3e63b76723b7e8d.png" group-title="Entertainment", Zee Bangla International
-#EXTVLCOPT:http-user-agent=com.graymatrix.did;Android TV;5.82.6(203230929);Android(10);Xiaomi(Redmi Note 8 Pro)
-http://shoebinfo.qzz.io/zee5/zee5.php?play=0-9-366
+http://103.159.180.34:5001/live/625.m3u8
 
 #EXTINF:-1 tvg-id="0-9-zeebangla" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeebangla/list/1920x1080listb2674154e8ac473f8f37ad418ac013ec.png" group-title="Entertainment", Zee Bangla HD
-#EXTVLCOPT:http-user-agent=com.graymatrix.did;Android TV;5.82.6(203230929);Android(10);Xiaomi(Redmi Note 8 Pro)
-http://shoebinfo.qzz.io/zee5/zee5.php?play=0-9-zeebangla
+http://103.165.93.31:8095/zeeBangla/index.m3u8
 
 #EXTINF:-1 tvg-id="aljazeeta_hd" tvg-logo="http://monirul.bro.bd/assets/images/ALJAZEETA HD1745044358.png" group-title="English",ALJAZEETA HD
 https://live-hls-web-aje-gcp.thehlive.com/AJE/03.m3u8
