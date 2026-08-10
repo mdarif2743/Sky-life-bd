@@ -6,6 +6,81 @@ telegram:-@SKY LIFE BD
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/mdarif2743/Sky-life-bd/main/IMG_20260723_130039_939.jpg", SKY LIFE BD(FREE IPTV)
 https://raw.githubusercontent.com/mdarif2743/Sky-life-bd/main/IMG_20260723_130039_939.jpg
 
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/7382296F-97F6-4450-B77B-8FE331FC04F6/3-1x1.png" group-title="Sports",TENNIS 2 FHD
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="plex.tv.MotoGP.Channel.plex" tvg-name="" tvg-logo="https://cdn.motorsport.com/images/mgl/YN1RZ4b2/s1000/motogp-logo.jpg" group-title="Sports",MotoGP Channel
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-wbd-cdn.wbd.com/s3_assets/wp-content/uploads/2024/01/TNT-Sports-Logo.png" group-title="Sports",TNT SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-wbd-cdn.wbd.com/s3_assets/wp-content/uploads/2024/01/TNT-Sports-Logo.png" group-title="Sports",TNT SPORTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
+
+#EXTINF:-1 tvg-id="TNTSports3.uk" tvg-logo="https://iili.io/3DPQCG9.png" group-title="HD SPORTS",TNT Sports 3
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/chsp6/1311901.m3u8
+
+#EXTINF:-1 tvg-id="TNTSports4.uk" tvg-logo="https://iili.io/3DPQfQS.png" group-title="HD SPORTS",TNT Sports 4
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/chsp6/1311902.m3u8
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="Sports",TSN SPORTS 1
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="Sports",TSN SPORTS 2
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="Sports",TSN SPORTS 3
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="Sports",TSN SPORTS 4
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="Sports",TSN SPORTS 5
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd
+
 #EXTINF:-1 tvg-id="0-9-channel_2105335046" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1284,h_723,c_scale,f_webp,q_auto:eco/resources/0-9-channel_2105335046/list/1920x1080list88f79d7c74df4d998da1bbd448f465ff.jpg" group-title="Sports", Unite8 Sports 2 HD
 http://103.114.11.37:8081/Unite8-sports-2/index.m3u8?token=dsgdfgsdfgasf
 
@@ -66,11 +141,7 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/kp7qfx2t
 #EXTINF:-1 tvg-chno="401" tvg-logo="https://iili.io/KWn2Z0u.png",FANCODE
 
 #EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/proxy/llgd0Pi2DmMqsfDpq3Ut_LxYQKjPIe4CccguV0GNzC7DjM5oje2Na-r1g6XTy8xpaIoO3xHL8i3_oeZnGejcpOiIGmaAXd_unuiEZHNZ"group-title="LIVE SPORTS" group-title="", LIVE SPORTS CPL LIVE
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
+
 
 #EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/proxy/llgd0Pi2DmMqsfDpq3Ut_LxYQKjPIe4CccguV0GNzC7DjM5oje2Na-r1g6XTy8xpaIoO3xHL8i3_oeZnGejcpOiIGmaAXd_unuiEZHNZ"group-title="LIVE SPORTS" group-title="", LIVE SPORTS
 https://d3bq19vx8xhpwy.cloudfront.net/live/myStream/playlist.m3u8
@@ -82,7 +153,7 @@ https://s2.itcnbd.live/server-2/stream/ten_cricket.m3u8
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bn-ch-1/1106878.m3u8
 
 #EXTINF:-1 tvg-chno="500" tvg-id="213212" tvg-name="KANTIPUR MAX  HD" tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel_212_1742546009_thumb.png",KANTIPUR MAX  HD
-https://webott.viatv.com.np/v0t1/CineplexHD.stream/chunks.m3u8
+
 
 #EXTINF:-1 tvg-id="89" tvg-chno="143" tvg-name="himalayan-premium-hd" tvg-language="NEP" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/dhome/posters/becf6176-e7a4-4123-9f59-aa541b1cb2f9.jpg" group-title="Nepali", Himalayan Premium HD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -691,18 +762,6 @@ https://yowaimo.in/Sflex-ArtlPVT0719/STAR_SPORTS_3.m3u8
 
 #EXTINF:-1 tvg-id="star_sports_select_2_hd" tvg-logo="http://monirul.bro.bd/assets/images/STAR SPORTS SELECT 2 HD1745033722.png" group-title="Sports",STAR SPORTS SELECT 2 HD
 https://yowaimo.in/Sflex-ArtlPVT0719/STAR_SPORTS_SELECT_2_HD.m3u8
-
-#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="TNT Sports 1" group-title="HD SPORTS" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/3DPQBC7.png",TNT Sports 1
-http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/2505/index.m3u8
-
-#EXTINF:-1 tvg-id="TNTSports2.uk" tvg-name="TNT Sports 2" group-title="HD SPORTS" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/3OKhGKg.png",TNT Sports 2
-http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/2506/index.m3u8
-
-#EXTINF:-1 tvg-id="TNTSports3.uk" tvg-logo="https://iili.io/3DPQCG9.png" group-title="HD SPORTS",TNT Sports 3
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/chsp6/1311901.m3u8
-
-#EXTINF:-1 tvg-id="TNTSports4.uk" tvg-logo="https://iili.io/3DPQfQS.png" group-title="HD SPORTS",TNT Sports 4
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/chsp6/1311902.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="WORLD SPORTS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/201_1920x1080_HTV.png?w=272",Hub Sports 1 HD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bn-ch-1/1110667.m3u8
