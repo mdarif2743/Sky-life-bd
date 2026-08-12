@@ -368,7 +368,7 @@ https://tvsen6.aynaott.com/AkyX5dunzju4cpo26dr7/index.m3u8
 #EXTINF:1 tvg-name="boishakhitv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0uWrO_3qX3hj7I2kpPiVhKpuASKJ_u5PxDTq5VoRAuQ&s" group-title="All-In-One~ENT🧩",Boishakhi tv
 https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8
 
-#EXTINF:-1 tvg-id="77" group-title="Movies" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739965013824.png",Jalsha Movies SD(BD IP)
+#EXTINF:-1 tvg-id="77" group-title="Movies" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739965013824.png",Jalsha Movies
 http://103.151.61.12/Jalsha_Movie/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="jalsha_movies_hd" tvg-logo="http://monirul.bro.bd/assets/images/JALSHA MOVIES HD1745034005.png" group-title="Bangla",JALSHA MOVIES HD
@@ -395,10 +395,10 @@ http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Sony-Aath" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20AATH.png",Sony Aath
 https://vortexsu.azmodz.in/sliv/master.php?id=sony_aath.m3u8
 
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="AynaOTT - IN Bangla",Star Jalsha BD IP
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="AynaOTT - IN Bangla",Star Jalsha
 http://103.151.61.12/Star_Jalsha/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="star_jalsha_hd" tvg-logo="http://monirul.bro.bd/assets/images/STAR JALSHA HD1745033819.png" group-title="Bangla",STAR JALSHA HD
+#EXTINF:-1 group-logo="https://i.postimg.cc/mk41wvy1/Jio-TV.jpg" tvg-id="317" group-title="JioTV | Bengali" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Jalsha_HD.png",Star Jalsha HD
 http://103.165.93.31:8095/starJalsha/index.m3u8
 
 #EXTINF:-1 tvg-id="sun_bangla_hd" tvg-logo="http://monirul.bro.bd/assets/images/SUN BANGLA HD1745033791.png" group-title="Bangla",SUN BANGLA HD
@@ -491,25 +491,25 @@ https://vortexsu.azmodz.in/sliv/master.php?id=bbc_earth.m3u8
 #EXTINF:-1 tvg-id="Sony-Pix-HD" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png",Sony PIX HD
 https://vortexsu.azmodz.in/sliv/master.php?id=sony_pix_hd.m3u8
 
-#EXTINF:-1 tvg-id="star_movies_hd" tvg-logo="http://monirul.bro.bd/assets/images/STAR MOVIES HD1745040174.png" group-title="English",STAR MOVIES HD
+#EXTINF:-1 group-logo="https://i.postimg.cc/mk41wvy1/Jio-TV.jpg" tvg-id="1104" group-title="JioTV | English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png",Star Movies HD
 http://103.185.24.134:3001/Star-Movies/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="star_movies_select_hd" tvg-logo="http://monirul.bro.bd/assets/images/STAR MOVIES SELECT HD1745038723.png" group-title="English",STAR MOVIES SELECT HD
+#EXTINF:-1 group-logo="https://i.postimg.cc/mk41wvy1/Jio-TV.jpg" tvg-id="1110" group-title="JioTV | English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png",Star Movies Select HD
 http://103.185.24.134:3001/STAR-MOVIES-SEL-HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="travel_xp" tvg-logo="http://monirul.bro.bd/assets/images/TRAVEL XP1745043118.png" group-title="English",TRAVEL XP
+#EXTINF:-1 group-logo="https://i.postimg.cc/mk41wvy1/Jio-TV.jpg" tvg-id="562" group-title="JioTV | Lifestyle" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP.png",Travelxp HD Hindi
 http://103.159.180.34:5001/live/562.m3u8
 
-#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/history-tv18-hd-hindi.jpg" group-title="SM_IPTV",History TV18 HD Hindi
+#EXTINF:-1 group-logo="https://i.postimg.cc/PrLZryqH/Jio-TV.jpg" tvg-id="578" tvg-name="History TV18 HD Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Hindi.png" group-title="JioTV+ | Infotainment",History TV18 HD Hindi
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://jioplaylistdown.yecic62314.workers.dev/live.m3u8?id=578
 
-#EXTINF:-1 tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/AnimalPlanetHD_Transparent_d36c0ee3-3e3f-4e0c-b3b2-23bfb3c3c2b0.png" group-title="watcho",Animal Planet HD
+#EXTINF:-1 group-logo="https://i.postimg.cc/PrLZryqH/Jio-TV.jpg" tvg-id="3451" tvg-name="Animal Planet HD Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/AnimalPlanetHDHin.png" group-title="JioTV+ | Unknown",Animal Planet HD Hindi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8aaf27b53099505a8307b7df2f61b46c:83692149a2e59a8aae8e39ed6a1f6325
 https://login.bheem.tv/bpk-tv/22052/output/index.mpd
 
-#EXTINF:-1 tvg-id="colors_hd" tvg-logo="http://monirul.bro.bd/assets/images/COLORS HD1745031404.png" group-title="Hindi",COLORS HD
+#EXTINF:-1 group-logo="https://i.postimg.cc/PrLZryqH/Jio-TV.jpg" tvg-id="144" tvg-name="Colors HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsHD.png" group-title="JioTV+ | Entertainment",Colors HD
 https://yowaimo.in/Sflex-ArtlPVT0719/COLORS_HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/Hum.png" group-title="Shoq",Hum TV EUROPE
