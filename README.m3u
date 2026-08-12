@@ -404,7 +404,7 @@ http://103.151.61.12/Star_Jalsha/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/mk41wvy1/Jio-TV.jpg" tvg-id="317" group-title="JioTV | Bengali" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Jalsha_HD.png",Star Jalsha HD
 http://103.165.93.31:8095/starJalsha/index.m3u8
 
-#EXTINF:-1 tvg-id="sun_bangla_hd" tvg-logo="http://monirul.bro.bd/assets/images/SUN BANGLA HD1745033791.png" group-title="Bangla",SUN BANGLA HD
+#EXTINF:-1 group-logo="https://i.postimg.cc/PrLZryqH/Jio-TV.jpg" tvg-id="1669" tvg-name="Sun Bangla" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Bangla.png" group-title="JioTV+ | Bengali",Sun Bangla
 http://103.159.180.34:5001/live/1669.m3u8
 
 #EXTINF:-1 tvg-id="zee_bangla_cinema" tvg-logo="http://monirul.bro.bd/assets/images/ZEE BANGLA CINEMA1745040996.png" group-title="Bangla",ZEE BANGLA CINEMA
