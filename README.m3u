@@ -754,7 +754,7 @@ https://vortexsu.azmodz.in/sliv/master.php?id=sony_ten3_hd.m3u8
 #EXTINF:-1 tvg-id="Ten5HD.in" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png",Sony Sports Ten 5 HD
 https://vortexsu.azmodz.in/sliv/master.php?id=sony_ten5_hd.m3u8
 
-#EXTINF:-1 tvg-id="star_select_1_hd" tvg-logo="http://monirul.bro.bd/assets/images/STAR SELECT 1 HD1745038777.png" group-title="Sports",STAR SELECT 1 HD
+#EXTINF:-1 group-logo="https://i.postimg.cc/PrLZryqH/Jio-TV.jpg" tvg-id="460" tvg-name="Star Sports Select 1 HD" tvg-logo="https://img.media.jio.com/tvpimages/96/65/302113_1749664252703_l_medium.jpg" group-title="JioTV+ | Sports",Star Sports Select 1 HD
 https://yowaimo.in/Sflex-ArtlPVT0719/STAR_SPORTS_SELECT_1_HD.m3u8
 
 #EXTINF:-1 tvg-id="star_sports_1_hd" tvg-logo="http://monirul.bro.bd/assets/images/STAR SPORTS 1 HD1744991778.png" group-title="Sports",STAR SPORTS 1 HD
