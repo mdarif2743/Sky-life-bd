@@ -497,10 +497,10 @@ https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
 
 #EXTINF:-1 tvg-id="SONY-BBC-EarthHD.in" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png",Sony BBC Earth HD
-https://vortexsu.azmodz.in/sliv/master.php?id=bbc_earth.m3u8
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009252|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009252
 
 #EXTINF:-1 tvg-id="Sony-Pix-HD" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png",Sony PIX HD
-https://vortexsu.azmodz.in/sliv/master.php?id=sony_pix_hd.m3u8
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009258|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009258
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/mk41wvy1/Jio-TV.jpg" tvg-id="1104" group-title="JioTV | English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png",Star Movies HD
 http://103.185.24.134:3001/Star-Movies/tracks-v1a1/mono.m3u8
@@ -565,22 +565,22 @@ http://103.159.180.34:5001/live/279.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd/default/manifest.mpd
 
 #EXTINF:-1 tvg-id="SONY-SAB-HD" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png",Sony SAB HD
-https://vortexsu.azmodz.in/sliv/master.php?id=sab_hd.m3u8
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009248|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009248
 
 #EXTINF:-1 tvg-id="SET-HD" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png",SET HD
-https://shoebsitenew.dpdns.org/pushpa/sony.php/set-hd.m3u8
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009246|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009246
 
 #EXTINF:-1 tvg-id="SONY-PAL" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20PAL.png",Sony Pal
-https://vortexsu.azmodz.in/sliv/master.php?id=sony_pal.m3u8
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009273|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009273
 
 #EXTINF:-1 tvg-id="SONY-MAX-HD" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png",Sony Max HD
-https://vortexsu.azmodz.in/sliv/master.php?id=sony_max_hd.m3u8
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009247|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009247
 
 #EXTINF:-1 tvg-id="SONY-MAX2" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX2.png",Sony MAX2
-https://vortexsu.azmodz.in/sliv/master.php?id=sony_max2.m3u8
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000044878|referer=https://playyonogames.in/sliv/stream.m3u8?id=100044878
 
 #EXTINF:-1 tvg-id="SONY-WAH" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_WAH.png",Sony WAH
-https://vortexsu.azmodz.in/sliv/master.php?id=sony_wah.m3u8
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009253|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009253
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/PrLZryqH/Jio-TV.jpg" tvg-id="931" tvg-name="Star Bharat HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Bharat_HD.png" group-title="JioTV+ | Entertainment",Star Bharat HD
 
@@ -754,16 +754,16 @@ https://playztv-apps.pages.dev/asports/index.m3u8
 https://flussonic.defineatoz.com/PTV/index.m3u8
 
 #EXTINF:-1 tvg-id="Ten1HD" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png",Sony Sports Ten 1 HD
-https://vortexsu.azmodz.in/sliv/master.php?id=sony_ten1_hd.m3u8
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009276|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009276
 
 #EXTINF:-1 tvg-id="Ten2HD" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png",Sony Sports Ten 2 HD
-https://vortexsu.azmodz.in/sliv/master.php?id=sony_ten2_hd.m3u8
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009277|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009277
 
 #EXTINF:-1 tvg-id="Ten3HD.in" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_Sports_Ten_3_Hindi_HD.png",Sony Sports Ten 3 HD
-https://vortexsu.azmodz.in/sliv/master.php?id=sony_ten3_hd.m3u8
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009278|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009278
 
 #EXTINF:-1 tvg-id="Ten5HD.in" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png",Sony Sports Ten 5 HD
-https://vortexsu.azmodz.in/sliv/master.php?id=sony_ten5_hd.m3u8
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009281|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009281
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/PrLZryqH/Jio-TV.jpg" tvg-id="460" tvg-name="Star Sports Select 1 HD" tvg-logo="https://img.media.jio.com/tvpimages/96/65/302113_1749664252703_l_medium.jpg" group-title="JioTV+ | Sports",Star Sports Select 1 HD
 http://103.114.11.37:8081/Star-select-1/index.m3u8?token=dsgdfgsdfgasf
