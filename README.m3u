@@ -19,6 +19,9 @@ https://flussonic.defineatoz.com/Starsports1/tracks-v1a1/mono.m3u8?
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfuWqU0Dvt9BsOvdSe0aWvtjtK5Cq70vr2D1MZWhytGmgRFUORDOysyrOy&s=10" group-title="live sports", BAN VS AUS TEST MATCH
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/281153.m3u8
 
+#EXTINF:-1 tvg-id="Si Solo Calcio.it" tvg-logo="https://i.ibb.co.com/7Q5vVhy/sportitaliaplus.png" group-title="SPORTS" , SOLOCALCIO ITALIA
+https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8
+
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
