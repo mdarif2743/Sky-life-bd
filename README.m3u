@@ -788,7 +788,7 @@ https://flussonic.defineatoz.com/PTV/index.m3u8
 https://flussonic.defineatoz.com/SonySports1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Ten2HD" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png",Sony Sports Ten 2 HD
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-SonyTen_2.m3u8
+https://flussonic.defineatoz.com/sonysport2L/index.m3u8
 
 #EXTINF:-1 tvg-id="Ten3HD.in" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_Sports_Ten_3_Hindi_HD.png",Sony Sports Ten 3 HD
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-SonyTen_3.m3u8
