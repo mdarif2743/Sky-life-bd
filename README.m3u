@@ -800,7 +800,7 @@ https://flussonic.defineatoz.com/sonysport2L/index.m3u8
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-SonyTen_3.m3u8
 
 #EXTINF:-1 tvg-id="Ten5HD.in" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png",Sony Sports Ten 5 HD
-https://playyonogames.in/sliv/stream.m3u8?id=1000009275|Referer=https://playyonogames.in/
+http://103.185.24.134:3001/SONY-SPORTS.5HD/index.m3u8
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/PrLZryqH/Jio-TV.jpg" tvg-id="460" tvg-name="Star Sports Select 1 HD" tvg-logo="https://img.media.jio.com/tvpimages/96/65/302113_1749664252703_l_medium.jpg" group-title="JioTV+ | Sports",Star Sports Select 1 HD
 http://103.114.11.37:8081/Star-select-1/index.m3u8?token=dsgdfgsdfgasf
