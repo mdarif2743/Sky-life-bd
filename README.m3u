@@ -316,6 +316,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/index.m3u8?e=1782759193&u=f54c14f5-0c1d-4106-885c-3bcd7626f69f&token=e8e7c85b8e5634c0d9caf3292f553982
 
 #EXTINF:-1 tvg-chno="117" tvg-id="21e75798-3b6a-4214-9d93-b3fecaa4e700" tvg-name="Bangla Vision" tvg-logo="https://s3.aynaott.com/storage/e86c14566b4d5b6dd68ac37dce4f6043" group-title="Recorded TV",Bangla Vision
+https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8
 http://103.165.93.31:8095/banglaVision/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="asiah_tv" tvg-logo="http://monirul.bro.bd/assets/images/Asiah Tv1752498724.png" group-title="Bangla",Asiah Tv
@@ -371,6 +372,7 @@ https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8
 http://tvsen5.aynascope.net/RtvHD/index.m3u8
 
 #EXTINF:-1 tvg-id="1a2c8ec3-61d5-4355-80e2-fc3c9b178a0d" tvg-name="NTV" tvg-logo="https://s3.aynaott.com/storage/73c39182782a201338070c2f4429e449" group-title="Recorded TV",NTV
+https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
 http://103.165.93.31:8095/ntv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="0be12af9-e713-4c65-b4ed-b735793a0418" tvg-name="Deepto TV" tvg-logo="https://imglink.cc/cdn/2ODX-FAGY4.png" group-title="Recorded TV",Deepto TV
@@ -380,6 +382,7 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 https://cdn.ghuddi.live/Bangla_TV/Bangla_TV_BD/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ekattor_tv" tvg-logo="http://monirul.bro.bd/assets/images/Ekattor Tv1750866647.png" group-title="Bangla",Ekattor Tv
+https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8
 http://103.165.93.31:8095/ekattorTv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="enterr_10" tvg-logo="http://monirul.bro.bd/assets/images/ENTERR 101745044330.png" group-title="Bangla",ENTERR 10
@@ -395,8 +398,6 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/nexus-tv.png" group-title="SM_IPTV",Nexus TV
-#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
-https://ftp.assadikb.workers.dev/stream.m3u8?id=nexus_tv
 
 #EXTINF:-1 tvg-id="independent_tv" tvg-logo="http://monirul.bro.bd/assets/images/INDEPENDENT TV1745044077.png" group-title="Bangla",INDEPENDENT TV
 https://tvsen6.aynaott.com/Wef2Vj67njeYGDqQNFB9/index.m3u8
