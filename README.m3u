@@ -10,6 +10,10 @@ https://sonymtmnew-akamaized.pages.dev/hls/live/20000296/England_2108/ENG/master
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="England vs Pakistan", England vs Pakistan (TAMASHA - AQ)
 https://cdn06khi-n.tamashaweb.com:8087/jazzauth/PAKvsEng-Test-SVOD-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDI2IDk6NDQ6NDcgQU0maGFzaF92YWx1ZT1VVmp4c1lmVFhEQ3hPNklqNDRUalV3PT0mdmFsaWRtaW51dGVzPTYw
 
+#EXTINF:-1 tvg-logo="https://media.crictracker.com/media/attachments/1770648099852_ACC-Asia-Cup-Womens.jpeg", WOMENS ASIA CUP LIVE( THAMASA)
+https://cdn03lhr-n.tamashaweb.com:8087/jazzauth/wac2026-avod-abr/live/AsiaCup-promo/chunks.m3u8?nimblesessionid=19381867&wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDI2IDExOjI5OjQ0IEFNJmhhc2hfdmFsdWU9c09vTFEydVFlVkZURW01Z1VtMUJodz09JnZhbGlkbWludXRlcz02MA%3D%3D
+
+
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/mdarif2743/Sky-life-bd/main/IMG_20260723_130039_939.jpg", SKY LIFE BD(FREE IPTV)
 https://raw.githubusercontent.com/mdarif2743/Sky-life-bd/main/IMG_20260723_130039_939.jpg
 
