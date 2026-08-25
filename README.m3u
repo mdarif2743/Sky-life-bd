@@ -378,7 +378,7 @@ https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8
 
 #EXTINF:-1 tvg-id="56f7abf3-1586-4f6d-9df2-1726ccb43779" tvg-name="Channel 9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/500px-Channel9_bd.svg.png" group-title="Channels",Channel 9
 #https://akash-by-hady.srhady.workers.dev/live/188.m3u8
-https://tvsen6.aynaott.com/kajlsd57jnkdf/tracks-v1a1/mono.ts.m3u8
+#https://tvsen6.aynaott.com/kajlsd57jnkdf/tracks-v1a1/mono.ts.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel9hd.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="d07563b0-7580-4cbd-a7c9-e67535c0164a" tvg-name="SA TV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png" group-title="Channels",SA TV
@@ -388,12 +388,13 @@ https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8?e=1782759193&u=f54c14
 https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/PrLZryqH/Jio-TV.jpg" tvg-id="1657" tvg-name="Colors Bangla Cinema" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" group-title="JioTV+ | Bengali",Colors Bangla Cinema
-
+http://103.114.11.37:8081/Colors-bangla-cinema/index.m3u8?token=dsgdfgsdfgasf
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/PrLZryqH/Jio-TV.jpg" tvg-id="1369" tvg-name="Colors Bangla SD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_SD.png" group-title="JioTV+ | Bengali",Colors Bangla SD
 
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/PrLZryqH/Jio-TV.jpg" tvg-id="756" tvg-name="Colors Bangla HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bengali_HD.png" group-title="JioTV+ | Bengali",Colors Bangla HD
+http://103.114.11.37:8081/Colors-bangla/index.m3u8?token=dsgdfgsdfgasf
 https://footfytv.pro/proxy/direct?url=http://livetv.akr4m.com:8080/bdtv/restrem/34.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/00/Tata_Play_BC_logo_2022.png/revision/latest?cb=20220128021535https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/00/Tata_Play_BC_logo_2022.png/revision/latest?cb=20220128021535" group-title="Relagion Channel", tata play Bangla cinema
@@ -434,7 +435,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/nexus-tv.png" group-title="SM_IPTV",Nexus TV
-https://cache.devm3u.top/live/nexus.m3u8
+
 
 #EXTINF:-1 tvg-id="independent_tv" tvg-logo="http://monirul.bro.bd/assets/images/INDEPENDENT TV1745044077.png" group-title="Bangla",INDEPENDENT TV
 #https://akash-by-hady.srhady.workers.dev/live/96.m3u8
@@ -496,6 +497,7 @@ http://103.114.11.37:8081/Sony-8/index.m3u8?token=dsgdfgsdfgasf
 http://103.151.61.12/Star_Jalsha/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/mk41wvy1/Jio-TV.jpg" tvg-id="317" group-title="JioTV | Bengali" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Jalsha_HD.png",Star Jalsha HD
+http://103.114.11.37:8081/Star-Jalsha/index.m3u8?token=dsgdfgsdfgasf
 https://footfytv.pro/proxy/direct?url=http://livetv.akr4m.com:8080/bdtv/restrem/33.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1042,6 +1044,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 http://158.69.24.53:8080/probashi_tv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BadhanStrom/img/refs/heads/main/G-Series_Logo.png" group-title="SKY LIFE BD",Drama 24
+http://103.114.11.37:8081/GseriesDrama/index.m3u8?token=dsgdfgsdfgasf
 https://vods2.aynascope.net/gseriesDrama/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://channeleurope.tv/storage/settings/BNyRMyomifMQ7VlzvHKbNwCfzxM7kF4Vq7bj4zxZ.png",Channel Europe
