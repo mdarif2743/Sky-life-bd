@@ -60,24 +60,10 @@ https://cache4.zapitv.com/live/eds_c2/HYPERMOTION2/dash_live_ez/HYPERMOTION2.mpd
 https://cdn06khi-n.tamashaweb.com:8087/jazzauth/PAKvsEng-Test-SVOD-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDI2IDk6NDQ6NDcgQU0maGFzaF92YWx1ZT1VVmp4c1lmVFhEQ3hPNklqNDRUalV3PT0mdmFsaWRtaW51dGVzPTYw
 
 #EXTINF:-1 tvg-logo="https://media.crictracker.com/media/attachments/1770648099852_ACC-Asia-Cup-Womens.jpeg", WOMENS ASIA CUP LIVE( THAMASA)
-https://cdn03lhr-n.tamashaweb.com:8087/jazzauth/wac2026-avod-abr/live/AsiaCup-promo/chunks.m3u8?nimblesessionid=19381867&wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDI2IDExOjI5OjQ0IEFNJmhhc2hfdmFsdWU9c09vTFEydVFlVkZURW01Z1VtMUJodz09JnZhbGlkbWludXRlcz02MA%3D%3D
 
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/mdarif2743/Sky-life-bd/main/IMG_20260723_130039_939.jpg", SKY LIFE BD(FREE IPTV)
 https://raw.githubusercontent.com/mdarif2743/Sky-life-bd/main/IMG_20260723_130039_939.jpg
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfuWqU0Dvt9BsOvdSe0aWvtjtK5Cq70vr2D1MZWhytGmgRFUORDOysyrOy&s=10" group-title="live sports", BAN VS AUS TEST MATCH FOX CRICKET
-https://aps11.playlist.ttvnw.net/v1/playlist/CrUEfw27JqMjwhiQL4SpFwJ7w6c4YLlwvrnhRkODlVK8tQf5Vr99IIupPAL0X5ZNwvcHb5Jn4kuJMDih8cjgbUJIyAZMY_yGwNUtu0DDl4h1aQ_7n0G2nvIZLxW1tZ-pFMATjpczEb7WXzSogJF_Y51OdyPP4GmfDz0Gs8T_WuAttPBt9Uf7P9PZKChvzaZPq1KCASTMckhicPeCOYXZCp0sBu6u5psfA-oXy3oB1ZIex-6ZY9axEBePhdJQ9ctFywEggoHKjcAvoTEaygH2sia1HD6qiRtWjO9bRF6ED2CGEUeOl11n-ZcGlnULbOCYQ7R2k3ZxaGFBaHD_P40G5aRU-bFHim7INeoOj7HTKZiBU0PpsWjZFY7D8eEJCcCXQXMxgjNkgZkg9A89Nyg4Ce_KEhE1nh_R-IoNwT2LH0hK3Jwnjiq5pyWeb8krf7BzJYs90xfyKBlwp1ri1bBRM-FJIt-EHH6Q1oFeI5ELNyejHhdHQvaTpfyjznnvwPh0tP92DHCiiwK2Hgbg9ntUIPH5K5ndwnIOhVyyjfD7xP8im25f25qk4yLiWUKqe8iYBfmRnqz-L0TLb5QpmJkl0ewa2DTILrdpUuqOOZSSdmHKSslNmeTLF6dyxe2MfaixWd4TgCofoiMJaN9MJ4z4tMvns8q6uRHpJBSfhPXYSVkfT4txPQJgEteUnyxZOKt0zWdTnBz0JyLvawj_XTXaMbXPP5NCOeBKoMuYrBeY2BPbRwfiUvU2pxoM--kHTG2SGts0eGxYIAEqCXVzLXdlc3QtMjDrDw.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfuWqU0Dvt9BsOvdSe0aWvtjtK5Cq70vr2D1MZWhytGmgRFUORDOysyrOy&s=10" group-title="live sports", BAN VS AUS TEST MATCH FOX CRICKET
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bn-ch-1/1104678.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfuWqU0Dvt9BsOvdSe0aWvtjtK5Cq70vr2D1MZWhytGmgRFUORDOysyrOy&s=10" group-title="live sports", BAN VS AUS TEST MATCH STAR NETWORK
-https://footfytv.pro/proxy/direct?url=http://livetv.akr4m.com:8080/bdtv/restrem/39.m3u8
-https://flussonic.defineatoz.com/Starsports1/tracks-v1a1/mono.m3u8?
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfuWqU0Dvt9BsOvdSe0aWvtjtK5Cq70vr2D1MZWhytGmgRFUORDOysyrOy&s=10" group-title="live sports", BAN VS AUS TEST MATCH
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/281153.m3u8
 
 #EXTINF:-1 tvg-id="Si Solo Calcio.it" tvg-logo="https://i.ibb.co.com/7Q5vVhy/sportitaliaplus.png" group-title="SPORTS" , SOLOCALCIO ITALIA
 https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8
