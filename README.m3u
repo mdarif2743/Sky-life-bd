@@ -915,30 +915,39 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bn-ch-1/1110
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bn-ch-1/1110665.m3u8
 
 #EXTINF:-1 tvg-id="SKY.Sport.1.nz" tvg-logo="https://i.postimg.cc/wxDNzRcQ/sky-sport-1.png" group-title="WORLD SPORTS",Sky Sport1 NZ FHD
+http://45.12.32.190:8080/UK-SkySport1NZ/video.m3u8
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bn-ch-1/1104679.m3u8
 
 #EXTINF:-1 tvg-id="SKY.Sport.2.nz" tvg-logo="https://i.postimg.cc/KvFM8c0S/sky_sport_2.png" group-title="WORLD SPORTS",Sky Sport2 NZ FHD
+http://45.12.32.190:8080/UK-SkySport2NZ/video.m3u8
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spr7/809393.m3u8
 
 #EXTINF:-1 tvg-id="SKY.Sport.3.nz" tvg-logo="https://i.postimg.cc/L88gjCdx/sky_sport_3.png" group-title="WORLD SPORTS",Sky Sport3 NZ FHD
+http://45.12.32.190:8080/UK-SkySport3NZ/video.m3u8
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bn-ch-1/1127566.m3u8
 
 #EXTINF:-1 tvg-id="SKY.Sport.4.nz" tvg-logo="https://i.postimg.cc/52KYgBbb/sky-sport-4.png" group-title="WORLD SPORTS",Sky Sport4 NZ FHD
+http://45.12.32.190:8080/UK-SkySport4NZ/video.m3u8
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bn-ch-1/1104680.m3u8
 
 #EXTINF:-1 tvg-id="SKY.Sport.5.nz" tvg-logo="https://i.postimg.cc/3wyyckxp/sky_sport_5.png" group-title="WORLD SPORTS",Sky Sport5 NZ FHD
+http://45.12.32.190:8080/UK-SkySport5NZ/video.m3u8
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1424314.m3u8
 
 #EXTINF:-1 tvg-id="SKY.Sport.6.nz" tvg-logo="https://i.postimg.cc/LsrqKmJW/sky_sport_6.png" group-title="WORLD SPORTS",Sky Sport6 NZ FHD
+http://45.12.32.190:8080/UK-SkySport6NZ/video.m3u8
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1424313.m3u8
 
 #EXTINF:-1 tvg-id="SKY.Sport.7.nz" tvg-logo="https://i.postimg.cc/G2G4b6Ym/sky_sport_7.png" group-title="WORLD SPORTS",Sky Sport7 NZ FHD
+http://45.12.32.190:8080/UK-SkySport7NZ/video.m3u8
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1424312.m3u8
 
 #EXTINF:-1 tvg-id="SKY.Sport.8.nz" tvg-logo="https://i.postimg.cc/PJMNwZSG/Sky-Sport-PL.png" group-title="WORLD SPORTS",Sky Sport Premier League FHD
+http://45.12.32.190:8080/UK-SkySport8NZ/video.m3u8
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1424311.m3u8
 
 #EXTINF:-1 tvg-id="sky.sport.9.nz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Sky_Sport_9_NZ.svg/revision/latest/scale-to-width-down/200?cb=20230830143632", SKY SPORT NZ 9
+http://45.12.32.190:8080/UK-SkySport9NZ/video.m3u8
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1424310.m3u8
 
 #EXTINF:0 tvg-id="BEINSPORT 1 FR" tvg-logo="https://i.ibb.co.com/TM78YHzf/BEIN1.png" group-title="SPORTS",BEIN SPORT 1 AU
