@@ -491,7 +491,7 @@ https://cdn-4.pishow.tv/live/1143/master.m3u8
 http://103.175.73.12:8080/live/379/379_0.m3u8
 
 #EXTINF:-1 tvg-id="somoy_tv" tvg-logo="http://monirul.bro.bd/assets/images/SOMOY TV1745044149.png" group-title="Bangla",SOMOY TV
-
+https://flussonic.defineatoz.com/somoy1/index.m3u8?token=b73d29bb194d96c48900446ea875df7df78ece98-794472f6e3fd0954c3a76dc8da74ae6c-1781458548-1781447748&remote=103.114.23.14
 https://akash-by-hady.srhady.workers.dev/live/318.m3u8
 
 #EXTINF:-1 tvg-id="Sony-Aath" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20AATH.png",Sony Aath
@@ -502,6 +502,7 @@ http://103.114.11.37:8081/Sony-8/index.m3u8?token=dsgdfgsdfgasf
 http://103.151.61.12/Star_Jalsha/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/mk41wvy1/Jio-TV.jpg" tvg-id="317" group-title="JioTV | Bengali" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Jalsha_HD.png",Star Jalsha HD
+https://flussonic.defineatoz.com/StarjalshaHD/tracks-v1a1/mono.m3u8
 http://103.114.11.37:8081/Star-Jalsha/index.m3u8?token=dsgdfgsdfgasf
 https://footfytv.pro/proxy/direct?url=http://livetv.akr4m.com:8080/bdtv/restrem/33.m3u8
 
