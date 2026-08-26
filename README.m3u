@@ -439,6 +439,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/nexus-tv.png" group-title="SM_IPTV",Nexus TV
+https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8
 https://stream.ottplus.live/live/nexus_tv_abr/index.m3u8
 
 #EXTINF:-1 tvg-id="independent_tv" tvg-logo="http://monirul.bro.bd/assets/images/INDEPENDENT TV1745044077.png" group-title="Bangla",INDEPENDENT TV
@@ -502,8 +503,8 @@ http://103.114.11.37:8081/Sony-8/index.m3u8?token=dsgdfgsdfgasf
 http://103.151.61.12/Star_Jalsha/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/mk41wvy1/Jio-TV.jpg" tvg-id="317" group-title="JioTV | Bengali" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Jalsha_HD.png",Star Jalsha HD
-https://flussonic.defineatoz.com/StarjalshaHD/tracks-v1a1/mono.m3u8
-http://103.114.11.37:8081/Star-Jalsha/index.m3u8?token=dsgdfgsdfgasf
+#https://flussonic.defineatoz.com/StarjalshaHD/tracks-v1a1/mono.m3u8
+#http://103.114.11.37:8081/Star-Jalsha/index.m3u8?token=dsgdfgsdfgasf
 https://footfytv.pro/proxy/direct?url=http://livetv.akr4m.com:8080/bdtv/restrem/33.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
