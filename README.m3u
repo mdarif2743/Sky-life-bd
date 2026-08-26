@@ -500,7 +500,7 @@ https://flussonic.defineatoz.com/sony8/tracks-v1a1/mono.m3u8?
 http://103.114.11.37:8081/Sony-8/index.m3u8?token=dsgdfgsdfgasf
 
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="AynaOTT - IN Bangla",Star Jalsha
-http://103.151.61.12/Star_Jalsha/tracks-v1a1/mono.m3u8
+http://103.151.60.162:2122/play/a00w/index.m3u8?hls
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/mk41wvy1/Jio-TV.jpg" tvg-id="317" group-title="JioTV | Bengali" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Jalsha_HD.png",Star Jalsha HD
 #https://flussonic.defineatoz.com/StarjalshaHD/tracks-v1a1/mono.m3u8
