@@ -829,7 +829,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/pl
 http://103.175.73.12:8080/live/157/157_0.m3u8
 
 #EXTINF:-1 tvg-id="disney-channel" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_Channel.png" group-title="Kids",Disney Channel
-https://yowaimo.in/Sflex-ArtlPVT0719/DISNEY_CHANNEL.m3u8
+
 
 #EXTINF:-1 tvg-id="disney-channel" tvg-logo="https://live.dinesh29.com.np/logos/disney-channel.png" group-title="Kids",Disney Channel HD
 
@@ -844,7 +844,7 @@ https://tvsen5.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.fmp4.m3u8?token=8085c39b75
 https://sony.dongobd247.workers.dev/stream.m3u8?id=1000001971|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000001971
 
 #EXTINF:-1 tvg-id="nick" tvg-logo="http://monirul.bro.bd/assets/images/NICK1745041451.png" group-title="Kids",NICK
-http://103.165.93.31:8095/nick/tracks-v1a1/mono.m3u8
+https://jioplaylistdown.yecic62314.workers.dev/live.m3u8?id=1341
 
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143663_ld_h15_aa.png" group-title="watcho",Pogo
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -857,7 +857,7 @@ https://login.bheem.tv/bpk-tv/22603/output/index.mpd
 https://login.bheem.tv/bpk-tv/22096/output/index.mpd
 
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sonic-bangla.png" group-title="SM_IPTV",Sonic Bangla
-http://103.165.93.31:8095/sonic/tracks-v1a1/mono.m3u8
+https://jioplaylistdown.yecic62314.workers.dev/live.m3u8?id=1345
 
 #EXTINF:-1 tvg-id="super_hungama" tvg-logo="http://monirul.bro.bd/assets/images/SUPER HUNGAMA1745044022.png" group-title="Kids",SUPER HUNGAMA
 
