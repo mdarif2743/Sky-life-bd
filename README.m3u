@@ -495,6 +495,7 @@ http://103.175.73.12:8080/live/379/379_0.m3u8
 https://akash-by-hady.srhady.workers.dev/live/318.m3u8
 
 #EXTINF:-1 tvg-id="Sony-Aath" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20AATH.png",Sony Aath
+https://flussonic.defineatoz.com/sony8/tracks-v1a1/mono.m3u8?
 http://103.114.11.37:8081/Sony-8/index.m3u8?token=dsgdfgsdfgasf
 
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="AynaOTT - IN Bangla",Star Jalsha
