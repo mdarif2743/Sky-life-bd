@@ -3,7 +3,7 @@ telegram:-@SKY LIFE BD
 
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
 #EXTM3U x-tvg-url="https://github.com/whythishome/epg/raw/refs/heads/master/guides/dishtv.in_en.xml.gz"
-#EXTM3U
+#EXTM3U x-tvg-url="https://tinyurl.com/39f3fps2"
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4dpY8jy9em0gIQ7QJzw9DdP0H0uMiI99fQLeumVi5S0FRRJ4rZYRcVFA&s=10", EPL LIVE
 https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
 
