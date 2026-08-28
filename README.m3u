@@ -702,7 +702,7 @@ http://38.96.178.205/SONYHD/index.m3u8
 https://playyonogames.in/sliv/stream.m3u8?id=1000009273|Referer=https://playyonogames.in/
 
 #EXTINF:-1 tvg-id="SONY-MAX-HD" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png",Sony Max HD
-http://180.94.28.28:8097//SONY-MAX/index.fmp4.m3u8?token=3cb50ef3d94ad1661590b7d21df6f5f56856da25-0e28ff981157c82e879c35fbff082361-1776169972-1776166372&remote=no_check_ip
+http://103.155.18.186:8000/play/a01g/index.m3u8
 https://playyonogames.in/sliv/stream.m3u8?id=1000009247|Referer=https://playyonogames.in/
 
 #EXTINF:-1 tvg-id="SONY-MAX2" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX2.png",Sony MAX2
