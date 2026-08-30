@@ -917,6 +917,7 @@ http://103.175.73.12:8080/live/157/157_0.m3u8
 https://tvsen5.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.fmp4.m3u8?token=8085c39b75eb330d9d7efaafcee5c76a7af26c73-9dd5ea0cac753602d5fb9b7846bdf5e2-1782752593-1782751693&remote=no_check_ip
 
 #EXTINF:-1 tvg-id="hungama" tvg-logo="http://monirul.bro.bd/assets/images/HUNGAMA1745041551.png" group-title="Kids",HUNGAMA
+http://sm-monirul.xyz/@monirul_Islam_SM/server/stream.php?id=hungame&sm=.m3u8
 
 #EXTINF:-1 tvg-id="SONY-YAY!.in" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20YAY.png",Sony Yay
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 16) ExoPlayerLib/2.14.1
