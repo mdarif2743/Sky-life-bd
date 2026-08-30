@@ -937,8 +937,8 @@ https://login.bheem.tv/bpk-tv/22096/output/index.mpd
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sonic-bangla.png" group-title="SM_IPTV",Sonic Bangla
 https://jioplaylistdown.yecic62314.workers.dev/live.m3u8?id=1345
 
-#EXTINF:-1 tvg-id="super_hungama" tvg-logo="http://monirul.bro.bd/assets/images/SUPER HUNGAMA1745044022.png" group-title="Kids",SUPER HUNGAMA
-
+#EXTINF:-1 tvg-id="duranta" tvg-logo="" group-title="Kids", দুরন্ত টিভি
+http://103.165.93.31:8095/duranta/index.m3u8
 
 #EXTINF:-1 tvg-id="madani_tv_hd" tvg-logo="http://monirul.bro.bd/assets/images/MADANI TV HD1745044303.png" group-title="Islamic",MADANI TV HD
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
