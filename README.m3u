@@ -111,8 +111,8 @@ https://cache4.zapitv.com/live/eds_c2/HYPERMOTION2/dash_live_ez/HYPERMOTION2.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="England vs Pakistan", England vs Pakistan (TAMASHA - AQ)
 
 
-#EXTINF:-1 tvg-logo="https://media.crictracker.com/media/attachments/1770648099852_ACC-Asia-Cup-Womens.jpeg", WOMENS ASIA CUP LIVE( THAMASA)
-
+#EXTINF:-1 tvg-logo="https://media.crictracker.com/media/attachments/1770648099852_ACC-Asia-Cup-Womens.jpeg", WOMENS ASIA CUP LIVE( T sports)
+https://footfytv.pro/proxy/direct?url=http://livetv.akr4m.com:8080/bdtv/restrem/2.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/mdarif2743/Sky-life-bd/main/IMG_20260723_130039_939.jpg", SKY LIFE BD(FREE IPTV)
 https://raw.githubusercontent.com/mdarif2743/Sky-life-bd/main/IMG_20260723_130039_939.jpg
