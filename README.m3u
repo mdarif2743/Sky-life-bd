@@ -362,6 +362,7 @@ https://p4kp.rjmbts.workers.dev/15521.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZcJANelaW8aBRREj0hAfcWIjvYWJdJ_Epg&usqp=CAU",Willow Cricket 2
+http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/418785.m3u8
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-Willow2.m3u8
 
 #EXTINF:-1 tvg-chno="410" tvg-id="Fox.501.uk" tvg-logo="http://greenpa1.com/fox.png" group-title="Sports",Fox Sports 501 HD
