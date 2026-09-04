@@ -779,8 +779,8 @@ https://footfytv.pro/proxy/direct?url=http://livetv.akr4m.com:8080/bdtv/restrem/
 https://s3.itcnbd.live/server-6/stream/resource/aHR0cDovLzE3Mi4xNi4yMDAuMjA1OjgwODgvNDAyL3RyYWNrcy12MWExL21vbm8ubTN1OD90b2tlbj02ZjgwYWI5YmQ5OTU4N2JiZmU4ZTdkNDk2NzZkMDhkMmE4ZDBlNzc0LWViYjlkNTNlNzhiYTUyYTFjN2E2M2JlMjU5YzkzNjUwLTE3ODY4MDY0MjUtMTc4NjgwMjgyNQ
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/PrLZryqH/Jio-TV.jpg" tvg-id="156" tvg-name="Star Gold HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="JioTV+ | Movies",Star Gold HD
+http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/181357.m3u8
 http://66.102.126.10:8000/play/a00f/index.m3u8
-http://103.114.11.37:8081/StarGold/index.m3u8?token=dsgdfgsdfgasf
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/PrLZryqH/Jio-TV.jpg" tvg-id="1113" tvg-name="Star Gold Select HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Select_HD.png" group-title="JioTV+ | Movies",Star Gold Select HD
 http://66.102.126.10:8000/play/a01s/index.m3u8
