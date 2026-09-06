@@ -4,19 +4,19 @@ telegram:-@SKY LIFE BD
 #EXTM3U x-tvg-url="https://github.com/whythishome/epg/raw/refs/heads/master/guides/dishtv.in_en.xml.gz"
 #EXTINF:-1 x-tvg-url="https://tinyurl.com/39f3fps2"
 
-#EXTINF:-1 tvg-chno="407" tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2023/08/10-CricLife1-Logo_02_Web-site-logo-150x120pxl_.png", starzplay 2
+#EXTINF:-1 tvg-chno="407" tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2026/05/83_STARZPLAY-Sports-2.png", starzplay 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ee861edcd99093153a763a94b14c2c5a:ab3991f6a7729ba1ea4bcdba0c1ae6c0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://sps2.starzplayarabia.com/out/v1/15e7d1ffb99746dda03f71dbbbc3c08b/index.mpd
 
-#EXTINF:-1 tvg-chno="408" tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2023/08/10-CricLife1-Logo_02_Web-site-logo-150x120pxl_.png", starzplay 3
+#EXTINF:-1 tvg-chno="408" tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2026/05/84_STARZPLAY-Sports-3.png", starzplay 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=117c29396ec6fd295880013241a466e1:3dfb883251884e66d784111877c44b13
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://sps3.starzplayarabia.com/out/v1/95528122fa434bcd948c9ed2e7afabee/index.mpd
 
-#EXTINF:-1 tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2023/08/10-CricLife1-Logo_02_Web-site-logo-150x120pxl_.png", starzplay 1
+#EXTINF:-1 tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2026/05/82_STARZPLAY-Sports-1.png", starzplay 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b253c726c24c7c94a3ddf9b1907e2c76:097963d6ad73c3d712a104981de0ed42
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -43,17 +43,17 @@ https://footfytv.pro/proxy/direct?url=http://livetv.akr4m.com:8080/bdtv/restrem/
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991387/168x168.png?type=color_onBlack" group-title="体育",beIN Sports Xtra
 https://bein-xtra-bein.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Football", STC TV 1
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/61c3a4fb9bb7436c6b992313/1674071184198-O4O3CVR2L3NY8YAOGSKW/Portfolio+-++STCTV.png" group-title="Football", STC TV 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=714c789c76686632652eefc19f18c3db:962cee49ee9422b44a6c60a7999854ad
 https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STCT1/wv-pr/manifest.mpd174e90a58a1f2c024be4c9/cenc.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="Football", STC TV 2
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/61c3a4fb9bb7436c6b992313/1674071184198-O4O3CVR2L3NY8YAOGSKW/Portfolio+-++STCTV.png" group-title="Football", STC TV 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=97e293d59ed72db87f12fe7075d8bb4c:c633955e4477ed5acbae68a2b0f1d216
 https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STCT2/wv-pr/manifest.mpd5934f3a8de4358e69eab86c/cenc.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="Football", STC TV 3
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/61c3a4fb9bb7436c6b992313/1674071184198-O4O3CVR2L3NY8YAOGSKW/Portfolio+-++STCTV.png" group-title="Football", STC TV 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4bc8e4e871589a45e7c0c7d245c243c6:4c5e8108e0f3cea4b588f5727d3de482
 https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/STCT3/wv-pr/manifest.mpd
