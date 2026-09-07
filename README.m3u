@@ -551,6 +551,7 @@ https://footfytv.pro/proxy/direct?url=http://livetv.akr4m.com:8080/bdtv/restrem/
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/PrLZryqH/Jio-TV.jpg" tvg-id="756" tvg-name="Colors Bangla HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bengali_HD.png" group-title="JioTV+ | Bengali",Colors Bangla HD
 #http://103.165.93.31:8095/colorsBangla/tracks-v1a1/mono.m3u8
+http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/25088.m3u8
 https://footfytv.pro/proxy/direct?url=http://livetv.akr4m.com:8080/bdtv/restrem/34.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/00/Tata_Play_BC_logo_2022.png/revision/latest?cb=20220128021535https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/00/Tata_Play_BC_logo_2022.png/revision/latest?cb=20220128021535" group-title="Relagion Channel", tata play Bangla cinema
@@ -642,6 +643,7 @@ https://flussonic.defineatoz.com/backup/tracks-v1a1/mono.m3u8?remote=103.114.23.
 https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8
 
 #EXTINF:-1 tvg-id="sangeet_bangla" tvg-logo="http://monirul.bro.bd/assets/images/Sangeet Bangla1750870252.png" group-title="Bangla",Sangeet Bangla
+http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/25082.m3u8
 https://cdn-4.pishow.tv/live/1143/master.m3u8
 http://103.175.73.12:8080/live/379/379_0.m3u8
 
