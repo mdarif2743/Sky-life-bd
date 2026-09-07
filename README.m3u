@@ -599,7 +599,7 @@ https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8
 https://stream.ottplus.live/live/nexus_tv_abr/index.m3u8
 
 #EXTINF:-1 tvg-id="independent_tv" tvg-logo="http://monirul.bro.bd/assets/images/INDEPENDENT TV1745044077.png" group-title="Bangla",INDEPENDENT TV
-#https://akash-by-hady.srhady.workers.dev/live/96.m3u8
+https://footfytv.pro/proxy/direct?url=http://livetv.akr4m.com:8080/bdtv/restrem/23.m3u8
 https://tvsen6.aynaott.com/Wef2Vj67njeYGDqQNFB9/index.m3u8
 
 #EXTINF:-1 tvg-name="Ekhon Tv" tvg-logo="https://i.postimg.cc/SNnz9nWH/Ekhon-Logo.png" group-title="All-In-One~ENT🧩",Ekhon Tv
@@ -908,8 +908,6 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood/default/manifest.mpd
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction/default/manifest.mpd
 
 #EXTINF:-1 tvg-chno="339" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022HVX3.png?lock=720x540" group-title="Movies",Zee Cinema HD
-http://180.94.28.28:8097//ZEE-CINEMA/index.fmp4.m3u8?token=0e73452eabec9200801db1b31a9ec47a0808face-62fc389819392a38f719f3a9e375f563-1776169973-1776166373&remote=no_check_ip
-http://103.114.11.37:8081/Z-Cinema/index.m3u8?token=dsgdfgsdfgasf
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd
