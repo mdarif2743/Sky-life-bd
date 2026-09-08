@@ -637,6 +637,7 @@ https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8
 https://mtv.sunplex.live/MAASRANGA/index.m3u8
 
 #EXTINF:-1 tvg-id="nagorik" tvg-logo="http://monirul.bro.bd/assets/images/NAGORIK1745042776.png" group-title="Bangla",NAGORIK
+https://box.bbaria.net:8083/Nagorik_TV/video.m3u8
 https://flussonic.defineatoz.com/backup/tracks-v1a1/mono.m3u8?remote=103.114.23.14&token=205feaff08ac0e4c8c895093c6fc54225479a714-c02bf37325b9f215f8b11615ad227213-1782477110-1782466310
 
 #EXTINF:-1 tvg-id="news24hd" tvg-logo="http://monirul.bro.bd/assets/images/NEWS.24.HD1750866866.png" group-title="Bangla",NEWS.24.HD
@@ -668,6 +669,7 @@ https://footfytv.pro/proxy/direct?url=http://livetv.akr4m.com:8080/bdtv/restrem/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=01f7b9f7bf7e425f86d6dfd478390e3f:5fde68100a7856d055038236ffc7c84a
 #EXTINF:-1 group-title="" group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194388" tvg-language="Bengali" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Bangla.png",Sun Bangla
+http://103.185.24.134:3001/SUN-BANGLA-HD/index.m3u8
 https://footfytv.pro/proxy/direct?url=http://livetv.akr4m.com:8080/bdtv/restrem/52.m3u8
 https://livestream7.sunnxt.com/bf76ee92dd01473bb2eb57d137294484/SunBanglaB_IN_index.mpd
 
@@ -1006,7 +1008,7 @@ http://103.175.73.12:8080/live/157/157_0.m3u8
 http://103.165.93.31:8095/duranta/index.m3u8
 
 #EXTINF:-1 tvg-id="hungama" tvg-logo="http://monirul.bro.bd/assets/images/HUNGAMA1745041551.png" group-title="Kids",HUNGAMA
-http://sm-monirul.xyz/@monirul_Islam_SM/server/stream.php?id=hungame&sm=.m3u8
+http://103.185.24.134:3001/HUNGAMA/index.m3u8
 
 #EXTINF:-1 tvg-id="SONY-YAY!.in" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20YAY.png",Sony Yay
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 16) ExoPlayerLib/2.14.1
@@ -1016,6 +1018,12 @@ https://sony.dongobd247.workers.dev/stream.m3u8?id=1000001971|referer=https://pl
 http://103.185.24.134:3001/NICK/index.m3u8
 http://103.165.93.31:8095/nick/tracks-v1a1/mono.m3u8
 https://jioplaylistdown.yecic62314.workers.dev/live.m3u8?id=1341
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2022/02/Disney-Kids-Network-to-launch-new-kids-channel-%E2%80%98Super-Hungama%E2%80%99.jpg" group-title="KIDS", SUPER HUNGAMA
+http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.exchange4media.com/news-photo/112560-pic161.jpg" group-title="KIDS", ETV BAL BHARAT
+http://103.185.24.134:3001/ETV-BAL-BHARAT/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143663_ld_h15_aa.png" group-title="watcho",Pogo
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1028,6 +1036,7 @@ https://login.bheem.tv/bpk-tv/22603/output/index.mpd
 https://login.bheem.tv/bpk-tv/22096/output/index.mpd
 
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sonic-bangla.png" group-title="SM_IPTV",Sonic Bangla
+http://103.185.24.134:3001/SONIC/index.m3u8
 http://103.165.93.31:8095/sonic/tracks-v1a1/mono.m3u8
 https://jioplaylistdown.yecic62314.workers.dev/live.m3u8?id=1345
 
