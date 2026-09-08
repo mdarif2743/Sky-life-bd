@@ -1013,6 +1013,7 @@ http://sm-monirul.xyz/@monirul_Islam_SM/server/stream.php?id=hungame&sm=.m3u8
 https://sony.dongobd247.workers.dev/stream.m3u8?id=1000001971|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000001971
 
 #EXTINF:-1 tvg-id="nick" tvg-logo="http://monirul.bro.bd/assets/images/NICK1745041451.png" group-title="Kids",NICK
+http://103.185.24.134:3001/NICK/index.m3u8
 http://103.165.93.31:8095/nick/tracks-v1a1/mono.m3u8
 https://jioplaylistdown.yecic62314.workers.dev/live.m3u8?id=1341
 
