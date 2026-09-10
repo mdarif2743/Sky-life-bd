@@ -4,6 +4,12 @@ telegram:-@SKY LIFE BD
 #EXTM3U x-tvg-url="https://github.com/whythishome/epg/raw/refs/heads/master/guides/dishtv.in_en.xml.gz"
 #EXTINF:-1 x-tvg-url="https://tinyurl.com/39f3fps2"
 
+#EXTINF:-1 tvg-id="1090541953" tvg-name="DP World Women's Asia Cup 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023692/1788907114653893_AWC26_SF_India_vs_Bangladesh_live_landscape_thumb.jpg" tvg-language="English" group-title="Cricket",ENG | India Women vs Bangladesh Women - Semi-final - 10 Sep 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2105079/cricodi1009/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=76178d3a8c34ced64bd647ba3652aba1-1789048200976
+
+#EXTINF:-1 tvg-id="1090541953" tvg-name="DP World Women's Asia Cup 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023692/1788907114653893_AWC26_SF_India_vs_Bangladesh_live_landscape_thumb.jpg" tvg-language="Hindi" group-title="Cricket",HIN | India Women vs Bangladesh Women - Semi-final - 10 Sep 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2043696/cricodi1009/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=76178d3a8c34ced64bd647ba3652aba1-1789048200976
+
 #EXTINF:-1 tvg-chno="407" tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2026/05/83_STARZPLAY-Sports-2.png", starzplay 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ee861edcd99093153a763a94b14c2c5a:ab3991f6a7729ba1ea4bcdba0c1ae6c0
