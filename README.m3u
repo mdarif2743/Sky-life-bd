@@ -822,7 +822,7 @@ https://cdn-2.pishow.tv/live/1461/master.m3u8
 http://live.balajibroadband.com:3500/live/3418.m3u8
 
 #EXTINF:-1 tvg-id="music_india" tvg-logo="http://monirul.bro.bd/assets/images/Music India1750867544.png" group-title="Hindi",Music India
-http://103.175.73.12:8080/live/158/158_0.m3u8
+https://cdn.pishow.tv/ott/live/226/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsRishtey.png" group-title="HINDI", COLORS RISHTEY
 http://103.159.180.34:5001/live/279.m3u8
@@ -978,10 +978,10 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Shortstv2/default/manifest.mpd
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Koreandramas2/default/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png"group-title="Hindi Movies" group-title="",B4U Movies 
-http://103.175.73.12:8080/live/43/43_0.m3u8
+https://cdn.pishow.tv/ott/live/419/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png"group-title="Hindi Movies" group-title="",B4U Kadak
-http://103.175.73.12:8080/live/44/44_0.m3u8
+https://cdn.pishow.tv/ott/live/227/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/9X_Jalwa.png" group-title="Music",9X Jalwa
 https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
@@ -1002,13 +1002,13 @@ https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209587/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Show%20Box.jpg?raw=true" tvg-name="Show box music🎵" group-title="All-In-One~ENT🧩",Show box music
-http://103.175.73.12:8080/live/469/469_0.m3u8
+
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/YRF_Music.png",YRF MUSIC
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 
 #EXTINF:-1 tvg-id="16924cee-bc7a-470b-895f-4c8bf5fc9019" tvg-name="B4u Music" tvg-logo="https://s3.aynaott.com/storage/d1cf092bb1408a2f79185a307880f4f7" group-title="Hindi",B4u Music
-http://103.175.73.12:8080/live/157/157_0.m3u8
+https://cdn.pishow.tv/ott/live/415/master.m3u8
 
 #EXTINF:-1 tvg-id="duranta_tv" tvg-logo="http://monirul.bro.bd/assets/images/DURANTA TV1745043400.png" group-title="Kids",DURANTA TV
 http://103.165.93.31:8095/duranta/index.m3u8
