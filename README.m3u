@@ -968,6 +968,7 @@ http://live.balajibroadband.com:3500/live/1450.m3u8
 #EXTINF:-1 tvg-chno="451" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025L26R.png?lock=720x540" group-title="Music",Zing
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f0fb14eebe474a6ab74c8301d55a7224:f9f8b2e30704458b8db844a285ce32be
+http://107.167.16.138/zing/index.m3u8?token=test
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/manifest.mpd
 
 #EXTINF:-1 tvg-id="zoom" tvg-logo="http://monirul.bro.bd/assets/images/ZOOM1745040961.png" group-title="Hindi",ZOOM
