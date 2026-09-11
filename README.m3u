@@ -971,6 +971,9 @@ http://live.balajibroadband.com:3500/live/1450.m3u8
 http://107.167.16.138/zing/index.m3u8?token=test
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/manifest.mpd
 
+#EXTINF:-1, ZEE ZEST HD
+http://107.167.16.138/zeezesthd/index.m3u8?token=test
+
 #EXTINF:-1 tvg-id="zoom" tvg-logo="http://monirul.bro.bd/assets/images/ZOOM1745040961.png" group-title="Hindi",ZOOM
 https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 
