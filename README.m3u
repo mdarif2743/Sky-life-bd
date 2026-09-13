@@ -201,7 +201,7 @@ https://cache4.zapitv.com/live/eds_c2/HYPERMOTION2/dash_live_ez/HYPERMOTION2.mpd
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="England vs Pakistan", England vs Pakistan (TAMASHA - AQ)
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Namibia%20Vs%20South%20Africa.jpg" group-title="Cricket", Namibia Vs South Africa - HD QUALITY
+#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/web-images/logo(1).png?optimizer=image&width=200" group-title="Cricket", Namibia Vs South Africa - HD QUALITY
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-gstyx.styxsports.live/STYX/streams/Kt2jpAAecYkMJfYx6135404234716.m3u8
 
