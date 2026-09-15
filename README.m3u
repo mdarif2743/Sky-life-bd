@@ -1207,6 +1207,7 @@ https://flussonic.defineatoz.com/SonySports1/tracks-v1a1/mono.m3u8
 https://flussonic.defineatoz.com/sonysport2L/index.m3u8
 
 #EXTINF:-1 tvg-id="Ten3HD.in" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_Sports_Ten_3_Hindi_HD.png",Sony Sports Ten 3 HD
+http://103.155.18.186:8000/play/a0az/index.m3u8
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 16) ExoPlayerLib/2.14.1
 https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009278|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009278
 
