@@ -4,6 +4,12 @@ telegram:-@SKY LIFE BD
 #EXTM3U x-tvg-url="https://github.com/whythishome/epg/raw/refs/heads/master/guides/dishtv.in_en.xml.gz"
 #EXTINF:-1 x-tvg-url=""
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="Sports World", TIPIK 1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
+
 #EXTINF:-1 group-title="TV NASIONAL🇲🇨", tvg-logo="https://images.indihometv.com/assets/88_MOJI_2025_03_17_15_22_26.png",Moji2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://op-group1-densxvisionhd-1.dens.tv/h/h207/index.m3u8
