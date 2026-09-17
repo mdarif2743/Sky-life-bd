@@ -4,8 +4,6 @@ telegram:-@SKY LIFE BD
 #EXTM3U x-tvg-url="https://github.com/whythishome/epg/raw/refs/heads/master/guides/dishtv.in_en.xml.gz"
 #EXTINF:-1 x-tvg-url=""
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VctG1k8f/INDOSIAR.png" group-title="TV NASIONAL🇲🇨",  BANGLADESH VS SOUTH KOREA
-https://cxyznt3-cf.sbbol1011play.sbs/auth%3D8c7850e53740f33f92a3a8973cdd1b5a6b78782089c2bc37db7dd296a79f130521c746ee48c0ee4ab8aa9ff3da766aaf0d6d0eb715a9a5e75436272041ae8c6f735b362e00a3a966f6f49462c9e4e70ff1b9902d611858ef8f78d5a70634bd5a0a83aa89a7b00692b8c40ca79b130375e07e5d82c92663db87b0630c96905159e61b945f7439ae43eb46b82f2ad5d2ba347e640d37df5c273155c961249f3205992229edd22219a131070e5cefe506a295f8e9b6c7c3d7ee34c91977016c4b3f%26cid%3DyKGgpYgxsUU0JUHkNFYFA260917%26_v%3D2%26_r%3DFh5wBp%26_vis%3De5a30c8f86221981cca55693c20f931a7b8d518b1c85a7db88c22b673eb4abf3%26_vvs%3D4dacdbb63dabe1df4b9fe9b81c74ab9c81675ad08760a551778be13961039f08%26_vas%3Dba856539f98b95b83f5a8d2c3dfa56b8e1f0a61fa6997e5940a04751f9769db8/app/c438975.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=30cceb96616646fcb9d0d4337d6b1d67:636003cec1d74b159b599f8dd7260e97
