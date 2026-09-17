@@ -4,6 +4,10 @@ telegram:-@SKY LIFE BD
 #EXTM3U x-tvg-url="https://github.com/whythishome/epg/raw/refs/heads/master/guides/dishtv.in_en.xml.gz"
 #EXTINF:-1 x-tvg-url=""
 #EXTM3U
+#EXTINF:-1 group-title="TV NASIONAL🇲🇨", tvg-logo="https://images.indihometv.com/assets/88_MOJI_2025_03_17_15_22_26.png",Moji2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://op-group1-densxvisionhd-1.dens.tv/h/h207/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/indosiar.png",INDOSIAR live
 #EXTGRP:😎live sport semetara gangguan😎
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36
