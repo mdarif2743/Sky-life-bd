@@ -949,7 +949,7 @@ https://ml-pull-dvc-myco.io:2096/GREEN_ENTERTAINMENT/index.m3u8
 https://cdn4.mjunoon.tv:8087/streamtest/80M/chunks.m3u8
 
 #EXTINF:-1 tvg-id="HumTV.pk" tvg-logo="https://i.ibb.co/Tx4GfKT5/Hum-TV-HD.png" group-title="Pakistan" group-title="Entertainment",Hum Entertainment HD
-https://cdn01.medialive.one:2096/HUMENTFHD/index.m3u8
+https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8
 
 #EXTINF:-1 tvg-id="HumSitaray.pk@HD" tvg-logo="https://i.imgur.com/D0A0eUJ.png" group-title="Pakistan" group-title="Entertainment",Hum Sitaray
 https://cdn4.mjunoon.tv:8087/streamtest/157-4M/chunks.m3u8
