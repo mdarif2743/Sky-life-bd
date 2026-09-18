@@ -1077,6 +1077,12 @@ http://38.96.178.205/ZEE_TV/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=65c3633157574361b191059e46e72968:78450b11381340c297d96c13183d3744
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd/default/index.mpd
 
+#EXTINF:-1 tvg-id="Zee.TV.HD.uk" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002FYLVC.png" group-title="🎭 Entertainment",Zee TV HD • DE
+https://d47ddb99.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1kZV9aZWVUVkhEVUtHZXJtYW55X0hMUw/playlist.m3u8
+
+#EXTINF:-1 tvg-id="and.TV.us2" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022RLRS.png" group-title="🎭 Entertainment",&TV HD • UK
+https://285abc3a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQW5kVFZfSExT/playlist.m3u8
+
 #EXTINF:-1 tvg-chno="304" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022J67R.png?lock=720x540" group-title="Movies",&Pictures HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=de8045e9f0fb4d03845dcc4a8bd7712a:6807bd09bda34ada83152908192af6d6
@@ -1239,7 +1245,7 @@ https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-
 https://ml-pull-dvc-myco.io:2096/MADNI_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-id="a_sports_hd" tvg-logo="http://monirul.bro.bd/assets/images/A SPORTS HD1745044782.png" group-title="Sports",A SPORTS HD
-https://playztv-apps.pages.dev/asports/index.m3u8
+
 
 #EXTINF:-1 tvg-id="ptv_sports_hd" tvg-logo="http://monirul.bro.bd/assets/images/PTV SPORTS HD1745044993.png" group-title="Sports",PTV SPORTS HD
 https://flussonic.defineatoz.com/PTV/index.m3u8
