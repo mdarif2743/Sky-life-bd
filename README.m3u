@@ -1258,20 +1258,12 @@ http://103.185.24.134:3001/SonyTenSports1/index.m3u8
 https://flussonic.defineatoz.com/SonySports1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Ten2HD" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png",Sony Sports Ten 2 HD
-#https://ottlive.dishhome.com.np/protected/JFjSeZ4Bnu3lGwDQ3WuN/dash/manifest.mpd|license_type=org.w3.clearkey&license_key={"keys":[{"kty":"oct","kid":"KecJom91RE2piCU4Z/Z4iw","k":"fGfzfDFI1pmbkpE+ovw0Kw"}],"type":"temporary"}&User-Agent=referrer=https://www.watchdgo.com/
-#https://flussonic.defineatoz.com/sonysport2L/index.m3u8
+https://flussonic.defineatoz.com/sonysport2L/index.m3u8
 
 #EXTINF:-1 tvg-id="Ten3HD.in" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_Sports_Ten_3_Hindi_HD.png",Sony Sports Ten 3 HD
-#https://ottlive.dishhome.com.np/protected/m7BifJ4BOObeQ4xxOORJ/dash/manifest.mpd|license_type=org.w3.clearkey&license_key={"keys":[{"kty":"oct","kid":"dbkre7GzQZmzeU7OmCtROA","k":"05IYjyse/uZNNVjJ2tA27w"}],"type":"temporary"}&User-Agent=referrer=https://www.watchdgo.com/
-#http://103.185.24.134:3001/SONY-SPORTS3/index.m3u8
+http://103.185.24.134:3001/SONY-SPORTS3/index.m3u8
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 16) ExoPlayerLib/2.14.1
 #https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009278|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009278
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/m7BifJ4BOObeQ4xxOORJ/posters/dc9673d3-8836-43e1-b310-5f917000d445.png" tvg-id="1339" tvg-name="sony-sports-3-hd" ,Sony Sports 3 HD
-https://ottlive.dishhome.com.np/protected/m7BifJ4BOObeQ4xxOORJ/dash/manifest.mpd|license_type=org.w3.clearkey&license_key={"keys":[{"kty":"oct","kid":"dbkre7GzQZmzeU7OmCtROA","k":"05IYjyse/uZNNVjJ2tA27w"}],"type":"temporary"}&User-Agent=referrer=https://www.watchdgo.com/
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://assets.dishhomego.com.np/f_webp,q_85,w_250/JFjSeZ4Bnu3lGwDQ3WuN/posters/a10176e4-459e-46e9-86b8-6a13115e3a7e.png" tvg-id="1338" tvg-name="sony-sport-3-hd" ,Sony Sport 2 HD
-https://ottlive.dishhome.com.np/protected/JFjSeZ4Bnu3lGwDQ3WuN/dash/manifest.mpd|license_type=org.w3.clearkey&license_key={"keys":[{"kty":"oct","kid":"KecJom91RE2piCU4Z/Z4iw","k":"fGfzfDFI1pmbkpE+ovw0Kw"}],"type":"temporary"}&User-Agent=referrer=https://www.watchdgo.com/
 
 #EXTINF:-1 tvg-id="Ten5HD.in" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png",Sony Sports Ten 5 HD
 http://103.185.24.134:3001/SONY-SPORTS.5HD/index.m3u8
