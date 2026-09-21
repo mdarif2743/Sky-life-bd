@@ -4,6 +4,8 @@ telegram:-@SKY LIFE BD
 #EXTM3U x-tvg-url="https://github.com/whythishome/epg/raw/refs/heads/master/guides/dishtv.in_en.xml.gz"
 #EXTINF:-1 x-tvg-url=""
 #EXTM3U
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/mdarif2743/Sky-life-bd/main/IMG_20260723_130039_939.jpg", SKY LIFE BD(FREE IPTV)
+https://cdn-gstyx.styxsports.live/STYX/streams/68oRKR23qeWZvCXu6248791548119.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="Sports World", TIPIK 1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -296,9 +298,6 @@ https://cdn-gstyx.styxsports.live/STYX/streams/Kt2jpAAecYkMJfYx6135404234716.m3u
 
 #EXTINF:-1 tvg-logo="https://media.crictracker.com/media/attachments/1770648099852_ACC-Asia-Cup-Womens.jpeg", WOMENS ASIA CUP LIVE( T sports)
 http://livetv.akr4m.com:8080/bdtv/restrem/2.m3u8
-
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/mdarif2743/Sky-life-bd/main/IMG_20260723_130039_939.jpg", SKY LIFE BD(FREE IPTV)
-https://raw.githubusercontent.com/mdarif2743/Sky-life-bd/main/IMG_20260723_130039_939.jpg
 
 #EXTINF:-1 tvg-id="Si Solo Calcio.it" tvg-logo="https://i.ibb.co.com/7Q5vVhy/sportitaliaplus.png" group-title="SPORTS" , SOLOCALCIO ITALIA
 https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8
