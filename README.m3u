@@ -13,7 +13,7 @@ https://cdn-gstyx.styxsports.live/STYX/streams/68oRKR23qeWZvCXu6248791548119.m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/sctv.webp",SCTV live
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/sctv.webp", SCTV live
 #EXTGRP:😎live sport semetara gangguan😎
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #EXTVLCOPT:http-referrer=https://m.vidio.com/ 
@@ -23,7 +23,7 @@ https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=204&type=drm
 https://tvratu.my.id/vid/index.mpd?id=204&type=dash
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/indosiar.png",INDOSIAR live
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/indosiar.png", INDOSIAR live
 #EXTGRP:😎live sport semetara gangguan😎
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
