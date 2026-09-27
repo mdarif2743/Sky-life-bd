@@ -59,6 +59,9 @@ https://tvratu.my.id/vid/index.mpd?id=204&type=dash
 #KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
 https://tvratu.my.id/vid/index.mpd?id=205&type=dash
 
+#EXTINF:-1 tvg-id="FIFAPlus.pl" tvg-logo="https://i.imgur.com/l5iax42.png" group-title="Sports",FIFA+ (720p)
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+
 #EXTINF:-1 group-title="TV VIETNAM🇻🇳" tvg-logo="https://i.pinimg.com/736x/6c/d1/f5/6cd1f5f0779078e1f3265d0e684b63d4--vi%E1%BB%87t-nam-television.jpg",-VTV cần thơ FHD🇻🇳
 https://live-a.fptplay53.net/live/media/vtv6/live247-hls-avc/index.m3u8
 
