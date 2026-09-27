@@ -115,6 +115,16 @@ https://ls-mp04.eo-edgefunctions7.com/out/v1/4604623e7ff4462a962275664ccd8ee5/ma
 #KODIPROP:inputstream.adaptive.license_key=93dccb38f8c84d448d5a7422eb44462b:af8f1c6acedc34551a82f3bb49adfdea
 https://ls-mp03.eo-edgefunctions7.com/out/v1/926637c1aba44cffa74adc74bf786816/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%2716322298%27&EntityType=%27Item%27&EntityId=%27840093%27&Width=300&Height=78&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",MEDIACORP CH 06
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f33acf338ec946fd921a85f870636399:a6c1a2e81fe941a9e2efd2bcad0d1532
+https://tglmp01.akamaized.net/out/v1/d43dbc5da1334ec088ed9eb5796eee7c/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c1p6ZzWR/mwsglcch07.png",MEDIACORP CH 07
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fd5881a779d148e18fb48d120bfb0056:5f7e80016181020e087586c4f7942929
+https://tglmp02.akamaized.net/out/v1/ce69826a52c84c64ade5487a1e38f82d/manifest.mpd
+
 #EXTINF:-1 tvg-id="Eurosport4KCzechia.cz@UHD" tvg-logo="https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png",Eurosport 4K Czechia
 http://88.212.15.19/live/esp_4k_atk/playlist.m3u8
 
