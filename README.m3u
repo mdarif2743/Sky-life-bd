@@ -1574,14 +1574,14 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-logo="https://jalshabangla.com/assets/jalsha-bangla-logo-BuWqIv4D.png" group-title=" ", JALSHA BANGLA BD
 https://dish.porosh.com.bd/hls/jalshabangla.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/ZB%20cartoon.jpg?raw=true" tvg-name="ZB Cartoon" group-title="All-In-One~ENT🧩",ZB Cartoon
+#EXTINF:-1 tvg-logo="https://bhoomtv.me/wp-content/uploads/2026/04/ChatGPT-Image-Apr-21-2026-09_01_07-AM-1-200x300.png" tvg-name="" group-title="All-In-One~ENT🧩", RANA CABLE TV
+https://ranacable.duckdns.org/RanaCableTV/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://bhoomtv.me/wp-content/uploads/2026/06/ChatGPT-Image-Jun-26-2026-07_44_34-PM-1-200x300.png" tvg-name="" group-title="All-In-One~ENT🧩", B PRIME BANGLA
+https://ranacable.duckdns.org/Bprimebangla/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/ZB%20Cinema.jpg?raw=true" tvg-name="ZB Cinema" group-title="All-In-One~ENT🧩",ZB Cinema
-
-
-#EXTINF:-1 tvg-id="ZillarBartaNews.in@HD",ZillarBarta News
-https://server.zillarbarta.com/zillarbarta/index.m3u8
+#EXTINF:-1 tvg-logo="https://bhoomtv.me/wp-content/uploads/2026/04/ChatGPT-Image-Apr-21-2026-09_09_07-AM-1-200x300.png", RANA CABLE MUSIC 🎵 🎵 
+https://ranacable.duckdns.org/RanaCableMusic/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="" tvg-name="ALL TIME MOVIES" group-title="FreeTV",DOYEL TV
 https://3d46w.doyeltv.com/memfs/aa3aa6f7-ec12-41a2-8183-a891e157bbf8.m3u8
@@ -1595,8 +1595,8 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1, tvg-logo="", SANANDA TV
 http://live-stream.amarbanglatv.in:8080/hls/sanandatv/index.m3u8
 
-#EXTINF:-1, tvg-logo=" ",AKASH AATH IN
-
+#EXTINF:-1, tvg-logo="https://bhoomtv.me/wp-content/uploads/2026/07/ChatGPT-Image-Jul-18-2026-10_45_51-AM-1-200x300.png", RANA CABLE MOVIE
+https://ranacable.duckdns.org/RanaMovie/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://img-cdn.publive.online/fit-in/1200x675/afaqs/media/post_attachments/10748d92781bb5c4b905c6d099a049402df8755404dd10781241db6b0fe221ad.jpg", DANGAL
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
