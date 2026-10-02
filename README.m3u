@@ -1091,9 +1091,11 @@ https://techandeat.online/sliv/stream.m3u8?id=1000009258
 https://p4kp.rjmbts.workers.dev/22124.m3u8
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/mk41wvy1/Jio-TV.jpg" tvg-id="1104" group-title="JioTV | English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png",Star Movies HD
+http://51.75.127.199:3141/starmovieshd/index.m3u8
 http://103.185.24.134:3001/Star-Movies/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/mk41wvy1/Jio-TV.jpg" tvg-id="1110" group-title="JioTV | English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png",Star Movies Select HD
+http://51.75.127.199:3141/starmoviesselecthd/index.m3u8
 http://103.185.24.134:3001/STAR-MOVIES-SEL-HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/mk41wvy1/Jio-TV.jpg" tvg-id="562" group-title="JioTV | Lifestyle" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP.png",Travelxp HD Hindi
@@ -1365,11 +1367,13 @@ http://103.185.24.134:3001/SONY-SPORTS3/index.m3u8
 http://103.185.24.134:3001/SONY-SPORTS.5HD/index.m3u8
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/PrLZryqH/Jio-TV.jpg" tvg-id="1106" tvg-name="Star Sports 1 HD" tvg-logo="https://img.media.jio.com/tvpimages/76/32/301981_1749665664018_l_medium.jpg" group-title="JioTV+ | Sports",Star Sports 1 HD
+http://51.75.127.199:3141/starsports1/index.m3u8
 https://p4kp.rjmbts.workers.dev/25121.m3u8
 https://flussonic.defineatoz.com/Starsports1/tracks-v1a1/mono.m3u8?
 http://103.114.11.37:8081/Star-sports-1/index.m3u8?token=dsgdfgsdfgasf
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/PrLZryqH/Jio-TV.jpg" tvg-id="1109" tvg-name="Star Sports 2 HD" tvg-logo="https://img.media.jio.com/tvpimages/41/51/301983_1749666169105_l_medium.jpg" group-title="JioTV+ | Sports",Star Sports 2 HD
+http://51.75.127.199:3141/starsports2/index.m3u8
 https://p4kp.rjmbts.workers.dev/7458.m3u8
 https://flussonic.defineatoz.com/Starsports2/index.m3u8
 http://103.114.11.37:8081/Star-sports-2/index.m3u8?token=dsgdfgsdfgasf
@@ -1640,6 +1644,7 @@ https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="disney-channel" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_Channel.png" group-title="Kids",Disney Channel
+http://51.75.127.199:3141/disneychannel/index.m3u8
 http://202.70.146.135:8000/play/a01q/index.m3u8
 
 #EXTINF:-1 tvg-id="disney-channel" tvg-logo="https://live.dinesh29.com.np/logos/disney-channel.png" group-title="Kids",Disney Channel HD
