@@ -883,8 +883,8 @@ http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/200466.m3u8
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsme.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsRishtey.png" group-title="HINDI", COLORS RISHTEY
-https://manatv.akamaized.net/090823/smil:ristheyamerica.smil/playlist.m3u8
-http://103.159.180.34:5001/live/279.m3u8
+#https://manatv.akamaized.net/090823/smil:ristheyamerica.smil/playlist.m3u8
+http://27.116.22.53:5001/live/279.m3u8
 
 #EXTINF:-1 tvg-chno="108" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022RLRS.png?lock=720x540" group-title="Entertainment",&TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
