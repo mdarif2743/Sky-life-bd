@@ -912,6 +912,95 @@ https://d47ddb99.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 #EXTINF:-1 tvg-id="and.TV.us2" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022RLRS.png" group-title="🎭 Entertainment",&TV HD • UK
 https://285abc3a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQW5kVFZfSExT/playlist.m3u8
 
+
+#EXTINF:-1 group-logo="https://i.postimg.cc/PrLZryqH/Jio-TV.jpg" tvg-id="931" tvg-name="Star Bharat HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Bharat_HD.png" group-title="JioTV+ | Entertainment",Star Bharat HD
+http://51.75.127.199:3141/starbharathd/index.m3u8
+http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/200441.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IQ2n0WY.png" group-title="United Kingdom",Utsav Bharat (720p)
+https://d1taaads3ztvmu.cloudfront.net/120723/smil:lifeokuk.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TERVtWT.png" group-title="United Kingdom",Utsav Plus (720p)
+https://d1rc86nwwc9fag.cloudfront.net/260723/starplusuk_2500/chunks.m3u8
+
+#EXTINF:-1 tvg-id="ColorsInfinity.in" tvg-name="Colors Infinity HD KB" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_INFINITY/images/LOGO_HD/image.png" tvg-country="IN" group-title="Entertainment" tvg-quality="1080p",Colors Infinity HD
+http://51.75.127.199:3141/colorsinfinityhd/index.m3u8
+
+#EXTINF:-1 tvg-id="SONY-MAX-HD" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png",Sony Max HD
+https://techandeat.online/sliv/stream.m3u8?id=1000009247|Referer=https://techandeat.online/
+http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/200457.m3u8
+http://103.155.18.186:8000/play/a01g/index.m3u8
+
+#EXTINF:-1 tvg-id="SONY-MAX2" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX2.png",Sony MAX2
+http://107.167.16.138/sonymax2/index.m3u8?token=test
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 16) ExoPlayerLib/2.14.1
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000044878|referer=https://playyonogames.in/sliv/stream.m3u8?id=100044878
+https://playyonogames.in/sliv/stream.m3u8?id=1000044878|Referer=https://playyonogames.in/
+
+#EXTINF:-1 tvg-id="SONY-WAH" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_WAH.png",Sony WAH
+https://techandeat.online/sliv/stream.m3u8?id=1000009253|Referer=https://techandeat.online/
+http://live.balajibroadband.com:3500/live/1393.m3u8
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 16) ExoPlayerLib/2.14.1
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009253|referer=https://dongobd247.worker.dev/stream.m3u8?id=1000009253
+https://playyonogames.in/sliv/stream.m3u8?id=1000009253|Referer=https://playyonogames.in/
+
+#EXTINF:-1 tvg-id="max_1" tvg-logo="http://monirul.bro.bd/assets/images/MAX 11748857466.png" group-title="Hindi",MAX 1
+http://live.balajibroadband.com:3500/live/3418.m3u8
+
+#EXTINF:-1 group-logo="https://i.postimg.cc/mk41wvy1/Jio-TV.jpg" tvg-id="1125" group-title="JioTV | Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold.png",Star Gold
+http://51.75.127.199:3141/stargold/index.m3u8
+https://footfytv.pro/proxy/direct?url=http://livetv.akr4m.com:8080/bdtv/restrem/45.m3u8
+https://s3.itcnbd.live/server-6/stream/resource/aHR0cDovLzE3Mi4xNi4yMDAuMjA1OjgwODgvNDAyL3RyYWNrcy12MWExL21vbm8ubTN1OD90b2tlbj02ZjgwYWI5YmQ5OTU4N2JiZmU4ZTdkNDk2NzZkMDhkMmE4ZDBlNzc0LWViYjlkNTNlNzhiYTUyYTFjN2E2M2JlMjU5YzkzNjUwLTE3ODY4MDY0MjUtMTc4NjgwMjgyNQ
+
+#EXTINF:-1 group-logo="https://i.postimg.cc/PrLZryqH/Jio-TV.jpg" tvg-id="156" tvg-name="Star Gold HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="JioTV+ | Movies",Star Gold HD
+http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/181357.m3u8
+http://66.102.126.10:8000/play/a00f/index.m3u8
+
+#EXTINF:-1 group-logo="https://i.postimg.cc/mk41wvy1/Jio-TV.jpg" tvg-id="1125" group-title="JioTV | Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png",Star Gold HD uk
+http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/353225.m3u8
+
+#EXTINF:-1 group-logo="https://i.postimg.cc/PrLZryqH/Jio-TV.jpg" tvg-id="3096" tvg-name="Star Gold 2 HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_2_HD.png" group-title="JioTV+ | Movies",Star Gold 2 HD
+http://107.167.16.138/stargold2/index.m3u8?token=test
+http://66.102.126.10:8000/play/a077/index.m3u8
+
+#EXTINF:-1 group-logo="https://i.postimg.cc/PrLZryqH/Jio-TV.jpg" tvg-id="1113" tvg-name="Star Gold Select HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Select_HD.png" group-title="JioTV+ | Movies",Star Gold Select HD
+http://51.75.127.199:3141/stargoldselecthd/index.m3u8
+http://59.103.38.46:8000/play/a068/index.m3u8
+
+#EXTINF:-1 group-logo="https://i.postimg.cc/PrLZryqH/Jio-TV.jpg" tvg-id="3098" tvg-name="Star Gold Thrills" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Thrills.png" group-title="JioTV+ | Movies",Star Gold Thrills
+http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/181317.m3u8
+http://66.102.126.10:8000/play/a00c/index.m3u8
+
+#EXTINF:-1 group-logo="https://i.postimg.cc/PrLZryqH/Jio-TV.jpg" tvg-id="3097" tvg-name="Star Gold Romance" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Romance.png" group-title="JioTV+ | Movies",Star Gold Romance
+http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/200511.m3u8
+http://66.102.126.10:8000/play/a00r/index.m3u8
+
+#EXTINF:-1 tvg-id="StarUtsavMovies.in" tvg-name="Star Utsav Movies KB" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_UTSAV_MOVIES/images/LOGO_HD/image.png" tvg-country="IN" group-title="Movies" tvg-quality="576p",Star Utsav Movies
+http://51.75.127.199:3141/starutsavmovies/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexHD.png" group-title="HINDI", COLORS CINEPLEX HD
+http://103.185.24.134:3001/COLORS-CINEPLEX-HD/tracks-v1a1/mono.m3u8
+http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/200465.m3u8
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexHD.png" group-title="HINDI", COLORS CINEPLEX UK
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/6c2dad79b7261eb3553da450272e25279ea0bfaa/streams/gb/YuppTV/ColorsCineplexUK.m3u8
+
+#EXTINF:-1 tvg-id="colorscineplexbollywood" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexBollywood.png" group-title="Movies",Colors Cineplex Bollywood
+http://202.70.146.135:8000/play/a058/index.m3u8
+
+#EXTINF:-1 tvg-id="colors-cineplex-superhit" tvg-name="Colors Cineplex Superhit" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexSuperhit.png" group-title="BDIX 1",Colors Cineplex Superhit
+http://51.75.127.199:3141/colorscineplexsuperhit/index.m3u8
+http://live.balajibroadband.com:3500/live/1450.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/jhmovie/images/7/7b/Goldmines_logo.png/revision/latest?cb=20240404141630" group-title="Hindi Movies",Goldmines
+https://cdn.pishow.tv/ott/live/1459/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Goldmines Movies
+https://cdn.pishow.tv/ott/live/1461/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Goldmines Movies 2
+https://cdn.pishow.tv/ott/live/1460/master.m3u8
+
 #EXTINF:-1 tvg-id="sangeet_bangla" tvg-logo="http://monirul.bro.bd/assets/images/Sangeet Bangla1750870252.png" group-title="Bangla",Sangeet Bangla
 https://cdn.pishow.tv/ott/live/1143/master.m3u8
 http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/25082.m3u8
@@ -1113,65 +1202,8 @@ http://38.101.217.46/HumSitaray/index.m3u8
 #EXTINF:-1 tvg-id="1f8a84b3-8079-4c29-9e73-f219664e9d4d" tvg-name="Goldmines Movies" tvg-logo="https://s3.aynaott.com/storage/26c1570891267164e40563806b25ccdb" group-title="Hindi",Goldmines Movies
 https://cdn.pishow.tv/ott/live/1461/master.m3u8
 
-#EXTINF:-1 tvg-id="max_1" tvg-logo="http://monirul.bro.bd/assets/images/MAX 11748857466.png" group-title="Hindi",MAX 1
-http://live.balajibroadband.com:3500/live/3418.m3u8
-
 #EXTINF:-1 tvg-id="music_india" tvg-logo="http://monirul.bro.bd/assets/images/Music India1750867544.png" group-title="Hindi",Music India
 https://cdn.pishow.tv/ott/live/226/master.m3u8
-
-#EXTINF:-1 tvg-id="SONY-MAX-HD" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png",Sony Max HD
-https://techandeat.online/sliv/stream.m3u8?id=1000009247|Referer=https://techandeat.online/
-http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/200457.m3u8
-http://103.155.18.186:8000/play/a01g/index.m3u8
-
-#EXTINF:-1 tvg-id="SONY-MAX2" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX2.png",Sony MAX2
-http://107.167.16.138/sonymax2/index.m3u8?token=test
-#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 16) ExoPlayerLib/2.14.1
-https://sony.dongobd247.workers.dev/stream.m3u8?id=1000044878|referer=https://playyonogames.in/sliv/stream.m3u8?id=100044878
-https://playyonogames.in/sliv/stream.m3u8?id=1000044878|Referer=https://playyonogames.in/
-
-#EXTINF:-1 tvg-id="SONY-WAH" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_WAH.png",Sony WAH
-https://techandeat.online/sliv/stream.m3u8?id=1000009253|Referer=https://techandeat.online/
-http://live.balajibroadband.com:3500/live/1393.m3u8
-#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 16) ExoPlayerLib/2.14.1
-https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009253|referer=https://dongobd247.worker.dev/stream.m3u8?id=1000009253
-https://playyonogames.in/sliv/stream.m3u8?id=1000009253|Referer=https://playyonogames.in/
-
-#EXTINF:-1 group-logo="https://i.postimg.cc/PrLZryqH/Jio-TV.jpg" tvg-id="931" tvg-name="Star Bharat HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Bharat_HD.png" group-title="JioTV+ | Entertainment",Star Bharat HD
-http://51.75.127.199:3141/starbharathd/index.m3u8
-http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/200441.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IQ2n0WY.png" group-title="United Kingdom",Utsav Bharat (720p)
-https://d1taaads3ztvmu.cloudfront.net/120723/smil:lifeokuk.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TERVtWT.png" group-title="United Kingdom",Utsav Plus (720p)
-https://d1rc86nwwc9fag.cloudfront.net/260723/starplusuk_2500/chunks.m3u8
-
-#EXTINF:-1 tvg-id="ColorsInfinity.in" tvg-name="Colors Infinity HD KB" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_INFINITY/images/LOGO_HD/image.png" tvg-country="IN" group-title="Entertainment" tvg-quality="1080p",Colors Infinity HD
-http://51.75.127.199:3141/colorsinfinityhd/index.m3u8
-
-#EXTINF:-1 group-logo="https://i.postimg.cc/PrLZryqH/Jio-TV.jpg" tvg-id="3096" tvg-name="Star Gold 2 HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_2_HD.png" group-title="JioTV+ | Movies",Star Gold 2 HD
-http://107.167.16.138/stargold2/index.m3u8?token=test
-http://66.102.126.10:8000/play/a077/index.m3u8
-
-#EXTINF:-1 group-logo="https://i.postimg.cc/mk41wvy1/Jio-TV.jpg" tvg-id="1125" group-title="JioTV | Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png",Star Gold HD uk
-http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/353225.m3u8
-
-#EXTINF:-1 group-logo="https://i.postimg.cc/mk41wvy1/Jio-TV.jpg" tvg-id="1125" group-title="JioTV | Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold.png",Star Gold
-http://51.75.127.199:3141/stargold/index.m3u8
-https://footfytv.pro/proxy/direct?url=http://livetv.akr4m.com:8080/bdtv/restrem/45.m3u8
-https://s3.itcnbd.live/server-6/stream/resource/aHR0cDovLzE3Mi4xNi4yMDAuMjA1OjgwODgvNDAyL3RyYWNrcy12MWExL21vbm8ubTN1OD90b2tlbj02ZjgwYWI5YmQ5OTU4N2JiZmU4ZTdkNDk2NzZkMDhkMmE4ZDBlNzc0LWViYjlkNTNlNzhiYTUyYTFjN2E2M2JlMjU5YzkzNjUwLTE3ODY4MDY0MjUtMTc4NjgwMjgyNQ
-
-#EXTINF:-1 group-logo="https://i.postimg.cc/PrLZryqH/Jio-TV.jpg" tvg-id="156" tvg-name="Star Gold HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="JioTV+ | Movies",Star Gold HD
-http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/181357.m3u8
-http://66.102.126.10:8000/play/a00f/index.m3u8
-
-#EXTINF:-1 group-logo="https://i.postimg.cc/PrLZryqH/Jio-TV.jpg" tvg-id="1113" tvg-name="Star Gold Select HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Select_HD.png" group-title="JioTV+ | Movies",Star Gold Select HD
-http://51.75.127.199:3141/stargoldselecthd/index.m3u8
-http://59.103.38.46:8000/play/a068/index.m3u8
-
-#EXTINF:-1 tvg-id="StarUtsavMovies.in" tvg-name="Star Utsav Movies KB" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_UTSAV_MOVIES/images/LOGO_HD/image.png" tvg-country="IN" group-title="Movies" tvg-quality="576p",Star Utsav Movies
-http://51.75.127.199:3141/starutsavmovies/index.m3u8
 
 #EXTINF:-1 tvg-chno="304" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022J67R.png?lock=720x540" group-title="Movies",&Pictures HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1204,39 +1236,6 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema/default/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TTAGFHG.png" group-title="Djibouti",MBC Bollywood (1080p) [Geo-blocked]
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/jhmovie/images/7/7b/Goldmines_logo.png/revision/latest?cb=20240404141630" group-title="Hindi Movies",Goldmines
-https://cdn.pishow.tv/ott/live/1459/master.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Goldmines Movies
-https://cdn.pishow.tv/ott/live/1461/master.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Goldmines Movies 2
-https://cdn.pishow.tv/ott/live/1460/master.m3u8
-
-#EXTINF:-1 group-logo="https://i.postimg.cc/PrLZryqH/Jio-TV.jpg" tvg-id="3098" tvg-name="Star Gold Thrills" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Thrills.png" group-title="JioTV+ | Movies",Star Gold Thrills
-http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/181317.m3u8
-http://66.102.126.10:8000/play/a00c/index.m3u8
-
-#EXTINF:-1 group-logo="https://i.postimg.cc/PrLZryqH/Jio-TV.jpg" tvg-id="3097" tvg-name="Star Gold Romance" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Romance.png" group-title="JioTV+ | Movies",Star Gold Romance
-http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/200511.m3u8
-http://66.102.126.10:8000/play/a00r/index.m3u8
-
-#EXTINF:-1 group-logo="https://i.postimg.cc/PrLZryqH/Jio-TV.jpg" tvg-id="1136" tvg-name="Star Utsav Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Utsav_Movies.png" group-title="JioTV+ | Tamil",Star Utsav Movies
-
-
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexHD.png" group-title="HINDI", COLORS CINEPLEX HD
-http://103.185.24.134:3001/COLORS-CINEPLEX-HD/tracks-v1a1/mono.m3u8
-http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/200465.m3u8
-
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexHD.png" group-title="HINDI", COLORS CINEPLEX UK
-https://raw.githubusercontent.com/amazeyourself/adaptive-streams/6c2dad79b7261eb3553da450272e25279ea0bfaa/streams/gb/YuppTV/ColorsCineplexUK.m3u8
-
-#EXTINF:-1 tvg-id="colorscineplexbollywood" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexBollywood.png" group-title="Movies",Colors Cineplex Bollywood
-http://202.70.146.135:8000/play/a058/index.m3u8
-
-#EXTINF:-1 tvg-id="colors-cineplex-superhit" tvg-name="Colors Cineplex Superhit" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexSuperhit.png" group-title="BDIX 1",Colors Cineplex Superhit
-http://live.balajibroadband.com:3500/live/1450.m3u8
 
 #EXTINF:-1 tvg-chno="451" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025L26R.png?lock=720x540" group-title="Music",Zing
 #KODIPROP:inputstream.adaptive.license_type=clearkey
