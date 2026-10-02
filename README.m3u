@@ -945,6 +945,7 @@ https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009253|referer=https://do
 https://playyonogames.in/sliv/stream.m3u8?id=1000009253|Referer=https://playyonogames.in/
 
 #EXTINF:-1 tvg-id="max_1" tvg-logo="http://monirul.bro.bd/assets/images/MAX 11748857466.png" group-title="Hindi",MAX 1
+http://27.116.22.53:5001/live/3418.m3u8
 http://live.balajibroadband.com:3500/live/3418.m3u8
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/mk41wvy1/Jio-TV.jpg" tvg-id="1125" group-title="JioTV | Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold.png",Star Gold
@@ -1048,6 +1049,7 @@ https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg014
 https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/discovery-channel-bengali.png" group-title="SM_IPTV",Discovery Channel Bengali
+http://27.116.22.53:5001/live/3428.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/51.m3u8
 http://103.165.93.31:8095/discovery/index.m3u8
 
