@@ -1306,6 +1306,7 @@ https://box.bbaria.net/DurontoTV/tracks-v1a1/mono.m3u8
 http://103.185.24.134:3001/HUNGAMA/index.m3u8
 
 #EXTINF:-1 tvg-id="SONY-YAY!.in" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20YAY.png",Sony Yay
+https://techandeat.online/sliv/stream.m3u8?id=1000001971|Referer=https://techandeat.online/
 http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/200455.m3u8
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 16) ExoPlayerLib/2.14.1
 https://sony.dongobd247.workers.dev/stream.m3u8?id=1000001971|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000001971
@@ -1346,6 +1347,7 @@ https://vodzong.mjunoon.tv:8087/streamtest/Madni-121/playlist.m3u8
 https://flussonic.defineatoz.com/PTV/index.m3u8
 
 #EXTINF:-1 tvg-id="Ten1HD" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png",Sony Sports Ten 1 HD
+https://techandeat.online/sliv/stream.m3u8?id=1000009276|Referer=https://techandeat.online/
 http://103.185.24.134:3001/SonyTenSports1/index.m3u8
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 16) ExoPlayerLib/2.14.1
 #https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009276|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009276
@@ -1364,6 +1366,7 @@ http://103.185.24.134:3001/SONY-SPORTS3/index.m3u8
 #https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009278|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009278
 
 #EXTINF:-1 tvg-id="Ten5HD.in" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png",Sony Sports Ten 5 HD
+https://techandeat.online/sliv/stream.m3u8?id=1000009275|Referer=https://techandeat.online/
 http://103.185.24.134:3001/SONY-SPORTS.5HD/index.m3u8
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/PrLZryqH/Jio-TV.jpg" tvg-id="1106" tvg-name="Star Sports 1 HD" tvg-logo="https://img.media.jio.com/tvpimages/76/32/301981_1749665664018_l_medium.jpg" group-title="JioTV+ | Sports",Star Sports 1 HD
