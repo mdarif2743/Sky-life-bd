@@ -827,6 +827,7 @@ http://livetv.akr4m.com:8080/bdtv/restrem/34.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=01f7b9f7bf7e425f86d6dfd478390e3f:5fde68100a7856d055038236ffc7c84a
 #EXTINF:-1 group-title="" group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194388" tvg-language="Bengali" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Bangla.png",Sun Bangla
+http://51.75.127.199:3141/sunbangla/index.m3u8
 http://103.185.24.134:3001/SUN-BANGLA-HD/index.m3u8
 https://footfytv.pro/proxy/direct?url=http://livetv.akr4m.com:8080/bdtv/restrem/52.m3u8
 https://livestream7.sunnxt.com/bf76ee92dd01473bb2eb57d137294484/SunBanglaB_IN_index.mpd
