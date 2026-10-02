@@ -994,8 +994,12 @@ http://27.116.22.53:5001/live/1763.m3u8
 http://202.70.146.135:8000/play/a058/index.m3u8
 
 #EXTINF:-1 tvg-id="colors-cineplex-superhit" tvg-name="Colors Cineplex Superhit" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexSuperhit.png" group-title="BDIX 1",Colors Cineplex Superhit
+http://27.116.22.53:5001/live/1450.m3u8
 http://51.75.127.199:3141/colorscineplexsuperhit/index.m3u8
 http://live.balajibroadband.com:3500/live/1450.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SweetBoy4141/iptv/main/logo/YYZ TV.jpg",YYZ TV
+http://cdn12.henico.net:8080/live/sursangam/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/jhmovie/images/7/7b/Goldmines_logo.png/revision/latest?cb=20240404141630" group-title="Hindi Movies",Goldmines
 https://cdn.pishow.tv/ott/live/1459/master.m3u8
