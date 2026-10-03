@@ -1066,7 +1066,25 @@ http://103.165.93.31:8095/discovery/index.m3u8
 http://103.185.24.134:3001/NATGEO-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="natgeo_wild_hd" tvg-logo="http://monirul.bro.bd/assets/images/NATGEO WILD HD1745038542.png" group-title="English",NATGEO WILD HD
+http://51.75.127.199:3141/natgeowild/index.m3u8
 
+#EXTINF:-1 tvg-id="local.2ff5fac7d61c" tvg-name="Wild Flix Hindi" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-chno="521" channel-id="local.2ff5fac7d61c" group-title="Documentary & Wildlife",Wild Flix Hindi
+https://cc-qgrxgp51645lw.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qgrxgp51645lw/IQJW/WBD/WildFlix_IN/WildFlix_IN.m3u8
+
+#EXTINF:-1 tvg-id="local.10aec2f64472" tvg-name="Wild Planet" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-chno="522" channel-id="local.10aec2f64472" group-title="Documentary & Wildlife",Wild Planet
+https://d1h8whhtg5u7om.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3u3ceovu5thv6/WildPlanet_GB.m3u8
+
+#EXTINF:-1 tvg-id="WildEarth.za" tvg-name="WildEarth" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-chno="523" channel-id="WildEarth.za" group-title="Documentary & Wildlife",WildEarth
+https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+
+#EXTINF:-1 tvg-id="local.d7871dec1dac" tvg-name="Witness to Justice" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-chno="524" channel-id="local.d7871dec1dac" group-title="Documentary & Wildlife",Witness to Justice
+https://dxwldsv8fdzik.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l2dz2a7mdvmzc/v1/aenetworks_witnesstojustice_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="local.5aea628e02ad" tvg-name="World War TV" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-chno="525" channel-id="local.5aea628e02ad" group-title="Documentary & Wildlife",World War TV
+https://aenetworks-worldwartv-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="local.005ec127787c" tvg-name="XXTreme Jobs Hindi" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-chno="526" channel-id="local.005ec127787c" group-title="Documentary & Wildlife",XXTreme Jobs Hindi
+https://cc-zko1curyce7jh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zko1curyce7jh/IQJW/WBD/XXtremeJobs_IN/XXtremeJobs_IN.m3u8
 
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/leazcc.jpeg" group-title="Movie Channels",MN+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
