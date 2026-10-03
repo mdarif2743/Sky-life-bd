@@ -1329,6 +1329,7 @@ http://103.114.11.37:8081/Duronto/index.m3u8?token=dsgdfgsdfgasf
 https://box.bbaria.net/DurontoTV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="hungama" tvg-logo="http://monirul.bro.bd/assets/images/HUNGAMA1745041551.png" group-title="Kids",HUNGAMA
+http://51.75.127.199:3141/hungama/index.m3u8
 http://103.185.24.134:3001/HUNGAMA/index.m3u8
 
 #EXTINF:-1 tvg-id="SONY-YAY!.in" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20YAY.png",Sony Yay
@@ -1343,6 +1344,7 @@ http://103.165.93.31:8095/nick/tracks-v1a1/mono.m3u8
 https://jioplaylistdown.yecic62314.workers.dev/live.m3u8?id=1341
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2022/02/Disney-Kids-Network-to-launch-new-kids-channel-%E2%80%98Super-Hungama%E2%80%99.jpg" group-title="KIDS", SUPER HUNGAMA
+http://51.75.127.199:3141/superhungama/index.m3u8
 http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.exchange4media.com/news-photo/112560-pic161.jpg" group-title="KIDS", ETV BAL BHARAT
