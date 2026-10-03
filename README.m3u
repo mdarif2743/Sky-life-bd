@@ -13,6 +13,15 @@ https://tfzm0gr3uomttgr31hctofaauopjpptwzc3jt.100ycdn.com/live1.quickscoreboardz
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/mdarif2743/Sky-life-bd/main/IMG_20260723_130039_939.jpg", SKY LIFE BD(FREE IPTV) live sports
 https://play.aarray.cn/rrty/hd-en-1-4565077_gqzm.m3u8?auth_key=1790683803-0-0-0de7494375c3b90925801c9bdf6e9c45&token=df4f15deefede6db&device=4&platform=rrty
 
+#EXTINF:-1 tvg-id="1090546668" tvg-name="India's International Friendlies 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025694/1790988470293353_FIFA_International_friendlies_India_vs_Brazil_live_landscape_thumb.jpg" tvg-language="English" group-title="Football",ENG | India vs Brazil - 3 Oct 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2120301/footlive0310/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=e2e57dab3cb843a137f022377d16c719-1791033901959
+
+#EXTINF:-1 tvg-id="1090546668" tvg-name="India's International Friendlies 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025694/1790988470293353_FIFA_International_friendlies_India_vs_Brazil_live_landscape_thumb.jpg" tvg-language="Hindi" group-title="Football",HIN | India vs Brazil - 3 Oct 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2120301/footlive0310/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=e2e57dab3cb843a137f022377d16c719-1791033901959
+
+#EXTINF:-1 tvg-id="1090546669" tvg-name="India's International Friendlies 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025782/1791032955786967_FIFA_International_friendlies_India_vs_Brazil_live_landscape_thumb_bengali.jpg" tvg-language="Bengali" group-title="Football",BEN | India vs Brazil - 3 Oct 2026 (Bengali)
+https://sonymtmnew-akamaized.pages.dev/hls/live/2120303/footlive0310/BEN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=e2e57dab3cb843a137f022377d16c719-1791033901959
+
 #EXTINF:-1, tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=9a0c3048-b5fb-4196-99d1-4a44b6bd035a&quality=50", SKY LIFE BD(FREE IPTV) live sports
 http://str24.l9574.com/905.stream/index.m3u8
 
