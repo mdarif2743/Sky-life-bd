@@ -1011,6 +1011,9 @@ https://cdn.pishow.tv/ott/live/1460/master.m3u8
 https://cdn.pishow.tv/ott/live/1143/master.m3u8
 http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/25082.m3u8
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="India",Mastiii (576p)
+https://mumbai-edge.smartplaytv.in/MastiMusic/index.m3u8
+
 #EXTINF:-1 tvg-id="aljazeeta_hd" tvg-logo="http://monirul.bro.bd/assets/images/ALJAZEETA HD1745044358.png" group-title="English",ALJAZEETA HD
 https://live-hls-web-aje-gcp.thehlive.com/AJE/03.m3u8
 
