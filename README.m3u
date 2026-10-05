@@ -837,6 +837,9 @@ https://flussonic.defineatoz.com/sony8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="enterr_10" tvg-logo="http://monirul.bro.bd/assets/images/ENTERR 101745044330.png" group-title="Bangla",ENTERR 10
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_KHUSHBOO_BANGLA/images/LOGO_HD/image.png" group-title="India",Khushboo Bangla
+https://cdn.pishow.tv/ott/live/1473/master.m3u8
+
 #EXTINF:-1 group-logo="https://i.postimg.cc/PrLZryqH/Jio-TV.jpg" tvg-id="1120" tvg-name="Jalsha Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jalsha_Movies.png" group-title="JioTV+ | Bengali",Jalsha Movies
 https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8
 
@@ -1009,6 +1012,12 @@ https://cdn.pishow.tv/ott/live/1461/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Goldmines Movies 2
 https://cdn.pishow.tv/ott/live/1460/master.m3u8
 
+#EXTINF:-1 tvg-id="10543" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1799055944B4U_BHOJPURI.webp" group-title="Entertainment", B4U Bhojpuri
+https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
+
+#EXTINF:-1 tvg-id="BhojpuriCinema.in" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/in/BhojpuriCinema.in.png" group-title="India [SD]",Bhojpuri Cinema [SD]
+https://cdn.pishow.tv/ott/live/1033/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-pix-in.png", SONY PIX HD
 https://techandeat.online/sliv/stream.m3u8?id=1000009258|Referer=https://techandeat.online/
 #EXTVLCOPT:http-referer=https://techandeat.online/sliv/
@@ -1052,6 +1061,9 @@ http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/25082.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="India",Mastiii (576p)
 https://mumbai-edge.smartplaytv.in/MastiMusic/index.m3u8
+
+#EXTINF:-1 tvg-id="SangeetBhojpuri.in" tvg-name="Sangeet Bhojpuri KB" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sangeet_Bhojpuri.png" tvg-country="IN" group-title="Music" tvg-quality="576p",Sangeet Bhojpuri KB
+https://mumt01.tangotv.in/O5aw8Zn3SANGEETBHOJPURI/index.m3u8
 
 #EXTINF:-1 tvg-id="aljazeeta_hd" tvg-logo="http://monirul.bro.bd/assets/images/ALJAZEETA HD1745044358.png" group-title="English",ALJAZEETA HD
 https://live-hls-web-aje-gcp.thehlive.com/AJE/03.m3u8
@@ -1696,6 +1708,9 @@ https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="disney-channel" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_Channel.png" group-title="Kids",Disney Channel
 http://51.75.127.199:3141/disneychannel/index.m3u8
 http://202.70.146.135:8000/play/a01q/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyJunior.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_JUNIOR/images/LOGO_HD/image.png" group-title="Kids",Disney Junior (India) (576p)
+http://51.75.127.199:3141/disneyjunior/index.m3u8
 
 #EXTINF:-1 tvg-id="disney-channel" tvg-logo="https://live.dinesh29.com.np/logos/disney-channel.png" group-title="Kids",Disney Channel HD
 
