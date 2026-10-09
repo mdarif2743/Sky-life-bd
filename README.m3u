@@ -949,6 +949,11 @@ http://38.96.178.205/ZEE_TV/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=65c3633157574361b191059e46e72968:78450b11381340c297d96c13183d3744
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd/default/index.mpd
 
+#EXTINF:-1 group-title="StarzPlay ©",Zee_TV_HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7aae09291abaf24bfd7a68c0d2534ef5:cb04af41719c30ca141028c08ab7c2c9
+https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_TV_HD_ME/dash/drm/index.mpd
+
 #EXTINF:-1 tvg-id="Zee.TV.HD.uk" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002FYLVC.png" group-title="🎭 Entertainment",Zee TV HD • DE
 https://d47ddb99.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1kZV9aZWVUVkhEVUtHZXJtYW55X0hMUw/playlist.m3u8
 
