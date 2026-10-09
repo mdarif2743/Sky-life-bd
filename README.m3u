@@ -147,6 +147,11 @@ https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/229_HTTP/__op
 #KODIPROP:inputstream.adaptive.license_key=ba8bc6cb4ea60a7d9bcd53faa56f2a9c:c09034d43abd57b8c6c5707770bd1ce5
 https://live-hw-stream.starzplayarabia.com/GolfLife/dash/drm/index.mpd
 
+#EXTINF:-1 tvg-logo="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/criclife1-active.png" group-title="StarzPlay ©",StarzPlay cricket 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ae4f162eec3e6f2b580a5bf0f4a64d4:03483335db81cba5bbcf51b6d31196d9
+https://dfus5rb42if6f.cloudfront.net/v1/dash/eeb5dfd8be1d42cebda3c08973c15ec684f7ea9b/CWCW-PreRoll-Live-DASH/out/v1/45ba30e075ad455a8767d3f33e67ea3d/index.mpd
+
 #EXTINF:-1 tvg-logo="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/criclife1-active.png" group-title="StarzPlay ©",StarzPlay cricket
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b660aa26290d401fd3596d41079619ff:f60928c13011b9e6b2f651232e1e7f9e
