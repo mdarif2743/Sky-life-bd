@@ -160,6 +160,16 @@ https://sps3.starzplayarabia.com/out/v1/95528122fa434bcd948c9ed2e7afabee/index.m
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://sps1.starzplayarabia.com/out/v1/eee188845e9543699fd24e5a9890c6e2/index.mpd
 
+#EXTINF:-1 group-title="StarzPlay ©",starzplay-cricket
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b660aa26290d401fd3596d41079619ff:f60928c13011b9e6b2f651232e1e7f9e
+https://criclive1.starzplayarabia.com/out/v1/sp_tv_enc/criclife1/criclife1_dash_enc/index.mpd
+
+#EXTINF:-1 group-title="StarzPlay ©",starzplay Golf
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ba8bc6cb4ea60a7d9bcd53faa56f2a9c:c09034d43abd57b8c6c5707770bd1ce5
+https://live-hw-stream.starzplayarabia.com/GolfLife/dash/drm/index.mpd
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4dpY8jy9em0gIQ7QJzw9DdP0H0uMiI99fQLeumVi5S0FRRJ4rZYRcVFA&s=10", EPL LIVE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=96a14b36335645b391bbbb48c424fec7:e6971b27837a4822832d8215156bb516
@@ -633,6 +643,9 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bn-ch-1/1104
 http://103.185.24.134:3001/TSportsHD/index.m3u8
 
 #EXTINF:-1 tvg-id="202995ff-6d89-4f7e-9bcb-ab36cf530a17" tvg-name="Quran" tvg-logo="https://s3.aynaott.com/storage/35088d7015b1509b2c9cbc94503d5a6e" group-title="Religious",Quran
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bff4673a52144d11c8bcb7b3f4ba5c51:51127b0a2598d705d600e345915bb720
+https://ev-fast-mpd.starzplayarabia.com/live/eds/Saudi_Quran_HD/DASH/Saudi_Quran_HD.mpd
 https://s1.ideationtec.live/Saudi_Quran_HD/Saudi_Quran_HD.m3u8
 https://vodzong.mjunoon.tv:8087/streamtest/SaudiQuran-142/playlist.m3u8
 
