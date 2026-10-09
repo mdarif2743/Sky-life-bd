@@ -222,6 +222,11 @@ https://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87b
 #KODIPROP:inputstream.adaptive.license_key=50a7f3afc00a40b38face4db639d0e4c:ad7000691326064706281a700b7d6714
 https://shahid-sports-2-enc.edgenextcdn.net/out/v1/589aa6b16ce942388695b5b214f4ae93/index.mpd
 
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/shahidlogo/light/Shahid_logo_light/original/Shahid_logo_light.png" group-title="MBC Shahid ©", mbc shahid-sports-3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2b6f6b340aa8467785e4e82f9320fb5a:8889701d704078c4d910ed1409413d9b
+https://shahid-sports-3-enc.edgenextcdn.net/out/v1/2658c96bbfa54f339e357fe36361587e/index.mpd
+
 #EXTINF:-1 group-title="Starz-play" tvg-logo="http://tv.asc.vg/shahid.sport.png", shahid SPORTS 3 🇦🇪
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
