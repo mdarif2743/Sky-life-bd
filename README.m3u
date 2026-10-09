@@ -892,6 +892,11 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 #EXTINF:-1 tvg-id="SET-HD" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png",SET HD
 http://38.96.178.205/SONYHD/index.m3u8
 
+#EXTINF:-1 group-title="StarzPlay ©",Sony_Ent_TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e35e5ef1aa703050fe19581ccc91add9:09766bbf45149e13808f7be611b2338c
+https://ev-fast-mpd.starzplayarabia.com/live/eds/Sony_Ent_TV_New/DASH/Sony_Ent_TV_New.mpd
+
 #EXTINF:-1 tvg-id="SONY-PAL" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20PAL.png",Sony Pal
 https://techandeat.online/sliv/stream.m3u8?id=1000009273|Referer=https://techandeat.online/
 http://103.155.18.186:8000/play/a0ac/index.m3u8
@@ -906,6 +911,11 @@ http://103.155.18.186:8000/play/a025/index.m3u8
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 16) ExoPlayerLib/2.14.1
 https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009248|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009248
 https://playyonogames.in/sliv/stream.m3u8?id=1000009248|Referer=https://playyonogames.in/
+
+#EXTINF:-1 group-title="StarzPlay ©",SONY_SAB
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9c8141f1033bf7fccde521a6055e891f:429c26c5ba69ffec7bc69b4165b40e99
+https://ev-eu-hw-fast-mpd.starzplayarabia.com/SONY_SAB/dash/drm/index.mpd
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/PrLZryqH/Jio-TV.jpg" tvg-id="144" tvg-name="Colors HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsHD.png" group-title="JioTV+ | Entertainment",Colors HD
 http://103.114.11.37:8081/Colors-HD/index.m3u8?token=dsgdfgsdfgasf
