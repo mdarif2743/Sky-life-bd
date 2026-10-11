@@ -966,7 +966,10 @@ https://footfytv.pro/proxy/direct?url=http://livetv.akr4m.com:8080/bdtv/restrem/
 #EXTINF:-1 tvg-id="0-9-366" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-366/list/1920x1080lista0006de49f9b4d14b3e63b76723b7e8d.png" group-title="Entertainment", Zee Bangla
 http://livetv.akr4m.com:8080/bdtv/restrem/35.m3u8
 
-#EXTINF:-1 tvg-id="0-9-zeebangla" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeebangla/list/1920x1080listb2674154e8ac473f8f37ad418ac013ec.png" group-title="Entertainment", Zee Bangla HD
+#EXTINF:-1 tvg-id="9504796" tvg-name="Zee Bangla HD" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/dd74c3cd17ff4baca804bce74b811384/version/0" group-title="Entertainment",Zee Bangla HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bdc986637b1b46d0ade9b242b4309209:77592e94516a911a1b8275badc7ca5b6
+https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Bangla_HD/dash/Zee_Bangla_HD.mpd
 #http://51.75.127.199:3141/zeebanglahd/index.m3u8
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8
 
@@ -1057,10 +1060,10 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsme.smil/playlist.m3u8
 #https://manatv.akamaized.net/090823/smil:ristheyamerica.smil/playlist.m3u8
 http://27.116.22.53:5001/live/279.m3u8
 
-#EXTINF:-1 tvg-chno="108" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022RLRS.png?lock=720x540" group-title="Entertainment",&TV HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=67d18634ccb04875875c60fb8d9caaba:99a66471c09e4b8a8dc39a0de6803f75
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd/default/manifest.mpd
+#EXTINF:-1 tvg-id="9487113" tvg-name="&Tv HD" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/6ce923e690114400bcdc43ea7a3b27be/version/0" group-title="Entertainment",&Tv HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7065db649cdb4a489f5707ca30234f7c:c23de56d578f836471e4df99f6132b4b
+https://d2o8pibksxtln6.cloudfront.net/live/media/And_Tv_HD/dash/And_Tv_HD.mpd
 
 #EXTINF:-1 tvg-id="star_plus_hd" tvg-logo="http://monirul.bro.bd/assets/images/STAR PLUS HD1745038577.png" group-title="Hindi",STAR PLUS HD
 http://38.96.178.205/STARPLUS/index.m3u8
@@ -1488,44 +1491,43 @@ https://cdn.pishow.tv/ott/live/1461/master.m3u8
 #EXTINF:-1 tvg-id="music_india" tvg-logo="http://monirul.bro.bd/assets/images/Music India1750867544.png" group-title="Hindi",Music India
 https://cdn.pishow.tv/ott/live/226/master.m3u8
 
-#EXTINF:-1 tvg-chno="304" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022J67R.png?lock=720x540" group-title="Movies",&Pictures HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=de8045e9f0fb4d03845dcc4a8bd7712a:6807bd09bda34ada83152908192af6d6
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd
-
-#EXTINF:-1 tvg-chno="307" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022T6DM.png?lock=720x540" group-title="Movies",Zee Bollywood
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e61523260c614746b25b9a5523fe9a39:72ddbf37f76f49acbb8e140e7279e7a1
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood/default/manifest.mpd
-
-#EXTINF:-1 tvg-chno="310" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022K5ZV.png?lock=720x540" group-title="Movies",Zee Action
-http://107.167.16.138/zeeaction/index.m3u8?token=test
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9d7a1917ee3244d198193cdd1ff1feae:3c3e8d0259f748f1830f713a769760e7
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction/default/manifest.mpd
-
-#EXTINF:-1 tvg-id="9487096" tvg-name="Zee Cinema HD" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/d2316f5734094e8486486d6911fe6560/version/0" group-title="Movies",Zee Cinema HD
-http://103.114.11.37:8081/Z-Cinema/index.m3u8?token=dsgdfgsdfgasf
+#EXTINF:-1 tvg-id="9487112" tvg-name="&Pictures HD" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/75364a7b9f09477b9ee80016a6440b6b/version/0" group-title="Movies",&Pictures HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4e334f45276141bfbe6d00394f003599:823fcf696f4f39f6af6477eb6f20df6a
+#KODIPROP:inputstream.adaptive.license_key=240b41b457d843d98b7077ec08e30bd4:2e00b510671bbac4d7098178f4be18c4
+https://d2o8pibksxtln6.cloudfront.net/live/media/And_Pictures_HD/dash/And_Pictures_HD.mpd
+
+#EXTINF:-1 tvg-id="9624887" tvg-name="Zee Biskope" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/bb424c74bfd54392a86b4a343996b6d5/version/0" group-title="Entertainment",Zee Biskope
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4b7508e6e71f479699d4481eddbfaae4:41002224910841d93e885571edb1b7ae
+https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Biskope/dash/Zee_Biskope.mpd
+
+#EXTINF:-1 tvg-id="9487104" tvg-name="Zee Bollywood" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/e1de996d54864c78b8daf60d63974223/version/0" group-title="Movies",Zee Bollywood
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea42bc2544a94eb2a771591deb2838a6:5cdf1e4cf85e057d873e2f9f2c9f7bbb
+https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Bollywood/dash/Zee_Bollywood.mpd
+
+#EXTINF:-1 tvg-id="9487096" tvg-name="Zee Cinema HD" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/c91e031d66e1443a9412978290a260db/version/0" group-title="Movies",Zee Cinema HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b8997504fe5b4654be3a1e9fa4536c1e:0eb93536c9e631084fd03ef288787907
 https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Cinema_HD/dash/Zee_Cinema_HD.mpd
+http://103.114.11.37:8081/Z-Cinema/index.m3u8?token=dsgdfgsdfgasf
 
 #EXTINF:-1 tvg-chno="338" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022HVX3.png?lock=720x540" group-title="Movies",Zee Cinema HD APAC
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8
 
-#EXTINF:-1 tvg-chno="355" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00260YG8.png?lock=720x540" group-title="Movies",Anmol Cinema
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=812411cba8bc42c79eb2b19cd78ad3f3:468a0b8d3d5d42d8a5c41bb875390a74
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema/default/manifest.mpd
+#EXTINF:-1 tvg-id="9487052" tvg-name="Zee Action" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/34108078d7874122b00072cb48a6968a/version/0" group-title="Movies",Zee Action
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bbc7f57d9dac4e89aa5176d371f012de:1c4f37c815c413853b36093b3931b5a0
+https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Action/dash/Zee_Action.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TTAGFHG.png" group-title="Djibouti",MBC Bollywood (1080p) [Geo-blocked]
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
 
-#EXTINF:-1 tvg-chno="451" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025L26R.png?lock=720x540" group-title="Music",Zing
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f0fb14eebe474a6ab74c8301d55a7224:f9f8b2e30704458b8db844a285ce32be
-#http://107.167.16.138/zing/index.m3u8?token=test
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/manifest.mpd
+#EXTINF:-1 tvg-id="9487091" tvg-name="Zing" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/8ec419e798e644fca91ae4e11f182a1c/version/0" group-title="Entertainment",Zing
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=26df880e1dbf4b93afb7c49aedcc3561:6c547f370e63b0cd92c4bd86b04efefa
+https://d2o8pibksxtln6.cloudfront.net/live/media/Zing/dash/Zing.mpd
+http://107.167.16.138/zing/index.m3u8?token=test
 
 #EXTINF:-1, ZEE ZEST HD
 http://107.167.16.138/zeezesthd/index.m3u8?token=test
@@ -1536,12 +1538,12 @@ https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:-1 tvg-chno="135" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/lcMc75Xr.png" group-title="Services",ShortsTV Active
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b994480f788d41ddbc805862ac469416:78a6a0fc1758483595da7113e58e4467
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Shortstv2/default/manifest.mpd
+#https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Shortstv2/default/manifest.mpd
 
 #EXTINF:-1 tvg-chno="136" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/BNu8WvFw.png" group-title="Services",Korean Drama Active
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ed197e7253c04946903f03bad9afac91:99ebb8683ea74b70a9fda1cbdc2cc1b4
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Koreandramas2/default/manifest.mpd
+#https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Koreandramas2/default/manifest.mpd
 
 #EXTINF:-1 tvg-id="HiDost.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Hi_Dost.png" group-title="Entertainment",Hi Dost! (720p)
 https://cdn.pishow.tv/ott/live/224/master.m3u8
