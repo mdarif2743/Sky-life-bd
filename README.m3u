@@ -1495,8 +1495,8 @@ https://cdn.pishow.tv/ott/live/226/master.m3u8
 
 #EXTINF:-1 tvg-id="9487112" tvg-name="&Pictures HD" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/75364a7b9f09477b9ee80016a6440b6b/version/0" group-title="Movies",&Pictures HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=240b41b457d843d98b7077ec08e30bd4:2e00b510671bbac4d7098178f4be18c4
-https://d2o8pibksxtln6.cloudfront.net/live/media/And_Pictures_HD/dash/And_Pictures_HD.mpd
+#KODIPROP:inputstream.adaptive.license_key=
+http://str24.l9574.com/705.stream/index.m3u8
 
 #EXTINF:-1 tvg-id="9624887" tvg-name="Zee Biskope" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/bb424c74bfd54392a86b4a343996b6d5/version/0" group-title="Entertainment",Zee Biskope
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
