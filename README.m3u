@@ -1520,8 +1520,8 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 
 #EXTINF:-1 tvg-id="9487052" tvg-name="Zee Action" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/34108078d7874122b00072cb48a6968a/version/0" group-title="Movies",Zee Action
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bbc7f57d9dac4e89aa5176d371f012de:1c4f37c815c413853b36093b3931b5a0
-https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Action/dash/Zee_Action.mpd
+#KODIPROP:inputstream.adaptive.license_key=
+http://107.167.16.138/zeeaction/index.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TTAGFHG.png" group-title="Djibouti",MBC Bollywood (1080p) [Geo-blocked]
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
