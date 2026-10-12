@@ -1502,12 +1502,12 @@ http://str24.l9574.com/705.stream/index.m3u8
 #EXTINF:-1 tvg-id="9624887" tvg-name="Zee Biskope" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/bb424c74bfd54392a86b4a343996b6d5/version/0" group-title="Entertainment",Zee Biskope
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4b7508e6e71f479699d4481eddbfaae4:41002224910841d93e885571edb1b7ae
-https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Biskope/dash/Zee_Biskope.mpd
+#https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Biskope/dash/Zee_Biskope.mpd
 
 #EXTINF:-1 tvg-id="9487104" tvg-name="Zee Bollywood" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/e1de996d54864c78b8daf60d63974223/version/0" group-title="Movies",Zee Bollywood
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ea42bc2544a94eb2a771591deb2838a6:5cdf1e4cf85e057d873e2f9f2c9f7bbb
-https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Bollywood/dash/Zee_Bollywood.mpd
+#KODIPROP:inputstream.adaptive.license_key=
+http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/181291.ts
 
 #EXTINF:-1 tvg-id="9487096" tvg-name="Zee Cinema HD" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/c91e031d66e1443a9412978290a260db/version/0" group-title="Movies",Zee Cinema HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1528,8 +1528,7 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a2
 
 #EXTINF:-1 tvg-id="9487091" tvg-name="Zing" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/8ec419e798e644fca91ae4e11f182a1c/version/0" group-title="Entertainment",Zing
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=26df880e1dbf4b93afb7c49aedcc3561:6c547f370e63b0cd92c4bd86b04efefa
-https://d2o8pibksxtln6.cloudfront.net/live/media/Zing/dash/Zing.mpd
+#KODIPROP:inputstream.adaptive.license_key=
 http://107.167.16.138/zing/index.m3u8?token=test
 
 #EXTINF:-1, ZEE ZEST HD
