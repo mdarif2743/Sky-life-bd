@@ -1299,6 +1299,9 @@ https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="ch_115" tvg-name="SGGN Music" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/SGGN%20Music.webp" group-title="TV",SGGN Music
 https://ethersoftwaresolution.com/live/sgcnmusic/index.m3u8
 
+#EXTINF:-1 tvg-id="ch_119" tvg-name="Epic Music" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Epic%20Music.webp" group-title="TV",Epic Music
+https://cc-3cyxq80qusspd.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/d68f6612-3a4e-4ed4-9853-fc41801678d1/2.m3u8
+
 #EXTINF:-1 tvg-id="aljazeeta_hd" tvg-logo="http://monirul.bro.bd/assets/images/ALJAZEETA HD1745044358.png" group-title="English",ALJAZEETA HD
 https://live-hls-web-aje-gcp.thehlive.com/AJE/03.m3u8
 
