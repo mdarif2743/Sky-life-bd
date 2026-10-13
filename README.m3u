@@ -1798,6 +1798,21 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU
 
 #EXTINF:-1 group-title="list sport ini khusus digital tv.apk" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN SPORT ARAB 9
 
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/b46df1959322aa48d270a6b163234c76" group-title="Sports",ESPN
+https://s2.bufaloweb.com/bufalo4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/b46df1959322aa48d270a6b163234c76" group-title="Sports",ESPN
+https://s2.bufaloweb.com/bufalo5/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/b46df1959322aa48d270a6b163234c76" group-title="Sports",ESPN
+https://s2.bufaloweb.com/bufalo6/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/b46df1959322aa48d270a6b163234c76" group-title="Sports",ESPN
+https://s2.bufaloweb.com/bufalo7/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/b46df1959322aa48d270a6b163234c76" group-title="Sports",ESPN
+https://s2.bufaloweb.com/bufalo8/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/CtHSL6T/20241123-101150.png" group-title="Sports" tvg-id="espn.id" ch-number="54" tvg-name="ESPN", ESPN
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cb004fb100bd92f23793562891e3236b:b3e4e74ae2080b137e68bbd0ef8a7e05
