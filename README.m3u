@@ -1516,7 +1516,7 @@ http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/181291.ts
 #EXTINF:-1 tvg-id="9487096" tvg-name="Zee Cinema HD" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/c91e031d66e1443a9412978290a260db/version/0" group-title="Movies",Zee Cinema HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b8997504fe5b4654be3a1e9fa4536c1e:0eb93536c9e631084fd03ef288787907
-https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Cinema_HD/dash/Zee_Cinema_HD.mpd
+#https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Cinema_HD/dash/Zee_Cinema_HD.mpd
 http://103.114.11.37:8081/Z-Cinema/index.m3u8?token=dsgdfgsdfgasf
 
 #EXTINF:-1 tvg-chno="338" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022HVX3.png?lock=720x540" group-title="Movies",Zee Cinema HD APAC
