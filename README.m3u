@@ -810,7 +810,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://btv.hridoytv-channel.workers.dev/sangsad.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/songsodtv-world.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="atn_bangla" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/BTV.webp" group-title="Bangla",ATN BANGLA
+#EXTINF:-1 tvg-id="atn_bangla" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/ATN%20Bangla.webp" group-title="Bangla",ATN BANGLA
 #http://103.135.253.32:8080/ATN-Bangla/index.m3u8
 http://tvsen5.aynascope.net/atnbangla/index.m3u8
 
@@ -893,35 +893,35 @@ https://tvsen5.aynaott.com/tK2BNdfsdfsdf/index.m3u8
 #http://livetv.akr4m.com:8080/bdtv/restrem/17.m3u8
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 
-#EXTINF:-1 tvg-id="addb7014-1d2e-41d8-982d-7cafbdc48770" tvg-name="Bangla TV" tvg-logo="https://s3.aynaott.com/storage/5b22893ae4e816ef2cf87e63c96e9e08" group-title="Channels",Bangla TV
+#EXTINF:-1 tvg-id="addb7014-1d2e-41d8-982d-7cafbdc48770" tvg-name="Bangla TV" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Bangla%20TV.webp?raw=true" group-title="Channels",Bangla TV
 https://cdn.ghuddi.live/tvapp/Bangla_TV_BD_New/playlist.m3u8|Referer=https://ghuddi.tv/
 http://livetv.akr4m.com:8080/bdtv/restrem/8.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.ghuddi.tv/uploads/images/2024/08/01/thumbnails_eac5034b1a589f589293aa6b92bcead1_goplay_bangla_tv_eu_1920_x_1080.png?w=1080&q=75",Bangla TV Europe
 https://cdn.ghuddi.live/tvapp/Bangla_TV_EU_New/playlist.m3u8|Referer=https://ghuddi.tv/
 
-#EXTINF:-1 tvg-id="ekattor_tv" tvg-logo="http://monirul.bro.bd/assets/images/Ekattor Tv1750866647.png" group-title="Bangla",Ekattor Tv
+#EXTINF:-1 tvg-id="ekattor_tv" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Ekattor%20TV.webp" group-title="Bangla",Ekattor Tv
 http://103.135.253.32:8080/Ekattor-TV/index.m3u8
 https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8
 
-#EXTINF:-1 tvg-id="global_tv" tvg-logo="http://monirul.bro.bd/assets/images/Global Tv1752498856.png" group-title="Bangla",Global Tv
+#EXTINF:-1 tvg-id="global_tv" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Global%20Television.webp" group-title="Bangla",Global Tv
 #http://livetv.akr4m.com:8080/bdtv/restrem/22.m3u8
 http://116.204.149.16/globaltv/index.m3u8
 
-#EXTINF:-1 tvg-id="gtv" tvg-logo="http://monirul.bro.bd/assets/images/GTV1745042853.png" group-title="Bangla",GTV
+#EXTINF:-1 tvg-id="gtv" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Gazi%20TV.webp" group-title="Bangla",GTV
 http://103.135.253.32:8080/Gazi-TV/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/ananda-tv.png" group-title="SM_IPTV",Ananda TV
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Ananda%20TV.webp" group-title="SM_IPTV",Ananda TV
 #http://livetv.akr4m.com:8080/bdtv/restrem/4.m3u8
 https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/nexus-tv.png" group-title="SM_IPTV",Nexus TV
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Nexus%20Television.webp" group-title="SM_IPTV",Nexus TV
 #https://media.hmair.xyz/api/play/Nexus%20TV.m3u8
 https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8
 https://stream.ottplus.live/live/nexus_tv_abr/index.m3u8
 
-#EXTINF:-1 tvg-id="independent_tv" tvg-logo="http://monirul.bro.bd/assets/images/INDEPENDENT TV1745044077.png" group-title="Bangla",INDEPENDENT TV
+#EXTINF:-1 tvg-id="independent_tv" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Independent.webp" group-title="Bangla",INDEPENDENT TV
 #https://media.hmair.xyz/api/play/Independent%20TV.m3u8
 #http://livetv.akr4m.com:8080/bdtv/restrem/23.m3u8
 https://tvsen6.aynaott.com/Wef2Vj67njeYGDqQNFB9/index.m3u8
@@ -929,44 +929,44 @@ https://tvsen6.aynaott.com/Wef2Vj67njeYGDqQNFB9/index.m3u8
 #EXTINF:-1 tvg-name="Ekhon Tv" tvg-logo="https://i.postimg.cc/SNnz9nWH/Ekhon-Logo.png" group-title="All-In-One~ENT🧩",Ekhon Tv
 https://tvsen6.aynaott.com/fbgZV3X17hwWcyfZ4pdb/index.m3u8
 
-#EXTINF:-1 tvg-id="141" group-title="Entertainment" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1746005940155.png",SRK TV 
+#EXTINF:-1 tvg-id="141" group-title="Entertainment" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/SRK.webp?raw=true",SRK TV 
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1683606878-6994272.png" group-title="Bangladesh", গ্ৰীন টিভি বাংলাদেশ
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Channel_S.png" group-title="BANGLADESH",Channel S
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Channel%20S.webp" group-title="BANGLADESH",Channel S
 https://app.ncare.live/live-orgin/channels.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/bijoy-tv.png" group-title="SM_IPTV",Bijoy TV
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Bijoy%20TV.webp?raw=true" group-title="SM_IPTV",Bijoy TV
 #http://livetv.akr4m.com:8080/bdtv/restrem/9.m3u8
 https://tvsen6.aynaott.com/N8Xbo5vdwVU6sF43RsW0/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/mohona-tv.png" group-title="SM_IPTV",Mohona TV
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Mohona%20TV.webp" group-title="SM_IPTV",Mohona TV
 https://tvsen6.aynaott.com/AkyX5dunzju4cpo26dr7/index.m3u8
 
-#EXTINF:1 tvg-name="boishakhitv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0uWrO_3qX3hj7I2kpPiVhKpuASKJ_u5PxDTq5VoRAuQ&s" group-title="All-In-One~ENT🧩",Boishakhi tv
+#EXTINF:1 tvg-name="boishakhitv" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Boishakhi%20TV.webp" group-title="All-In-One~ENT🧩",Boishakhi tv
 #http://livetv.akr4m.com:8080/bdtv/restrem/10.m3u8
 https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/jamuna-tv.png" group-title="SM_IPTV",Jamuna TV
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Jamuna%20TV.webp" group-title="SM_IPTV",Jamuna TV
 http://103.135.253.32:8080/Jamuna-TV/index.m3u8
 https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8
 
-#EXTINF:-1 tvg-id="maasranga_hd" tvg-logo="http://monirul.bro.bd/assets/images/MAASRANGA HD1745044117.png" group-title="Bangla",MAASRANGA HD
+#EXTINF:-1 tvg-id="maasranga_hd" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Maasranga.webp" group-title="Bangla",MAASRANGA HD
 
 https://mtv.sunplex.live/MAASRANGA/index.m3u8
 
-#EXTINF:-1 tvg-id="nagorik" tvg-logo="http://monirul.bro.bd/assets/images/NAGORIK1745042776.png" group-title="Bangla",NAGORIK
+#EXTINF:-1 tvg-id="nagorik" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Nagorik.webp" group-title="Bangla",NAGORIK
 #http://livetv.akr4m.com:8080/bdtv/restrem/38.m3u8
 https://box.bbaria.net:8083/Nagorik_TV/video.m3u8
 https://flussonic.defineatoz.com/backup/tracks-v1a1/mono.m3u8?remote=103.114.23.14&token=205feaff08ac0e4c8c895093c6fc54225479a714-c02bf37325b9f215f8b11615ad227213-1782477110-1782466310
 
-#EXTINF:-1 tvg-id="news24hd" tvg-logo="http://monirul.bro.bd/assets/images/NEWS.24.HD1750866866.png" group-title="Bangla",NEWS.24.HD
-http://103.135.253.32:8080/News-24/index.m3u8
+#EXTINF:-1 tvg-id="news24hd" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/News%2024%20HD.webp" group-title="Bangla",NEWS.24.HD
+#http://103.135.253.32:8080/News-24/index.m3u8
 https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8
 
-#EXTINF:-1 tvg-id="somoy_tv" tvg-logo="http://monirul.bro.bd/assets/images/SOMOY TV1745044149.png" group-title="Bangla",SOMOY TV
+#EXTINF:-1 tvg-id="somoy_tv" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Somoy%20TV.webp" group-title="Bangla",SOMOY TV
 http://103.135.253.32:8080/SOMOY-TV/index.m3u8
 https://flussonic.defineatoz.com/somoy1/index.m3u8?token=b73d29bb194d96c48900446ea875df7df78ece98-794472f6e3fd0954c3a76dc8da74ae6c-1781458548-1781447748&remote=103.114.23.14
 
