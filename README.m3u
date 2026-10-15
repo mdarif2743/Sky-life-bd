@@ -1687,16 +1687,15 @@ https://techandeat.online/sliv/stream.m3u8?id=1000009275|Referer=https://techand
 http://103.185.24.134:3001/SONY-SPORTS.5HD/index.m3u8
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/PrLZryqH/Jio-TV.jpg" tvg-id="1106" tvg-name="Star Sports 1 HD" tvg-logo="https://img.media.jio.com/tvpimages/76/32/301981_1749665664018_l_medium.jpg" group-title="JioTV+ | Sports",Star Sports 1 HD
+http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/433637.m3u8
 http://103.114.11.37:8081/Star-sports-1/index.m3u8?token=dsgdfgsdfgasf
-http://livetv.akr4m.com:8080/bdtv/restrem/39.m3u8
-http://51.75.127.199:3141/starsports1/index.m3u8
 https://p4kp.rjmbts.workers.dev/25121.m3u8
 https://flussonic.defineatoz.com/Starsports1/tracks-v1a1/mono.m3u8?
 http://103.114.11.37:8081/Star-sports-1/index.m3u8?token=dsgdfgsdfgasf
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/PrLZryqH/Jio-TV.jpg" tvg-id="1109" tvg-name="Star Sports 2 HD" tvg-logo="https://img.media.jio.com/tvpimages/41/51/301983_1749666169105_l_medium.jpg" group-title="JioTV+ | Sports",Star Sports 2 HD
+http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/433640.m3u8
 http://str24.l9574.com/715.stream/index.m3u8
-http://51.75.127.199:3141/starsports2/index.m3u8
 https://p4kp.rjmbts.workers.dev/7458.m3u8
 https://flussonic.defineatoz.com/Starsports2/index.m3u8
 http://103.114.11.37:8081/Star-sports-2/index.m3u8?token=dsgdfgsdfgasf
@@ -1707,11 +1706,12 @@ http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/416135.m3u8
 http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/416135.m3u8
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/PrLZryqH/Jio-TV.jpg" tvg-id="460" tvg-name="Star Sports Select 1 HD" tvg-logo="https://img.media.jio.com/tvpimages/96/65/302113_1749664252703_l_medium.jpg" group-title="JioTV+ | Sports",Star Sports Select 1 HD
-http://103.114.11.37:8081/Star-select-1/index.m3u8?token=dsgdfgsdfgasf
-http://livetv.akr4m.com:8080/bdtv/restrem/40.m3u8
+#http://103.114.11.37:8081/Star-select-1/index.m3u8?token=dsgdfgsdfgasf
+http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/433642.m3u8
 https://flussonic.defineatoz.com/starsportsselect1/tracks-v1/mono.m3u8
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/PrLZryqH/Jio-TV.jpg" tvg-id="461" tvg-name="Star Sports Select 2 HD" tvg-logo="https://img.media.jio.com/tvpimages/98/79/302114_1749665414817_l_medium.jpg" group-title="JioTV+ | Sports",Star Sports Select 2 HD
+http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/302026.m3u8
 http://103.114.11.37:8081/Star-select-2/index.m3u8?token=dsgdfgsdfgasf
 http://str24.l9574.com/737.stream/index.m3u8
 http://103.155.18.186:8000/play/a0ap/index.m3u8
