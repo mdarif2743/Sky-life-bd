@@ -840,7 +840,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 
 #EXTINF:-1 tvg-id="atn_bangla" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/ATN%20Bangla.webp" group-title="Bangla",ATN BANGLA
 #http://103.135.253.32:8080/ATN-Bangla/index.m3u8
-http://tvsen5.aynascope.net/atnbangla/index.m3u8
+https://tvsen5.aynaott.com/P3y2URgG7LDe/index.m3u8
 
 #EXTINF:-1 tvg-id="atn_news" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/ATN%20News.webp" group-title="Bangla",ATN NEWS
 https://tvsen6.aynaott.com/da6WMXAk/index.m3u8
@@ -896,7 +896,7 @@ https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8
 
 #EXTINF:-1 tvg-chno="118" tvg-id="70e97db9-5a9e-4642-874e-af3d30ba9925" tvg-name="RTV" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/RTV.webp" group-title="Recorded TV",RTV
 #https://j6nfugukcl.gpcdn.net/tile_6/master.m3u8
-http://tvsen5.aynascope.net/RtvHD/index.m3u8
+https://tvsen5.aynaott.com/RtvHD/index.m3u8
 
 #EXTINF:-1 tvg-id="1a2c8ec3-61d5-4355-80e2-fc3c9b178a0d" tvg-name="NTV" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/NTV.webp?raw=true" group-title="Recorded TV",NTV
 https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
