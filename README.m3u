@@ -823,6 +823,7 @@ https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/SaudiSunnah-141/
 
 
 #EXTINF:-1 tvg-id="btvhd" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/BTV.webp" group-title="Bangla",BTV.HD
+https://nkafmbewiff.gpcdn.net/tile_2/master.m3u8
 http://103.135.253.32:8080/BTV/index.m3u8
 https://zibo1.tvhunter.top/ffd/index.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/12.m3u8
@@ -879,7 +880,7 @@ https://tvsen5.aynaott.com/SyQuXz8sC3TB/index.m3u8
 https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8
 
 #EXTINF:-1 tvg-id="56f7abf3-1586-4f6d-9df2-1726ccb43779" tvg-name="Channel 9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/500px-Channel9_bd.svg.png" group-title="Channels",Channel 9
-#http://sm-monirul.xyz/private/live/CHANNEL-9/index.m3u8
+https://nkafmbewiff.gpcdn.net/tile_7/master.m3u8
 https://box.bbaria.net/Channel9/tracks-v1a1/index.m3u8
 https://tvsen6.aynaott.com/kajlsd57jnkdf/tracks-v1a1/mono.ts.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel9hd.stream/tracks-v1a1/mono.m3u8
@@ -902,6 +903,7 @@ https://tvsen5.aynaott.com/RtvHD/index.m3u8
 https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
 
 #EXTINF:-1 tvg-id="0be12af9-e713-4c65-b4ed-b735793a0418" tvg-name="Deepto TV" tvg-logo="https://imglink.cc/cdn/2ODX-FAGY4.png" group-title="Recorded TV",Deepto TV
+https://nkafmbewiff.gpcdn.net/tile_6/master.m3u8
 https://tvsen5.aynaott.com/tK2BNdfsdfsdf/index.m3u8
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 
@@ -959,6 +961,7 @@ https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8
 https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8
 
 #EXTINF:-1 tvg-id="maasranga_hd" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Maasranga.webp" group-title="Bangla",MAASRANGA HD
+https://nkafmbewiff.gpcdn.net/tile_4/master.m3u8
 https://mtv.sunplex.live/MAASRANGA/index.m3u8
 
 #EXTINF:-1 tvg-id="nagorik" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Nagorik.webp" group-title="Bangla",NAGORIK
