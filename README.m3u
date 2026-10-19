@@ -825,7 +825,7 @@ https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/SaudiSunnah-141/
 
 
 #EXTINF:-1 tvg-id="btvhd" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/BTV.webp" group-title="Bangla",BTV.HD
-https://nkafmbewiff.gpcdn.net/tile_2/master.m3u8
+#https://nkafmbewiff.gpcdn.net/tile_2/master.m3u8
 http://103.135.253.32:8080/BTV/index.m3u8
 https://zibo1.tvhunter.top/ffd/index.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/12.m3u8
@@ -1160,6 +1160,7 @@ https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009253|referer=https://do
 https://playyonogames.in/sliv/stream.m3u8?id=1000009253|Referer=https://playyonogames.in/
 
 #EXTINF:-1 tvg-id="max_1" tvg-logo="http://monirul.bro.bd/assets/images/MAX 11748857466.png" group-title="Hindi",MAX 1
+https://bdtop1.tvhunter.top/max1/index.m3u8
 http://27.116.22.53:5001/live/3418.m3u8
 http://live.balajibroadband.com:3500/live/3418.m3u8
 
