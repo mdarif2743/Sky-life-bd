@@ -1076,6 +1076,7 @@ https://playyonogames.in/sliv/stream.m3u8?id=1000009248|Referer=https://playyono
 https://ev-eu-hw-fast-mpd.starzplayarabia.com/SONY_SAB/dash/drm/index.mpd
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/PrLZryqH/Jio-TV.jpg" tvg-id="144" tvg-name="Colors HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsHD.png" group-title="JioTV+ | Entertainment",Colors HD
+http://103.135.253.32:8080/Color-HD/index.m3u8
 http://103.114.11.37:8081/Colors-HD/index.m3u8?token=dsgdfgsdfgasf
 http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/200466.m3u8
 
@@ -1616,6 +1617,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/pl
 https://cdn.pishow.tv/ott/live/415/master.m3u8
 
 #EXTINF:-1 tvg-id="duranta_tv" tvg-logo="http://monirul.bro.bd/assets/images/DURANTA TV1745043400.png" group-title="Kids",DURANTA TV
+http://103.135.253.32:8080/DORONTU-TV/index.m3u8
 http://103.114.11.37:8081/Duronto/index.m3u8?token=dsgdfgsdfgasf
 https://box.bbaria.net/DurontoTV/tracks-v1a1/mono.m3u8
 
@@ -1673,6 +1675,7 @@ https://vodzong.mjunoon.tv:8087/streamtest/Madni-121/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ptv_sports_hd" tvg-logo="http://monirul.bro.bd/assets/images/PTV SPORTS HD1745044993.png" group-title="Sports",PTV SPORTS HD
 https://live.incableinternet.com/ptv-sports/720p.m3u8
+http://103.135.253.32:8080/PTV-SPORTS/tracks-v1a1/mono.m3u8
 http://str24.l9574.com/601.stream/index.m3u8
 https://flussonic.defineatoz.com/PTV/index.m3u8
 
@@ -1720,6 +1723,7 @@ http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/416135.m3u8
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/PrLZryqH/Jio-TV.jpg" tvg-id="460" tvg-name="Star Sports Select 1 HD" tvg-logo="https://img.media.jio.com/tvpimages/96/65/302113_1749664252703_l_medium.jpg" group-title="JioTV+ | Sports",Star Sports Select 1 HD
 http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/416134.m3u8
+http://103.135.253.32:8080/STAR-SPORTS-SELECT-1/index.m3u8
 #http://103.114.11.37:8081/Star-select-1/index.m3u8?token=dsgdfgsdfgasf
 http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/433642.m3u8
 https://flussonic.defineatoz.com/starsportsselect1/tracks-v1/mono.m3u8
