@@ -982,7 +982,6 @@ http://103.135.253.32:8080/SOMOY-TV/index.m3u8
 http://103.151.60.162:2122/play/a00w/index.m3u8?hls
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/mk41wvy1/Jio-TV.jpg" tvg-id="317" group-title="JioTV | Bengali" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Jalsha_HD.png",Star Jalsha HD
-https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281675.m3u8
 #http://103.135.253.32:8080/STAR-JALSHA-HD/index.m3u8
 #http://103.114.11.37:8081/Star-Jalsha/index.m3u8?token=dsgdfgsdfgasf
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
@@ -993,7 +992,6 @@ https://footfytv.pro/proxy/direct?url=http://livetv.akr4m.com:8080/bdtv/restrem/
 https://drk6xq0vhn.gpcdn.net/live/zee_bangla_720/index.m3u8
 
 #EXTINF:-1 tvg-id="9504796" tvg-name="Zee Bangla HD" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/dd74c3cd17ff4baca804bce74b811384/version/0" group-title="Entertainment",Zee Bangla HD
-https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=1173096.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8
