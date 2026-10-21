@@ -1771,16 +1771,16 @@ https://raw.githubusercontent.com/kadirsener1/247/d982a730167f0b7b82be6e002840f0
 https://raw.githubusercontent.com/kadirsener1/247/d982a730167f0b7b82be6e002840f0f1a9da97ea/cdnlive/nzskysport5.m3u8
 
 #EXTINF:-1 tvg-id="SKY.Sport.6.nz" tvg-logo="https://i.postimg.cc/LsrqKmJW/sky_sport_6.png" group-title="WORLD SPORTS",Sky Sport6 NZ FHD
-https://raw.githubusercontent.com/kadirsener1/247/d982a730167f0b7b82be6e002840f0f1a9da97ea/cdnlive/nzskysport6.m3u8
+#https://raw.githubusercontent.com/kadirsener1/247/d982a730167f0b7b82be6e002840f0f1a9da97ea/cdnlive/nzskysport6.m3u8
 
 #EXTINF:-1 tvg-id="SKY.Sport.7.nz" tvg-logo="https://i.postimg.cc/G2G4b6Ym/sky_sport_7.png" group-title="WORLD SPORTS",Sky Sport7 NZ FHD
-https://raw.githubusercontent.com/kadirsener1/247/d982a730167f0b7b82be6e002840f0f1a9da97ea/cdnlive/nzskysport7.m3u8
+#https://raw.githubusercontent.com/kadirsener1/247/d982a730167f0b7b82be6e002840f0f1a9da97ea/cdnlive/nzskysport7.m3u8
 
 #EXTINF:-1 tvg-id="SKY.Sport.8.nz" tvg-logo="https://i.postimg.cc/PJMNwZSG/Sky-Sport-PL.png" group-title="WORLD SPORTS",Sky Sport Premier League FHD
-https://raw.githubusercontent.com/kadirsener1/247/d982a730167f0b7b82be6e002840f0f1a9da97ea/cdnlive/nzskysport8.m3u8
+#https://raw.githubusercontent.com/kadirsener1/247/d982a730167f0b7b82be6e002840f0f1a9da97ea/cdnlive/nzskysport8.m3u8
 
 #EXTINF:-1 tvg-id="sky.sport.9.nz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Sky_Sport_9_NZ.svg/revision/latest/scale-to-width-down/200?cb=20230830143632", SKY SPORT NZ 9
-https://raw.githubusercontent.com/kadirsener1/247/d982a730167f0b7b82be6e002840f0f1a9da97ea/cdnlive/nzskysport9.m3u8
+#https://raw.githubusercontent.com/kadirsener1/247/d982a730167f0b7b82be6e002840f0f1a9da97ea/cdnlive/nzskysport9.m3u8
 
 #EXTINF:0 tvg-id="BEINSPORT 1 FR" tvg-logo="https://i.ibb.co.com/TM78YHzf/BEIN1.png" group-title="SPORTS",BEIN SPORT 1 AU
 #KODIPROP:inputstreamaddon=inputstream.adaptive
