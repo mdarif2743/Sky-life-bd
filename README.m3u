@@ -38,11 +38,11 @@ https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/h
 #KODIPROP:inputstream.adaptive.license_key=a77685fa6fc536a900103805a49e5ba4:79f1344da3be2171f8b64fb333c71e98
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/hu8ca5x8fj/out/v1/7196c8b3a05c499ca529bda04fe41320/cenc.mpd
 
-#EXTINF:-1, tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=9a0c3048-b5fb-4196-99d1-4a44b6bd035a&quality=50", SKY LIFE BD(FREE IPTV) LIVE CRICKET
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/mdarif2743/Sky-life-bd/main/IMG_20260723_130039_939.jpg", SKY LIFE BD(FREE IPTV) LIVE CRICKET
 https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8
 
-#EXTINF:-1, tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=9a0c3048-b5fb-4196-99d1-4a44b6bd035a&quality=50", SKY LIFE BD(FREE IPTV) live sports
-
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/mdarif2743/Sky-life-bd/main/IMG_20260723_130039_939.jpg", SKY LIFE BD(FREE IPTV) live CRICKET
+https://mediapackage-sky-three-source.fullscreen.nz/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://yt3.googleusercontent.com/qP94AxnW7DbrpyYn-z3xEgi2fCSUL50w14FssUMlognNHFeY-57PdKc3RSdjcgbIySqpbkyWjpk=s900-c-k-c0x00ffffff-no-rj", PEO SPORTS 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
