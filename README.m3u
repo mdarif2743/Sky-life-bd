@@ -31,7 +31,8 @@ http://103.16.24.4:8083/14.m3u8
 #EXTINF:-1, tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.abf514cc-bb21-4f3c-900b-065784936f1b/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg", BAN VS AFG OLNY TEST
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/FOX505HD.m3u8
 
-#EXTINF:-1, tvg-logo="", SKY LIFE BD(FREE IPTV) live sports
+#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/GenericIDWWE.PNG/revision/latest?cb=20141006222432", WWE NETWORK
+http://103.114.11.37:8081/WWE-24/7/index.m3u8?token=dsgdfgsdfgasf
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/mdarif2743/Sky-life-bd/main/IMG_20260723_130039_939.jpg", SKY LIFE BD( SONY LIV)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -50,6 +51,7 @@ https://mediapackage-sky-three-source.fullscreen.nz/index.m3u8
 https://str001.peotv.lk/drmchtr2/live/peo-sports-0137-dash/manifest.mpd
 
 #EXTINF:-1 tvg-id="9624886" tvg-name="Unite8 Sports 1 HD" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/396cbd0f0e8d492db65b304859af478d/version/0" group-title="Sports",Unite8 Sports 1 HD
+http://103.114.11.37:8081/Unite8-sports-1/index.m3u8?token=dsgdfgsdfgasf
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=247442ed358f4bbca27e33165db70719:029702a28d78d4b76c10b44eb219c10c
 https://d2o8pibksxtln6.cloudfront.net/live/media/Unite8_Sports_1_HD/dash/Unite8_Sports_1_HD.mpd
@@ -1191,8 +1193,7 @@ http://107.167.16.138/stargold2/index.m3u8?token=test
 http://66.102.126.10:8000/play/a077/index.m3u8
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/PrLZryqH/Jio-TV.jpg" tvg-id="1113" tvg-name="Star Gold Select HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Select_HD.png" group-title="JioTV+ | Movies",Star Gold Select HD
-#http://51.75.127.199:3141/stargoldselecthd/index.m3u8
-
+http://103.114.11.37:8081/StarGoldSelect/index.m3u8?token=dsgdfgsdfgasf
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/PrLZryqH/Jio-TV.jpg" tvg-id="3098" tvg-name="Star Gold Thrills" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Thrills.png" group-title="JioTV+ | Movies",Star Gold Thrills
 http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/181317.m3u8
