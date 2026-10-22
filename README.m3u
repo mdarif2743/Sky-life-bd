@@ -35,8 +35,8 @@ https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/h
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/mdarif2743/Sky-life-bd/main/IMG_20260723_130039_939.jpg", SKY LIFE BD( SONY LIV)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ee57f538fd26460469615892f34a7526:fc8fd5a49a1116473b93c09e7beeb719
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/1bmmt9nxv8/out/v1/9185a0ff65084a7294d52ffdf33ce1bd/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=a77685fa6fc536a900103805a49e5ba4:79f1344da3be2171f8b64fb333c71e98
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/hu8ca5x8fj/out/v1/7196c8b3a05c499ca529bda04fe41320/cenc.mpd
 
 #EXTINF:-1, tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=9a0c3048-b5fb-4196-99d1-4a44b6bd035a&quality=50", SKY LIFE BD(FREE IPTV) LIVE CRICKET
 https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8
