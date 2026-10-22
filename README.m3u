@@ -719,6 +719,7 @@ https://ottlive.dishhome.com.np/protected/GgTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
 #EXTINF:-1 tvg-chno="477" tvg-logo="https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,w_384,h_216/https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/EurosportHD_BoxCover_3f6e5dd6-b266-4e52-9b32-13ee2dde23e0.png", EUROSPORT HD
+http://103.17.193.159:5001/live/875.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814
@@ -1090,7 +1091,7 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsme.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsRishtey.png" group-title="HINDI", COLORS RISHTEY
 #https://manatv.akamaized.net/090823/smil:ristheyamerica.smil/playlist.m3u8
-http://27.116.22.53:5001/live/279.m3u8
+http://103.17.193.159:5001/live/279.m3u8
 
 #EXTINF:-1 tvg-id="9487113" tvg-name="&Tv HD" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/6ce923e690114400bcdc43ea7a3b27be/version/0" group-title="Entertainment",&Tv HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1143,7 +1144,7 @@ https://d1rc86nwwc9fag.cloudfront.net/260723/starplusuk_2500/chunks.m3u8
 https://mumt05.tangotv.in/87NeALx2UNIQUETV/index.m3u8
 
 #EXTINF:-1 tvg-id="ColorsInfinity.in" tvg-name="Colors Infinity HD KB" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_INFINITY/images/LOGO_HD/image.png" tvg-country="IN" group-title="Entertainment" tvg-quality="1080p",Colors Infinity HD
-#http://51.75.127.199:3141/colorsinfinityhd/index.m3u8
+http://103.17.193.159:5001/live/1158.m3u8
 
 #EXTINF:-1 group-title="StarzPlay ©",Sony_Max
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1213,12 +1214,11 @@ http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/200465.m3u8
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/6c2dad79b7261eb3553da450272e25279ea0bfaa/streams/gb/YuppTV/ColorsCineplexUK.m3u8
 
 #EXTINF:-1 tvg-id="colorscineplexbollywood" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexBollywood.png" group-title="Movies",Colors Cineplex Bollywood
-#http://51.75.127.199:3141/colorscineplexbollywood/index.m3u8
-http://27.116.22.53:5001/live/1763.m3u8
+http://103.17.193.159:5001/live/1763.m3u8
 http://202.70.146.135:8000/play/a058/index.m3u8
 
 #EXTINF:-1 tvg-id="colors-cineplex-superhit" tvg-name="Colors Cineplex Superhit" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexSuperhit.png" group-title="BDIX 1",Colors Cineplex Superhit
-http://27.116.22.53:5001/live/1450.m3u8
+http://103.17.193.159:5001/live/1450.m3u8
 http://51.75.127.199:3141/colorscineplexsuperhit/index.m3u8
 http://live.balajibroadband.com:3500/live/1450.m3u8
 
@@ -1366,12 +1366,11 @@ https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg014
 https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/discovery-channel-bengali.png" group-title="SM_IPTV",Discovery Channel Bengali
+http://103.17.193.159:5001/live/573.m3u8
 http://103.185.24.134:3001/Discovery/index.m3u8
-http://27.116.22.53:5001/live/3428.m3u8
-http://livetv.akr4m.com:8080/bdtv/restrem/51.m3u8
-http://103.165.93.31:8095/discovery/index.m3u8
 
 #EXTINF:-1 tvg-id="3444" group-title="Infotainment" tvg-logo="https://tatalogo.pages.dev/219.png",Discovery HD
+http://103.17.193.159:5001/live/3428.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=12ed56d780abcfebcd23aa27e4ac5008:6784567890abcfebcd23aa27e4ac2807
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
@@ -1638,12 +1637,13 @@ http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/200455.m3u8
 https://sony.dongobd247.workers.dev/stream.m3u8?id=1000001971|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000001971
 
 #EXTINF:-1 tvg-id="nick" tvg-logo="http://monirul.bro.bd/assets/images/NICK1745041451.png" group-title="Kids",NICK
+http://103.17.193.159:5001/live/1341.m3u8
 http://103.238.115.159:8080/dd/index.m3u8
 http://103.185.24.134:3001/NICK/index.m3u8
 http://103.165.93.31:8095/nick/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="nick hd" tvg-logo="http://monirul.bro.bd/assets/images/NICK1745041451.png" group-title="Kids",NICK HD
-#http://51.75.127.199:3141/nickhd/index.m3u8
+http://103.17.193.159:5001/live/1226.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2022/02/Disney-Kids-Network-to-launch-new-kids-channel-%E2%80%98Super-Hungama%E2%80%99.jpg" group-title="KIDS", SUPER HUNGAMA
 #http://51.75.127.199:3141/superhungama/index.m3u8
@@ -1663,9 +1663,9 @@ https://login.bheem.tv/bpk-tv/22603/output/index.mpd
 https://login.bheem.tv/bpk-tv/22096/output/index.mpd
 
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sonic-bangla.png" group-title="SM_IPTV",Sonic Bangla
+http://103.17.193.159:5001/live/1345.m3u8
 http://103.185.24.134:3001/SONIC/index.m3u8
 http://103.165.93.31:8095/sonic/tracks-v1a1/mono.m3u8
-https://jioplaylistdown.yecic62314.workers.dev/live.m3u8?id=1345
 
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Discovery Kids
 https://stream.ottplus.live/live/discovery_kids_abr/index.m3u8
