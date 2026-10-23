@@ -1739,7 +1739,7 @@ http://103.155.18.186:8000/play/a0ap/index.m3u8
 https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="StarSportsKhel.in" tvg-name="Star Sports Khel KB" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_KHEL/images/LOGO_HD/LOGO_HD_image.png" tvg-country="IN" group-title="Sports" tvg-quality="576p",Star Sports Khel KB
-http://51.75.127.199:3141/starsportskhel/index.m3u8
+
 
 #EXTINF:-1 tvg-id="" group-title="WORLD SPORTS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/201_1920x1080_HTV.png?w=272",Hub Sports 1 HD
 
@@ -1748,38 +1748,38 @@ http://51.75.127.199:3141/starsportskhel/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" group-title="WORLD SPORTS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/203_1920x1080_HTV.png?w=272",Hub Sports 3 HD
-http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/433641.m3u8
+
 
 #EXTINF:-1 tvg-id="SKY.Sport.1.nz" tvg-logo="https://i.postimg.cc/wxDNzRcQ/sky-sport-1.png" group-title="WORLD SPORTS",Sky Sport1 NZ FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://raw.githubusercontent.com/kadirsener1/247/d982a730167f0b7b82be6e002840f0f1a9da97ea/cdnlive/nzskysport1.m3u8
+
 
 #EXTINF:-1 tvg-id="SKY.Sport.2.nz" tvg-logo="https://i.postimg.cc/KvFM8c0S/sky_sport_2.png" group-title="WORLD SPORTS",Sky Sport2 NZ FHD
-https://raw.githubusercontent.com/kadirsener1/247/d982a730167f0b7b82be6e002840f0f1a9da97ea/cdnlive/nzskysport2.m3u8
+
 
 #EXTINF:-1 tvg-id="SKY.Sport.3.nz" tvg-logo="https://i.postimg.cc/L88gjCdx/sky_sport_3.png" group-title="WORLD SPORTS",Sky Sport3 NZ FHD
-https://raw.githubusercontent.com/kadirsener1/247/d982a730167f0b7b82be6e002840f0f1a9da97ea/cdnlive/nzskysport3.m3u8
+
 
 #EXTINF:-1 tvg-id="SKY.Sport.4.nz" tvg-logo="https://i.postimg.cc/52KYgBbb/sky-sport-4.png" group-title="WORLD SPORTS",Sky Sport4 NZ FHD
-https://raw.githubusercontent.com/kadirsener1/247/d982a730167f0b7b82be6e002840f0f1a9da97ea/cdnlive/nzskysport4.m3u8
+
 
 #EXTINF:-1 tvg-id="SKY.Sport.5.nz" tvg-logo="https://i.postimg.cc/3wyyckxp/sky_sport_5.png" group-title="WORLD SPORTS",Sky Sport5 NZ FHD
-https://raw.githubusercontent.com/kadirsener1/247/d982a730167f0b7b82be6e002840f0f1a9da97ea/cdnlive/nzskysport5.m3u8
+
 
 #EXTINF:-1 tvg-id="SKY.Sport.6.nz" tvg-logo="https://i.postimg.cc/LsrqKmJW/sky_sport_6.png" group-title="WORLD SPORTS",Sky Sport6 NZ FHD
-#https://raw.githubusercontent.com/kadirsener1/247/d982a730167f0b7b82be6e002840f0f1a9da97ea/cdnlive/nzskysport6.m3u8
+
 
 #EXTINF:-1 tvg-id="SKY.Sport.7.nz" tvg-logo="https://i.postimg.cc/G2G4b6Ym/sky_sport_7.png" group-title="WORLD SPORTS",Sky Sport7 NZ FHD
-#https://raw.githubusercontent.com/kadirsener1/247/d982a730167f0b7b82be6e002840f0f1a9da97ea/cdnlive/nzskysport7.m3u8
+
 
 #EXTINF:-1 tvg-id="SKY.Sport.8.nz" tvg-logo="https://i.postimg.cc/PJMNwZSG/Sky-Sport-PL.png" group-title="WORLD SPORTS",Sky Sport Premier League FHD
-#https://raw.githubusercontent.com/kadirsener1/247/d982a730167f0b7b82be6e002840f0f1a9da97ea/cdnlive/nzskysport8.m3u8
+
 
 #EXTINF:-1 tvg-id="sky.sport.9.nz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Sky_Sport_9_NZ.svg/revision/latest/scale-to-width-down/200?cb=20230830143632", SKY SPORT NZ 9
-#https://raw.githubusercontent.com/kadirsener1/247/d982a730167f0b7b82be6e002840f0f1a9da97ea/cdnlive/nzskysport9.m3u8
+
 
 #EXTINF:0 tvg-id="BEINSPORT 1 FR" tvg-logo="https://i.ibb.co.com/TM78YHzf/BEIN1.png" group-title="SPORTS",BEIN SPORT 1 AU
 #KODIPROP:inputstreamaddon=inputstream.adaptive
