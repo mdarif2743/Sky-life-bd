@@ -1402,7 +1402,7 @@ https://techandeat.online/sliv/stream.m3u8?id=1000009252|Referer=https://techand
 http://103.185.24.134:3001/SONY-BBC/index.m3u8
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/mk41wvy1/Jio-TV.jpg" tvg-id="562" group-title="JioTV | Lifestyle" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP.png",Travelxp HD Hindi
-http://27.116.22.53:5001/live/562.m3u8
+http://103.17.193.159:5001/live/562.m3u8
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/PrLZryqH/Jio-TV.jpg" tvg-id="578" tvg-name="History TV18 HD Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Hindi.png" group-title="JioTV+ | Infotainment",History TV18 HD Hindi
 https://n18syndication.akamaized.net/bpk-tv/History_TV18_Hindi_NW18_MOB/output01/master.m3u8
@@ -1528,7 +1528,6 @@ https://cdn.pishow.tv/ott/live/1461/master.m3u8
 https://cdn.pishow.tv/ott/live/226/master.m3u8
 
 #EXTINF:-1 tvg-id="9487112" tvg-name="&Pictures HD" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/75364a7b9f09477b9ee80016a6440b6b/version/0" group-title="Movies",&Pictures HD
-http://premiumplug.fun/tee/zee5.php/0-9-tvpictureshd.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=
 http://str24.l9574.com/705.stream/index.m3u8
@@ -1625,7 +1624,7 @@ http://103.114.11.37:8081/Duronto/index.m3u8?token=dsgdfgsdfgasf
 https://box.bbaria.net/DurontoTV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="hungama" tvg-logo="http://monirul.bro.bd/assets/images/HUNGAMA1745041551.png" group-title="Kids",HUNGAMA
-#http://51.75.127.199:3141/hungama/index.m3u8
+http://103.135.253.32:8080/HUNGAMA/index.m3u8
 http://103.185.24.134:3001/HUNGAMA/index.m3u8
 
 #EXTINF:-1 tvg-id="SONY-YAY!.in" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20YAY.png",Sony Yay
@@ -1644,7 +1643,6 @@ http://103.165.93.31:8095/nick/tracks-v1a1/mono.m3u8
 http://103.17.193.159:5001/live/1226.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2022/02/Disney-Kids-Network-to-launch-new-kids-channel-%E2%80%98Super-Hungama%E2%80%99.jpg" group-title="KIDS", SUPER HUNGAMA
-#http://51.75.127.199:3141/superhungama/index.m3u8
 http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.exchange4media.com/news-photo/112560-pic161.jpg" group-title="KIDS", ETV BAL BHARAT
@@ -1678,6 +1676,7 @@ https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-
 https://vodzong.mjunoon.tv:8087/streamtest/Madni-121/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ptv_sports_hd" tvg-logo="http://monirul.bro.bd/assets/images/PTV SPORTS HD1745044993.png" group-title="Sports",PTV SPORTS HD
+http://103.114.11.37:8081/PTV/index.m3u8?token=dsgdfgsdfgasf
 https://live.incableinternet.com/ptv-sports/720p.m3u8
 http://103.135.253.32:8080/PTV-SPORTS/tracks-v1a1/mono.m3u8
 http://str24.l9574.com/601.stream/index.m3u8
@@ -1733,7 +1732,7 @@ http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/433642.m3u8
 https://flussonic.defineatoz.com/starsportsselect1/tracks-v1/mono.m3u8
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/PrLZryqH/Jio-TV.jpg" tvg-id="461" tvg-name="Star Sports Select 2 HD" tvg-logo="https://img.media.jio.com/tvpimages/98/79/302114_1749665414817_l_medium.jpg" group-title="JioTV+ | Sports",Star Sports Select 2 HD
-http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/302026.m3u8
+#http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/302026.m3u8
 http://103.114.11.37:8081/Star-select-2/index.m3u8?token=dsgdfgsdfgasf
 http://str24.l9574.com/737.stream/index.m3u8
 http://103.155.18.186:8000/play/a0ap/index.m3u8
