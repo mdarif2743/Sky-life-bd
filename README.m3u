@@ -1372,11 +1372,11 @@ https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg014
 https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/discovery-channel-bengali.png" group-title="SM_IPTV",Discovery Channel Bengali
-http://103.17.193.159:5001/live/573.m3u8
+#http://103.17.193.159:5001/live/573.m3u8
 http://103.185.24.134:3001/Discovery/index.m3u8
 
 #EXTINF:-1 tvg-id="3444" group-title="Infotainment" tvg-logo="https://tatalogo.pages.dev/219.png",Discovery HD
-http://103.17.193.159:5001/live/3428.m3u8
+#http://103.17.193.159:5001/live/3428.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=12ed56d780abcfebcd23aa27e4ac5008:6784567890abcfebcd23aa27e4ac2807
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
@@ -1644,7 +1644,7 @@ http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/200455.m3u8
 https://sony.dongobd247.workers.dev/stream.m3u8?id=1000001971|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000001971
 
 #EXTINF:-1 tvg-id="nick" tvg-logo="http://monirul.bro.bd/assets/images/NICK1745041451.png" group-title="Kids",NICK
-http://103.17.193.159:5001/live/1341.m3u8
+#http://103.17.193.159:5001/live/1341.m3u8
 http://103.238.115.159:8080/dd/index.m3u8
 http://103.185.24.134:3001/NICK/index.m3u8
 http://103.165.93.31:8095/nick/tracks-v1a1/mono.m3u8
