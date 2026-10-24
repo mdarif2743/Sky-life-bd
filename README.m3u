@@ -12,6 +12,11 @@ https://cdn-gstyx.styxsports.live/STYX/streams/68oRKR23qeWZvCXu6248791548119.m3u
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/mdarif2743/Sky-life-bd/main/IMG_20260723_130039_939.jpg", SKY LIFE BD(FREE IPTV) live sports
 https://tfzm0gr3uomttgr31hctofaauopjpptwzc3jt.100ycdn.com/live1.quickscoreboardz.com/live/channel2/playlist.m3u8?wsSecret=ec13f041681b0d570493dedda3f51d9c&wsABSTime=1790490225&wsSession=34b7b2b2228b31af46e37862-179045004416727&wsIPSercert=fee0d478b11d3be8c08f042b9a810917&wsBindIP=2&wsserid=1168233471352287496
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdarif2743/Sky-life-bd/main/IMG_20260723_130039_939.jpg" group-title="Football", FUBO SPORTS FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=65f9ed4580a4af3c117a339c44cdfe3b:3e7d40c4b2ca331fe48bd65acae439d7
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/9gunc2f4ea/out/v1/aaaab12c95924d80a77f87f7c745782a/269b81e3-30a8-4565-a57d-69355b8c7be2-cenc.mpd?aws_sessionId=6cc6a4b4-ffc8-4058-940c-09694d523fee
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/R1hGX1d.png",KTV Sport (1080p)
 https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
 
