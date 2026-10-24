@@ -849,6 +849,7 @@ https://btv.hridoytv-channel.workers.dev/news.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/btvbd-office-sg.stream/index.m3u8
 
 #EXTINF:-1 tvg-chno="114" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/sangsad-television-bd.png" group-title="BANGLADESH", সংসদ বাংলাদেশ
+http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/413.ts
 https://btv.hridoytv-channel.workers.dev/sangsad.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/songsodtv-world.stream/tracks-v1a1/mono.m3u8
 
@@ -1386,6 +1387,7 @@ http://103.185.24.134:3001/Discovery/index.m3u8
 https://wbd.skandha.tv/DSC_HD_India/DSC_HD_India.isml/.mpd
 
 #EXTINF:-1 tvg-id="natgeo_hd" tvg-logo="http://monirul.bro.bd/assets/images/NATGEO HD1745038634.png" group-title="English",NATGEO HD
+http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/98874.ts
 http://103.135.253.32:8080/NATGEO-HD/index.m3u8
 http://103.185.24.134:3001/NATGEO-HD/index.m3u8
 
@@ -1415,6 +1417,7 @@ https://techandeat.online/sliv/stream.m3u8?id=1000009252|Referer=https://techand
 http://103.185.24.134:3001/SONY-BBC/index.m3u8
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/mk41wvy1/Jio-TV.jpg" tvg-id="562" group-title="JioTV | Lifestyle" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP.png",Travelxp HD Hindi
+http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/20622.ts
 http://103.17.193.159:5001/live/562.m3u8
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/PrLZryqH/Jio-TV.jpg" tvg-id="578" tvg-name="History TV18 HD Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Hindi.png" group-title="JioTV+ | Infotainment",History TV18 HD Hindi
