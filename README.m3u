@@ -946,9 +946,11 @@ https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8
 https://stream.ottplus.live/live/nexus_tv_abr/index.m3u8
 
 #EXTINF:-1 tvg-id="independent_tv" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Independent.webp" group-title="Bangla",INDEPENDENT TV
+http://103.135.253.32:8080/Indipendent/index.m3u8
 https://tvsen6.aynaott.com/Wef2Vj67njeYGDqQNFB9/index.m3u8
 
 #EXTINF:-1 tvg-name="Ekhon Tv" tvg-logo="https://i.postimg.cc/SNnz9nWH/Ekhon-Logo.png" group-title="All-In-One~ENT🧩",Ekhon Tv
+http://103.135.253.32:8080/Ekhon-TV/index.m3u8
 https://tvsen6.aynaott.com/fbgZV3X17hwWcyfZ4pdb/index.m3u8
 
 #EXTINF:-1 tvg-id="141" group-title="Entertainment" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/SRK.webp?raw=true",SRK TV 
