@@ -42,6 +42,9 @@ https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/hu8ca5x8fj/
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/mdarif2743/Sky-life-bd/main/IMG_20260723_130039_939.jpg", SKY LIFE BD(FREE IPTV) LIVE CRICKET
 https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8
 
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/mdarif2743/Sky-life-bd/main/IMG_20260723_130039_939.jpg", SKY LIFE BD(FREE IPTV) LIVE CRICKET
+http://103.135.253.32:8080/TEN-CRECKET/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/b/bb/Three_NZ_2023.svg/1280px-Three_NZ_2023.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail", THREE NZ
 https://mediapackage-sky-three-source.fullscreen.nz/index.m3u8
 
