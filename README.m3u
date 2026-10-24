@@ -34,10 +34,10 @@ https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/h
 #EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/GenericIDWWE.PNG/revision/latest?cb=20141006222432", WWE NETWORK
 http://103.114.11.37:8081/WWE-24/7/index.m3u8?token=dsgdfgsdfgasf
 
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/mdarif2743/Sky-life-bd/main/IMG_20260723_130039_939.jpg", SKY LIFE BD( SONY LIV)
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/mdarif2743/Sky-life-bd/main/IMG_20260723_130039_939.jpg", SKY LIFE BD( live football)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a77685fa6fc536a900103805a49e5ba4:79f1344da3be2171f8b64fb333c71e98
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/hu8ca5x8fj/out/v1/7196c8b3a05c499ca529bda04fe41320/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/hhql9klz1l/out/v1/2469724fa7754a4da6861d8ba80de958/9463facc-dde3-4cd1-ada2-221656529905-cenc.mpd?aws_sessionId=b4d86e92-1e44-46a8-97b3-40cff4c57403
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/mdarif2743/Sky-life-bd/main/IMG_20260723_130039_939.jpg", SKY LIFE BD(FREE IPTV) LIVE CRICKET
 https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8
