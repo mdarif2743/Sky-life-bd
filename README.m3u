@@ -878,7 +878,7 @@ http://103.135.253.32:8080/Channel-24/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel24-sg-e8e.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Channel%201%20HD.webp" group-title="News",Channel 1
-http://103.135.253.32:8080/Channel-1/index.m3u8
+#http://103.135.253.32:8080/Channel-1/index.m3u8
 https://stream.ottplus.live/live/channel_1_hd_abr/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/playlist.m3u8
 
@@ -977,6 +977,7 @@ https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8
 https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8
 
 #EXTINF:-1 tvg-id="maasranga_hd" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Maasranga.webp" group-title="Bangla",MAASRANGA HD
+http://103.118.76.228/MAASRANGA-TVtest/index.m3u8
 https://nkafmbewiff.gpcdn.net/tile_4/master.m3u8
 https://mtv.sunplex.live/MAASRANGA/index.m3u8
 
