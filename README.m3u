@@ -289,9 +289,9 @@ https://scccrwb-live.cdn.intigral-ott.net/bpk-tv/OMSP_HEVC/wv-pr/manifest.mpd
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
 
 #EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2022/08/logo-liga-inggris.jpg?quality=60" group-title="live", EPL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c73b2bb9fe9610c566c68de50b57ad7f:2f486dbafd801fafe67c5b148263b4db
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/tmuyow2v4n/out/v1/42d
 
 
 #EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2022/08/logo-liga-inggris.jpg?quality=60" group-title="live", EPL
