@@ -1241,9 +1241,11 @@ http://live.balajibroadband.com:3500/live/1450.m3u8
 http://cdn12.henico.net:8080/live/sursangam/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/jhmovie/images/7/7b/Goldmines_logo.png/revision/latest?cb=20240404141630" group-title="Hindi Movies",Goldmines
+http://103.175.73.12:8080/live/53/53_0.m3u8
 https://cdn.pishow.tv/ott/live/1459/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Goldmines Movies
+http://103.175.73.12:8080/live/51/51_0.m3u8
 https://cdn.pishow.tv/ott/live/1461/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Goldmines Movies 2
@@ -1607,9 +1609,11 @@ https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 https://cdn.pishow.tv/ott/live/224/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png"group-title="Hindi Movies" group-title="",B4U Movies 
+http://103.175.73.12:8080/live/43/43_0.m3u8
 https://cdn.pishow.tv/ott/live/419/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png"group-title="Hindi Movies" group-title="",B4U Kadak
+http://103.175.73.12:8080/live/44/44_0.m3u8
 https://cdn.pishow.tv/ott/live/227/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/9X_Jalwa.png" group-title="Music",9X Jalwa
@@ -2048,9 +2052,11 @@ http://live-stream.amarbanglatv.in:8080/hls/sanandatv/index.m3u8
 https://ranacable.duckdns.org/RanaMovie/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://img-cdn.publive.online/fit-in/1200x675/afaqs/media/post_attachments/10748d92781bb5c4b905c6d099a049402df8755404dd10781241db6b0fe221ad.jpg", DANGAL
+http://103.175.73.12:8080/live/17/17_0.m3u8
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.medianews4u.com/wp-content/uploads/2022/04/Dangal-2.jpg", DANGAL 2
+http://103.175.73.12:8080/live/18/18_0.m3u8
 https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="disney-channel" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_Channel.png" group-title="Kids",Disney Channel
