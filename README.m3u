@@ -2043,7 +2043,7 @@ https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="disney-channel" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_Channel.png" group-title="Kids",Disney Channel
-https://app-re.sm-monirul-islam-rs.workers.dev/Disny-Channel-Hindi/index.m3u8
+http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/200545.m3u8
 
 #EXTINF:-1 tvg-id="DisneyJunior.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_JUNIOR/images/LOGO_HD/image.png" group-title="Kids",Disney Junior (India) (576p)
 http://103.135.253.32:8080/NICK-Jr/index.m3u8
