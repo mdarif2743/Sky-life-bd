@@ -1172,7 +1172,7 @@ https://d1rc86nwwc9fag.cloudfront.net/260723/starplusuk_2500/chunks.m3u8
 https://mumt05.tangotv.in/87NeALx2UNIQUETV/index.m3u8
 
 #EXTINF:-1 tvg-id="ColorsInfinity.in" tvg-name="Colors Infinity HD KB" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_INFINITY/images/LOGO_HD/image.png" tvg-country="IN" group-title="Entertainment" tvg-quality="1080p",Colors Infinity HD
-http://103.17.193.159:5001/live/1158.m3u8
+http://103.175.73.12:8080/live/29/29_0.m3u8
 
 #EXTINF:-1 group-title="StarzPlay ©",Sony_Max
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1230,10 +1230,10 @@ http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/200511.m3u8
 
 
 #EXTINF:-1 tvg-id="3543" tvg-name="Eros Universe Bollywood Cinema" tvg-logo="http://103.17.193.159:5001/jtvimage/blywcm.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Eros Universe Bollywood Cinema
-http://103.17.193.159:5001/live/3543.m3u8
+
 
 #EXTINF:-1 tvg-id="3544" tvg-name="Eros Universe Entertainment" tvg-logo="http://103.17.193.159:5001/jtvimage/ersent.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Eros Universe Entertainment
-http://103.17.193.159:5001/live/3544.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexHD.png" group-title="HINDI", COLORS CINEPLEX HD
 http://103.185.24.134:3001/COLORS-CINEPLEX-HD/tracks-v1a1/mono.m3u8
@@ -1397,7 +1397,6 @@ https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg014
 https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/discovery-channel-bengali.png" group-title="SM_IPTV",Discovery Channel Bengali
-#http://103.17.193.159:5001/live/573.m3u8
 http://103.185.24.134:3001/Discovery/index.m3u8
 
 #EXTINF:-1 tvg-id="3444" group-title="Infotainment" tvg-logo="https://tatalogo.pages.dev/219.png",Discovery HD
@@ -1408,12 +1407,12 @@ http://103.185.24.134:3001/Discovery/index.m3u8
 https://wbd.skandha.tv/DSC_HD_India/DSC_HD_India.isml/.mpd
 
 #EXTINF:-1 tvg-id="natgeo_hd" tvg-logo="http://monirul.bro.bd/assets/images/NATGEO HD1745038634.png" group-title="English",NATGEO HD
-http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/98874.ts
+#http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/98874.ts
 http://103.135.253.32:8080/NATGEO-HD/index.m3u8
 http://103.185.24.134:3001/NATGEO-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="natgeo_wild_hd" tvg-logo="http://monirul.bro.bd/assets/images/NATGEO WILD HD1745038542.png" group-title="English",NATGEO WILD HD
-#http://51.75.127.199:3141/natgeowild/index.m3u8
+
 
 #EXTINF:-1 tvg-id="local.2ff5fac7d61c" tvg-name="Wild Flix Hindi" tvg-logo="https://tinyurl.com/mr2dec8v" tvg-chno="521" channel-id="local.2ff5fac7d61c" group-title="Documentary & Wildlife",Wild Flix Hindi
 https://cc-qgrxgp51645lw.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qgrxgp51645lw/IQJW/WBD/WildFlix_IN/WildFlix_IN.m3u8
