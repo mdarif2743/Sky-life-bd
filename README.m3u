@@ -17,8 +17,8 @@ https://tfzm0gr3uomttgr31hctofaauopjpptwzc3jt.100ycdn.com/live1.quickscoreboardz
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdarif2743/Sky-life-bd/main/IMG_20260723_130039_939.jpg" group-title="Football", FUBO SPORTS FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=65f9ed4580a4af3c117a339c44cdfe3b:3e7d40c4b2ca331fe48bd65acae439d7
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/9gunc2f4ea/out/v1/aaaab12c95924d80a77f87f7c745782a/269b81e3-30a8-4565-a57d-69355b8c7be2-cenc.mpd?aws_sessionId=6cc6a4b4-ffc8-4058-940c-09694d523fee
+#KODIPROP:inputstream.adaptive.license_key=
+
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/R1hGX1d.png",KTV Sport (1080p)
 https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
@@ -44,8 +44,7 @@ http://103.114.11.37:8081/WWE-24/7/index.m3u8?token=dsgdfgsdfgasf
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/mdarif2743/Sky-life-bd/main/IMG_20260723_130039_939.jpg", SKY LIFE BD( live football)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/hhql9klz1l/out/v1/2469724fa7754a4da6861d8ba80de958/9463facc-dde3-4cd1-ada2-221656529905-cenc.mpd?aws_sessionId=b4d86e92-1e44-46a8-97b3-40cff4c57403
+#KODIPROP:inputstream.adaptive.license_key=
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/mdarif2743/Sky-life-bd/main/IMG_20260723_130039_939.jpg", SKY LIFE BD(FREE IPTV) LIVE CRICKET
 https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8
@@ -298,8 +297,7 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
 
 #EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2022/08/logo-liga-inggris.jpg?quality=60" group-title="live", EPL
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c73b2bb9fe9610c566c68de50b57ad7f:2f486dbafd801fafe67c5b148263b4db
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/tmuyow2v4n/out/v1/42dd830cfc8140aea984c2c01166fd1c/0cc6e394-71a6-4e53-ad42-64d38a14a3fa-cenc.mpd?aws_sessionId=41d23a1f-5302-4eb0-ac50-a5fa48ce041a
+#KODIPROP:inputstream.adaptive.license_key=
 
 #EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2022/08/logo-liga-inggris.jpg?quality=60" group-title="live", EPL
 
