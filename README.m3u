@@ -28,7 +28,7 @@ http://str24.l9574.com/601.stream/index.m3u8
 https://flussonic.defineatoz.com/PTV/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/R1hGX1d.png",KTV Sport (1080p)
-https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
+#https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/l4oX0gf.png",KTV Sport Plus (1080p)
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
@@ -65,7 +65,7 @@ https://mediapackage-sky-three-source.fullscreen.nz/index.m3u8
 #EXTINF:-1, tvg-logo="https://yt3.googleusercontent.com/qP94AxnW7DbrpyYn-z3xEgi2fCSUL50w14FssUMlognNHFeY-57PdKc3RSdjcgbIySqpbkyWjpk=s900-c-k-c0x00ffffff-no-rj", PEO SPORTS 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3942bb0dd3a2c6c22814705725e22885:8cea7d844678df5ad86bf851d27a7f69
-https://str001.peotv.lk/drmchtr2/live/peo-sports-0137-dash/manifest.mpd
+#https://str001.peotv.lk/drmchtr2/live/peo-sports-0137-dash/manifest.mpd
 
 #EXTINF:-1 tvg-id="9624886" tvg-name="Unite8 Sports 1 HD" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/396cbd0f0e8d492db65b304859af478d/version/0" group-title="Sports",Unite8 Sports 1 HD
 http://103.114.11.37:8081/Unite8-sports-1/index.m3u8?token=dsgdfgsdfgasf
@@ -745,7 +745,7 @@ http://103.17.193.159:5001/live/875.m3u8
 https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd
 
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png",Star Sports 1 Hindi
-https://streamhub.dhruvpatil681.workers.dev/1965.m3u8
+#https://streamhub.dhruvpatil681.workers.dev/1965.m3u8
 http://str24.l9574.com/724.stream/index.m3u8
 https://p4kp.rjmbts.workers.dev/22147.m3u8
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bn-ch-1/2047231.m3u8
@@ -994,8 +994,8 @@ https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8
 https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8
 
 #EXTINF:-1 tvg-id="maasranga_hd" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Maasranga.webp" group-title="Bangla",MAASRANGA HD
-http://103.118.76.228/MAASRANGA-TVtest/index.m3u8
-https://nkafmbewiff.gpcdn.net/tile_4/master.m3u8
+#http://103.118.76.228/MAASRANGA-TVtest/index.m3u8
+#https://nkafmbewiff.gpcdn.net/tile_4/master.m3u8
 https://mtv.sunplex.live/MAASRANGA/index.m3u8
 
 #EXTINF:-1 tvg-id="nagorik" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Nagorik.webp" group-title="Bangla",NAGORIK
@@ -1032,7 +1032,7 @@ https://drk6xq0vhn.gpcdn.net/live/zee_bangla_720/index.m3u8
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/PrLZryqH/Jio-TV.jpg" tvg-id="1369" tvg-name="Colors Bangla SD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_SD.png" group-title="JioTV+ | Bengali",Colors Bangla SD
-http://103.17.193.159:5001/live/1369.m3u8
+
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/PrLZryqH/Jio-TV.jpg" tvg-id="756" tvg-name="Colors Bangla HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bengali_HD.png" group-title="JioTV+ | Bengali",Colors Bangla HD
 #http://103.135.253.32:8080/COLORS-BANGLA-HD/index.m3u8
