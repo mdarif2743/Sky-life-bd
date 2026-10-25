@@ -9,10 +9,11 @@ telegram:-@SKY LIFE BD
 http://103.175.73.12:8080/live/856/856_0.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/mdarif2743/Sky-life-bd/main/IMG_20260723_130039_939.jpg", SKY LIFE BD(FREE IPTV) live sports
-https://d3bq19vx8xhpwy.cloudfront.net/live/myStream/chunklist_w881581177.m3u8
+#https://d3bq19vx8xhpwy.cloudfront.net/live/myStream/chunklist_w881581177.m3u8
 https://cdn-gstyx.styxsports.live/STYX/streams/68oRKR23qeWZvCXu6248791548119.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/mdarif2743/Sky-life-bd/main/IMG_20260723_130039_939.jpg", SKY LIFE BD(FREE IPTV) live sports
+https://zibo1.tvhunter.top/DAZN_TEST/index.m3u8
 https://tfzm0gr3uomttgr31hctofaauopjpptwzc3jt.100ycdn.com/live1.quickscoreboardz.com/live/channel2/playlist.m3u8?wsSecret=ec13f041681b0d570493dedda3f51d9c&wsABSTime=1790490225&wsSession=34b7b2b2228b31af46e37862-179045004416727&wsIPSercert=fee0d478b11d3be8c08f042b9a810917&wsBindIP=2&wsserid=1168233471352287496
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdarif2743/Sky-life-bd/main/IMG_20260723_130039_939.jpg" group-title="Football", FUBO SPORTS FHD
