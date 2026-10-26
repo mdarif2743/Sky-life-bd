@@ -5,6 +5,29 @@ telegram:-@SKY LIFE BD
 #EXTM3U x-tvg-url="https://github.com/whythishome/epg/raw/refs/heads/master/guides/dishtv.in_en.xml.gz"
 #EXTM3U x-tvg-url="https://streamflexsmm.in/content-jiotvplus.media.jio/metadata/v2/livechannels/epg.xml.gz"
 #EXTM3U x-tvg-url="http://223.25.71.211:5001/epg.xml.gz"
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Astro_Sports_UHD_1_%282024%29.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original", ASTRO SPORTS UHD
+http://pixtv.org/live/Y8EF19JC9S2E529/NZCZbqDgoz/1470225.m3u8
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original", SKY SPORTS UHD 1
+http://pixtv.org/live/Y8EF19JC9S2E529/NZCZbqDgoz/1281426.m3u8
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original", SKY SPORTS UHD 2
+http://pixtv.org/live/Y8EF19JC9S2E529/NZCZbqDgoz/1281427.m3u8
+
+#EXTINF:-1, tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_F1_GB_logo.png?1734014987", SKY SPORTS F1 UHD
+http://pixtv.org/live/Y8EF19JC9S2E529/NZCZbqDgoz/1281428.m3u8
+
+#EXTINF:-1, tvg-logo="
+
+
+#EXTINF:-1, tvg-logo="
+
+
+#EXTINF:-1, tvg-logo="
+
+
+
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/mdarif2743/Sky-life-bd/main/IMG_20260723_130039_939.jpg", SKY LIFE BD(FREE IPTV) islamic channel
 http://103.175.73.12:8080/live/856/856_0.m3u8
 
