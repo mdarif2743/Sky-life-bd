@@ -58,6 +58,7 @@ http://103.114.11.37:8081/WWE-24/7/index.m3u8?token=dsgdfgsdfgasf
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/mdarif2743/Sky-life-bd/main/IMG_20260723_130039_939.jpg", SKY LIFE BD( live football)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
+https://jmp2.uk/rok-b4273871759a5631bd536d2214f175e5.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/mdarif2743/Sky-life-bd/main/IMG_20260723_130039_939.jpg", SKY LIFE BD(FREE IPTV) LIVE CRICKET
 https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8
