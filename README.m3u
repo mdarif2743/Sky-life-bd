@@ -27,6 +27,8 @@ http://pixtv.org/live/Y8EF19JC9S2E529/NZCZbqDgoz/1434884.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/52/BeIN_4K_logo.jpg?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=original", BEIN UHD
 http://pixtv.org/live/Y8EF19JC9S2E529/NZCZbqDgoz/1441959.m3u8
 
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original", DIGI 4K
+Y8EF19JC9S2E529/NZCZbqDgoz/1287085.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/mdarif2743/Sky-life-bd/main/IMG_20260723_130039_939.jpg", SKY LIFE BD(FREE IPTV) islamic channel
 http://103.175.73.12:8080/live/856/856_0.m3u8
