@@ -1072,10 +1072,9 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/PrLZryqH/Jio-TV.jpg" tvg-id="756" tvg-name="Colors Bangla HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bengali_HD.png" group-title="JioTV+ | Bengali",Colors Bangla HD
-#http://103.135.253.32:8080/COLORS-BANGLA-HD/index.m3u8
+http://103.135.253.32:8080/COLORS-BANGLA-HD/index.m3u8
 http://103.114.11.37:8081/Colors-bangla/index.m3u8?token=dsgdfgsdfgasf
 http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/25088.m3u8
-http://livetv.akr4m.com:8080/bdtv/restrem/34.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=01f7b9f7bf7e425f86d6dfd478390e3f:5fde68100a7856d055038236ffc7c84a
@@ -1243,7 +1242,7 @@ http://live.balajibroadband.com:3500/live/3418.m3u8
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/PrLZryqH/Jio-TV.jpg" tvg-id="156" tvg-name="Star Gold HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="JioTV+ | Movies",Star Gold HD
 #http://103.135.253.32:8080/STAR-GOLD-HD/index.m3u8
-http://103.114.11.37:8081/StarGold/index.m3u8?token=dsgdfgsdfgasf
+#http://103.114.11.37:8081/StarGold/index.m3u8?token=dsgdfgsdfgasf
 http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/181357.m3u8
 http://66.102.126.10:8000/play/a00f/index.m3u8
 
@@ -1293,11 +1292,11 @@ http://live.balajibroadband.com:3500/live/1450.m3u8
 http://cdn12.henico.net:8080/live/sursangam/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/jhmovie/images/7/7b/Goldmines_logo.png/revision/latest?cb=20240404141630" group-title="Hindi Movies",Goldmines
-http://103.175.73.12:8080/live/53/53_0.m3u8
+#http://103.175.73.12:8080/live/53/53_0.m3u8
 https://cdn.pishow.tv/ott/live/1459/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Goldmines Movies
-http://103.175.73.12:8080/live/51/51_0.m3u8
+#http://103.175.73.12:8080/live/51/51_0.m3u8
 https://cdn.pishow.tv/ott/live/1461/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Goldmines Movies 2
@@ -1435,7 +1434,7 @@ https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg014
 https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/discovery-channel-bengali.png" group-title="SM_IPTV",Discovery Channel Bengali
-http://pixtv.org/live/Y8EF19JC9S2E529/NZCZbqDgoz/510485.m3u8
+#http://pixtv.org/live/Y8EF19JC9S2E529/NZCZbqDgoz/510485.m3u8
 http://103.135.253.32:8080/DISCOVERY/tracks-v1a1/mono.m3u8
 http://103.185.24.134:3001/Discovery/index.m3u8
 
@@ -1662,11 +1661,11 @@ https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 https://cdn.pishow.tv/ott/live/224/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png"group-title="Hindi Movies" group-title="",B4U Movies 
-http://103.175.73.12:8080/live/43/43_0.m3u8
+#http://103.175.73.12:8080/live/43/43_0.m3u8
 https://cdn.pishow.tv/ott/live/419/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png"group-title="Hindi Movies" group-title="",B4U Kadak
-http://103.175.73.12:8080/live/44/44_0.m3u8
+#http://103.175.73.12:8080/live/44/44_0.m3u8
 https://cdn.pishow.tv/ott/live/227/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/9X_Jalwa.png" group-title="Music",9X Jalwa
@@ -2098,11 +2097,11 @@ http://live-stream.amarbanglatv.in:8080/hls/sanandatv/index.m3u8
 https://ranacable.duckdns.org/RanaMovie/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://img-cdn.publive.online/fit-in/1200x675/afaqs/media/post_attachments/10748d92781bb5c4b905c6d099a049402df8755404dd10781241db6b0fe221ad.jpg", DANGAL
-http://103.175.73.12:8080/live/17/17_0.m3u8
+#http://103.175.73.12:8080/live/17/17_0.m3u8
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.medianews4u.com/wp-content/uploads/2022/04/Dangal-2.jpg", DANGAL 2
-http://103.175.73.12:8080/live/18/18_0.m3u8
+#http://103.175.73.12:8080/live/18/18_0.m3u8
 https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="disney-channel" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_Channel.png" group-title="Kids",Disney Channel
