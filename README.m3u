@@ -6,13 +6,6 @@ telegram:-@SKY LIFE BD
 #EXTM3U x-tvg-url="https://streamflexsmm.in/content-jiotvplus.media.jio/metadata/v2/livechannels/epg.xml.gz"
 #EXTM3U x-tvg-url="http://223.25.71.211:5001/epg.xml.gz"
 
-#EXTINF:-1 tvg-id="B0HKDPRJRS" tvg-name="Australia tour of South Africa 2026 - 3rd Test - South Africa vs Australia" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.20a790a3-51e9-4ec1-9a8b-cb632845af2d/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Australia tour of South Africa 2026 - 3rd Test - South Africa vs Australia
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bdc52b31dcf25b0515a61fb9d0f444a2:468ae45daef1021713e7ea869a340f96
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yi1ah9sgsj/out/v1/ffe37797429b4ed28810e8d7735124fc/cenc.mpd
-
 #EXTINF:-1, tvg-logo="https://media.info/l/o/5/5824.1689874022.png", TNT SPORTS UNLIMITED
 http://pixtv.org/live/Y8EF19JC9S2E529/NZCZbqDgoz/1281083.m3u8
 
@@ -41,7 +34,7 @@ http://pixtv.org/live/Y8EF19JC9S2E529/NZCZbqDgoz/1441959.m3u8
 http://pixtv.org/live/Y8EF19JC9S2E529/NZCZbqDgoz/1287085.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/mdarif2743/Sky-life-bd/main/IMG_20260723_130039_939.jpg", SKY LIFE BD(FREE IPTV) islamic channel
-http://103.175.73.12:8080/live/856/856_0.m3u8
+#http://103.175.73.12:8080/live/856/856_0.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/mdarif2743/Sky-life-bd/main/IMG_20260723_130039_939.jpg", SKY LIFE BD(FREE IPTV) live sports
 https://hey-lookme.shop/cursed.php/cursed/stream.m3u8
@@ -49,7 +42,6 @@ https://hey-lookme.shop/cursed.php/cursed/stream.m3u8
 https://cdn-gstyx.styxsports.live/STYX/streams/68oRKR23qeWZvCXu6248791548119.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/mdarif2743/Sky-life-bd/main/IMG_20260723_130039_939.jpg", SKY LIFE BD(FREE IPTV) live sports
-https://zibo1.tvhunter.top/DAZN_TEST/index.m3u8
 https://tfzm0gr3uomttgr31hctofaauopjpptwzc3jt.100ycdn.com/live1.quickscoreboardz.com/live/channel2/playlist.m3u8?wsSecret=ec13f041681b0d570493dedda3f51d9c&wsABSTime=1790490225&wsSession=34b7b2b2228b31af46e37862-179045004416727&wsIPSercert=fee0d478b11d3be8c08f042b9a810917&wsBindIP=2&wsserid=1168233471352287496
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mdarif2743/Sky-life-bd/main/IMG_20260723_130039_939.jpg" group-title="Football", FUBO SPORTS FHD
@@ -57,6 +49,8 @@ https://tfzm0gr3uomttgr31hctofaauopjpptwzc3jt.100ycdn.com/live1.quickscoreboardz
 #KODIPROP:inputstream.adaptive.license_key=
 
 #EXTINF:-1 group-title="Sports World" tvg-logo="https://img1.wsimg.com/isteam/ip/d08bca69-c528-4050-938f-bd511aa0a61f/blob-0004.png/:/cr=t:0%25,l:22.59%25,w:54.82%25,h:54.82%25", Action Sports 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2bb7f4489e5f421eb0de90035cffb2bc:96b09b69c638dac184f42910e0095933
 https://ottlive.dishhome.com.np/protected/vVnVkZ4Bnu3lGwDQJxH-/dash/manifest.mpd
