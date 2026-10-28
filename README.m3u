@@ -1036,7 +1036,7 @@ https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8
 https://mtv.sunplex.live/MAASRANGA/index.m3u8
 
 #EXTINF:-1 tvg-id="nagorik" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Nagorik.webp" group-title="Bangla",NAGORIK
-https://flussonic.defineatoz.com/backup/tracks-v1a1/mono.m3u8
+#https://flussonic.defineatoz.com/backup/tracks-v1a1/mono.m3u8
 https://box.bbaria.net:8083/Nagorik_TV/video.m3u8
 
 #EXTINF:-1 tvg-id="news24hd" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/News%2024%20HD.webp" group-title="Bangla",NEWS.24.HD
@@ -1102,7 +1102,6 @@ https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-logo="https://i.postimg.cc/PrLZryqH/Jio-TV.jpg" tvg-id="457" tvg-name="Jalsha Movies HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png" group-title="JioTV+ | Bengali",Jalsha Movies HD
 http://103.114.11.37:8081/Jalsha-Movies/index.m3u8?token=dsgdfgsdfgasf
 #http://103.165.93.31:8095/jalshaMovies/index.m3u8
-http://livetv.akr4m.com:8080/bdtv/restrem/27.m3u8
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/PrLZryqH/Jio-TV.jpg" tvg-id="1657" tvg-name="Colors Bangla Cinema" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" group-title="JioTV+ | Bengali",Colors Bangla Cinema
 http://103.114.11.37:8081/Colors-bangla-cinema/index.m3u8?token=dsgdfgsdfgasf
@@ -1110,9 +1109,8 @@ http://103.114.11.37:8081/Colors-bangla-cinema/index.m3u8?token=dsgdfgsdfgasf
 http://livetv.akr4m.com:8080/bdtv/restrem/3.m3u8
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/PrLZryqH/Jio-TV.jpg" tvg-id="3476" tvg-name="Zee Bangla Sonar" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeBanglaSonar.png" group-title="JioTV+ | Unknown",Zee Bangla Sonar
-https://servermairebap.cloudbd.one/ZEE-BANGLA-CINEMA/index.m3u8
 #http://103.135.253.32:8080/ZEE-BANGLA-CINEMA/index.m3u8
-http://103.185.24.134:3001/ZEE-BANGLA-CINEMA/index.m3u8
+#http://103.185.24.134:3001/ZEE-BANGLA-CINEMA/index.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/00/Tata_Play_BC_logo_2022.png/revision/latest?cb=20220128021535https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/00/Tata_Play_BC_logo_2022.png/revision/latest?cb=20220128021535" group-title="Relagion Channel", tata play Bangla cinema
