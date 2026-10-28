@@ -33,8 +33,8 @@ http://pixtv.org/live/Y8EF19JC9S2E529/NZCZbqDgoz/1441959.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original", DIGI 4K
 http://pixtv.org/live/Y8EF19JC9S2E529/NZCZbqDgoz/1287085.m3u8
 
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/mdarif2743/Sky-life-bd/main/IMG_20260723_130039_939.jpg", SKY LIFE BD(FREE IPTV) islamic channel
-#http://103.175.73.12:8080/live/856/856_0.m3u8
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDBZGLe3kkW2NdV8Bu9Ft9ec2LUNASdh98xZsU1zqB3auUxKd-kHJG8aL0&s=10", NEPAL PREMIER LEAGUE LIVE
+https://ottnlive-fstream.nettvstreamz.com/live_hls/npl_match_3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/mdarif2743/Sky-life-bd/main/IMG_20260723_130039_939.jpg", SKY LIFE BD(FREE IPTV) live sports
 https://hey-lookme.shop/cursed.php/cursed/stream.m3u8
