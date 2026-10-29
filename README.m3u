@@ -1074,6 +1074,7 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/PrLZryqH/Jio-TV.jpg" tvg-id="756" tvg-name="Colors Bangla HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bengali_HD.png" group-title="JioTV+ | Bengali",Colors Bangla HD
+http://103.114.11.37:8081/Colors-bangla/index.m3u8?token=sboxcast
 http://103.135.253.32:8080/COLORS-BANGLA-HD/index.m3u8
 http://103.114.11.37:8081/Colors-bangla/index.m3u8?token=dsgdfgsdfgasf
 http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/25088.m3u8
@@ -1102,10 +1103,12 @@ https://cdn.pishow.tv/ott/live/1473/master.m3u8
 https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/PrLZryqH/Jio-TV.jpg" tvg-id="457" tvg-name="Jalsha Movies HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png" group-title="JioTV+ | Bengali",Jalsha Movies HD
+http://103.114.11.37:8081/Jalsha-Movies/index.m3u8?token=sboxcast
 http://103.114.11.37:8081/Jalsha-Movies/index.m3u8?token=dsgdfgsdfgasf
 #http://103.165.93.31:8095/jalshaMovies/index.m3u8
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/PrLZryqH/Jio-TV.jpg" tvg-id="1657" tvg-name="Colors Bangla Cinema" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" group-title="JioTV+ | Bengali",Colors Bangla Cinema
+http://103.114.11.37:8081/Colors-bangla-cinema/index.m3u8?token=sboxcast
 http://103.114.11.37:8081/Colors-bangla-cinema/index.m3u8?token=dsgdfgsdfgasf
 #http://51.75.127.199:3141/colorsbanglacinema/index.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/3.m3u8
@@ -1147,6 +1150,7 @@ https://playyonogames.in/sliv/stream.m3u8?id=1000009248|Referer=https://playyono
 https://ev-eu-hw-fast-mpd.starzplayarabia.com/SONY_SAB/dash/drm/index.mpd
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/PrLZryqH/Jio-TV.jpg" tvg-id="144" tvg-name="Colors HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsHD.png" group-title="JioTV+ | Entertainment",Colors HD
+http://103.114.11.37:8081/Colors-HD/index.m3u8?token=sboxcast
 #http://103.135.253.32:8080/Color-HD/index.m3u8
 http://103.114.11.37:8081/Colors-HD/index.m3u8?token=dsgdfgsdfgasf
 http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/200466.m3u8
@@ -1155,7 +1159,7 @@ http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/200466.m3u8
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsme.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsRishtey.png" group-title="HINDI", COLORS RISHTEY
-#https://manatv.akamaized.net/090823/smil:ristheyamerica.smil/playlist.m3u8
+https://manatv.akamaized.net/090823/smil:ristheyamerica.smil/playlist.m3u8
 https://box.bbaria.net:8083/STAR_GOLD_THRILLS/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="9487113" tvg-name="&Tv HD" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/6ce923e690114400bcdc43ea7a3b27be/version/0" group-title="Entertainment",&Tv HD
@@ -1241,6 +1245,7 @@ http://live.balajibroadband.com:3500/live/3418.m3u8
 
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/PrLZryqH/Jio-TV.jpg" tvg-id="156" tvg-name="Star Gold HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="JioTV+ | Movies",Star Gold HD
+http://103.114.11.37:8081/StarGold/index.m3u8?token=sboxcast
 #http://103.135.253.32:8080/STAR-GOLD-HD/index.m3u8
 #http://103.114.11.37:8081/StarGold/index.m3u8?token=dsgdfgsdfgasf
 http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/181357.m3u8
@@ -1320,15 +1325,17 @@ https://techandeat.online/sliv/stream.m3u8?id=1000009258|Referer=https://techand
 https://p4kp.rjmbts.workers.dev/22124.m3u8
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/mk41wvy1/Jio-TV.jpg" tvg-id="1104" group-title="JioTV | English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png",Star Movies HD
+http://103.114.11.37:8081/Star-Movies/index.m3u8?token=sboxcast
 #http://103.114.11.37:8081/Star-Movies/index.m3u8?token=dsgdfgsdfgasf
 http://103.185.24.134:3001/Star-Movies/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/mk41wvy1/Jio-TV.jpg" tvg-id="1110" group-title="JioTV | English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png",Star Movies Select HD
+http://103.114.11.37:8081/Star-movies-select/index.m3u8?token=sboxcast
 #http://103.114.11.37:8081/Star-movies-select/index.m3u8?token=dsgdfgsdfgasf
 http://103.185.24.134:3001/STAR-MOVIES-SEL-HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="AndxplorHD.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDXPLOR_HD/images/LOGO_HD/LOGO_HD_image.png" group-title="India",&xplor HD (1080p)
-#http://51.75.127.199:3141/andxplorehd/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/STW_264_Color.png" group-title="STC TV ©",Star World HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1620,6 +1627,7 @@ http://premiumplug.fun/tee/zee5.php/0-9-zeeclassic.m3u8
 http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/181291.ts
 
 #EXTINF:-1 tvg-id="9487096" tvg-name="Zee Cinema HD" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/c91e031d66e1443a9412978290a260db/version/0" group-title="Movies",Zee Cinema HD
+http://103.114.11.37:8081/Z-Cinema/index.m3u8?token=sboxcast
 http://103.114.11.37:8081/Z-Cinema/index.m3u8?token=dsgdfgsdfgasf
 http://premiumplug.fun/tee/zee5.php/0-9-zeecinemahd.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1651,12 +1659,12 @@ https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:-1 tvg-chno="135" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/lcMc75Xr.png" group-title="Services",ShortsTV Active
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b994480f788d41ddbc805862ac469416:78a6a0fc1758483595da7113e58e4467
-#https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Shortstv2/default/manifest.mpd
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Shortstv2/default/manifest.mpd
 
 #EXTINF:-1 tvg-chno="136" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/BNu8WvFw.png" group-title="Services",Korean Drama Active
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ed197e7253c04946903f03bad9afac91:99ebb8683ea74b70a9fda1cbdc2cc1b4
-#https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Koreandramas2/default/manifest.mpd
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Koreandramas2/default/manifest.mpd
 
 #EXTINF:-1 tvg-id="HiDost.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Hi_Dost.png" group-title="Entertainment",Hi Dost! (720p)
 https://cdn.pishow.tv/ott/live/224/master.m3u8
@@ -1779,6 +1787,7 @@ https://techandeat.online/sliv/stream.m3u8?id=1000009275|Referer=https://techand
 http://103.185.24.134:3001/SONY-SPORTS.5HD/index.m3u8
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/PrLZryqH/Jio-TV.jpg" tvg-id="1106" tvg-name="Star Sports 1 HD" tvg-logo="https://img.media.jio.com/tvpimages/76/32/301981_1749665664018_l_medium.jpg" group-title="JioTV+ | Sports",Star Sports 1 HD
+http://103.114.11.37:8081/Star-sports-1/index.m3u8?token=sboxcast
 http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/433637.m3u8
 http://103.114.11.37:8081/Star-sports-1/index.m3u8?token=dsgdfgsdfgasf
 https://p4kp.rjmbts.workers.dev/25121.m3u8
@@ -1786,18 +1795,20 @@ https://flussonic.defineatoz.com/Starsports1/tracks-v1a1/mono.m3u8?
 http://103.114.11.37:8081/Star-sports-1/index.m3u8?token=dsgdfgsdfgasf
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/PrLZryqH/Jio-TV.jpg" tvg-id="1109" tvg-name="Star Sports 2 HD" tvg-logo="https://img.media.jio.com/tvpimages/41/51/301983_1749666169105_l_medium.jpg" group-title="JioTV+ | Sports",Star Sports 2 HD
-http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/433640.m3u8
+#http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/433640.m3u8
 http://str24.l9574.com/715.stream/index.m3u8
 https://p4kp.rjmbts.workers.dev/7458.m3u8
 https://flussonic.defineatoz.com/Starsports2/index.m3u8
 http://103.114.11.37:8081/Star-sports-2/index.m3u8?token=dsgdfgsdfgasf
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/PrLZryqH/Jio-TV.jpg" tvg-id="1389" tvg-name="Star Sports 3" tvg-logo="https://img.media.jio.com/tvpimages/78/2/302117_1749666092192_l_medium.jpg" group-title="JioTV+ | Sports",Star Sports 3
+http://103.114.11.37:8081/Star-sports-2/index.m3u8?token=sboxcast
 http://103.114.11.37:8081/Star-sports-3/index.m3u8?token=dsgdfgsdfgasf
 http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/416135.m3u8
 http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/416135.m3u8
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/PrLZryqH/Jio-TV.jpg" tvg-id="460" tvg-name="Star Sports Select 1 HD" tvg-logo="https://img.media.jio.com/tvpimages/96/65/302113_1749664252703_l_medium.jpg" group-title="JioTV+ | Sports",Star Sports Select 1 HD
+http://103.114.11.37:8081/Star-select-1/index.m3u8?token=sboxcast
 http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/416134.m3u8
 http://103.135.253.32:8080/STAR-SPORTS-SELECT-1/index.m3u8
 #http://103.114.11.37:8081/Star-select-1/index.m3u8?token=dsgdfgsdfgasf
@@ -1805,6 +1816,7 @@ http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/433642.m3u8
 https://flussonic.defineatoz.com/starsportsselect1/tracks-v1/mono.m3u8
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/PrLZryqH/Jio-TV.jpg" tvg-id="461" tvg-name="Star Sports Select 2 HD" tvg-logo="https://img.media.jio.com/tvpimages/98/79/302114_1749665414817_l_medium.jpg" group-title="JioTV+ | Sports",Star Sports Select 2 HD
+http://103.114.11.37:8081/Star-select-2/index.m3u8?token=sboxcast
 #http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/302026.m3u8
 http://103.114.11.37:8081/Star-select-2/index.m3u8?token=dsgdfgsdfgasf
 http://str24.l9574.com/737.stream/index.m3u8
