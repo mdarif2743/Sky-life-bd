@@ -889,7 +889,7 @@ https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/SaudiSunnah-141/
 http://bosstv.click:8080/live/18012689/77561563/172219.m3u8
 
 #EXTINF:-1 tvg-id="btvhd" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/BTV.webp" group-title="Bangla",BTV.HD
-http://bosstv.click:8080/live/18012689/77561563/131992.m3u8
+#http://bosstv.click:8080/live/18012689/77561563/131992.m3u8
 #http://sm-monirul.top/ak/live.php?id=btv&sm=.m3u8
 #https://nkafmbewiff.gpcdn.net/tile_2/master.m3u8
 http://103.135.253.32:8080/BTV/index.m3u8
