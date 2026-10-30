@@ -1910,55 +1910,41 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU
 
 #EXTINF:-1 group-title="list sport ini khusus digital tv.apk" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN SPORT ARAB 9
 
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/b46df1959322aa48d270a6b163234c76" group-title="Sports",ESPN
-https://s2.bufaloweb.com/bufalo4/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/b46df1959322aa48d270a6b163234c76" group-title="Sports",ESPN
-https://s2.bufaloweb.com/bufalo5/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/b46df1959322aa48d270a6b163234c76" group-title="Sports",ESPN
-https://s2.bufaloweb.com/bufalo6/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/b46df1959322aa48d270a6b163234c76" group-title="Sports",ESPN
-https://s2.bufaloweb.com/bufalo7/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/b46df1959322aa48d270a6b163234c76" group-title="Sports",ESPN
-https://s2.bufaloweb.com/bufalo8/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/CtHSL6T/20241123-101150.png" group-title="Sports" tvg-id="espn.id" ch-number="54" tvg-name="ESPN", ESPN
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=cb004fb100bd92f23793562891e3236b:b3e4e74ae2080b137e68bbd0ef8a7e05
-#https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(8757cb0a-3584-40cd-901e-8937c7deba83)/master.mpd
+#KODIPROP:inputstream.adaptive.license_key=
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/qRhgT1D/20241123-095655.png" group-title="Sports" tvg-id="espn.id" ch-number="55" tvg-name="ESPN 2", ESPN 2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185
-#https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd
+#KODIPROP:inputstream.adaptive.license_key=
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Bzhg2XW/20241123-095805.png" group-title="Sports" tvg-id="espn.id" ch-number="56" tvg-name="ESPN 3", ESPN 3
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8a60d7889ff126ee1895335e92254f8e:de1b0ce19fa804a1c473eb8ef2d5cf6d
-#https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(a38d1401-ee01-4802-812a-7cb460c9832c)/master.mpd
+#KODIPROP:inputstream.adaptive.license_key=
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/0srF95S/20241123-095930.png" group-title="Sports" tvg-id="espn.id" ch-number="57" tvg-name="ESPN 4", ESPN 4
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=54a2c11085c315ed6ff85c340a86095d:5f0d10cf4a5c7e22e286b7e8cb4e79f4
-#https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(9500bf02-0001-4199-a150-58dc5d692cca)/master.mpd
+#KODIPROP:inputstream.adaptive.license_key=
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/NWVvpdv/20241123-095543.png" group-title="Sports" tvg-id="espn.id" ch-number="58" tvg-name="ESPN 5", ESPN 5
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4e126297fc7af35c736bdffe98eecaaa:fdb0091cf67d9c596dbfb07cf6f4c8f5
-#https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(80c74968-a2ef-4005-8661-045fe97408a8)/master.mpd
+#KODIPROP:inputstream.adaptive.license_key=
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/whj7x2F/20241123-095424.png" group-title="Sports" tvg-id="espn.id" ch-number="59" tvg-name="ESPN 6", ESPN 6
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f5836382452cdca1e1c8bf8b9a713534:7d261930c3309ed2b06d2abb34a64410
-#https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(b30aa51e-97fa-4354-bb38-871fb360e984)/master.mpd
+#KODIPROP:inputstream.adaptive.license_key=
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/5Fb6JQP/20241123-095218.png" group-title="Sports" tvg-id="espn.id" ch-number="60" tvg-name="ESPN 7", ESPN 7
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=98ea1e32227adcd3618baac2bbf36814:72a03a09d33e412f14a9bfa4ef24b542
-#https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(5ab5db84-2235-4c10-9066-be9bc2ee087a)/master.mpd
+#KODIPROP:inputstream.adaptive.license_key=
+
 
 #EXTINF:-1, NEWS 21 TV
 http://103.190.133.68:1935/news21live/live/playlist.m3u8
@@ -1994,7 +1980,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/live-orgin/ntvuk00332211.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGAnc8Wh4Xk0EsLOlkBJqTnOlAMQjFO4kvNpNoNwX0sq9kUcgML-RiIyNkR4CDc85_mnOp1OT886XdWdhojzRKqQjCDYqo2Iz-aTBhYx25XHVP2CO_6jQuUwNu20iEHDfzhrSoaLCeZpSaZiZd87LQFfqiRZMmX8LI2ZIVfSA15WRpJMnFYes2EvVfdw/s1080/1000046586.png",EPTV HD
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/eptv.stream/tracks-v1a1/mono.m3u8
+#https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/eptv.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNMCLUJvhmcB_CSnlbh1Pq2EftQ31a8fw5Z37yr-b_vyEweqF_hNpN2REZH0gIeLUpdz8n5YyHrOZzVu_lnSK-QyG0nAiZXT9DBZwpPPE0Z24svJjFRxihtIFcEwo6ZnpbnxyE6P2XJrdvm0saWcJ1wfM09zrnbBM7b5yMBlMPAuWhOANXsAUcaqIoHQ/s1080/1000060523.png",Enter TV
 https://live1.entertv.com.bd/entertv/tracks-v1a1/mono.m3u8
@@ -2057,7 +2043,7 @@ https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Bangla+%20plus.jpg?raw=true" group-title="All-In-One~ENT🧩",Bangla+ plus
-https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+#https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/EnterTen%20Bangla%202.jpg?raw=true" group-title="All-In-One~ENT🧩",Enter10Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
@@ -2069,7 +2055,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://tvsen6.aynaott.com/channel52/index.m3u8
 
 #EXTINF:-1 tvg-logo="" tvg-name="" group-title="All-In-One~ENT🧩", UPHAR BANGLA
-https://ranacable.duckdns.org/UpoharBangla/tracks-v1a1/index.m3u8
+#https://ranacable.duckdns.org/UpoharBangla/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="" tvg-name=" " group-title="All-In-One~ENT🧩", VISION 24
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/vision24.stream/tracks-v1a1/mono.m3u8
