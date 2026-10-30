@@ -891,7 +891,7 @@ http://bosstv.click:8080/live/18012689/77561563/172219.m3u8
 #EXTINF:-1 tvg-id="btvhd" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/BTV.webp" group-title="Bangla",BTV.HD
 #http://bosstv.click:8080/live/18012689/77561563/131992.m3u8
 #http://sm-monirul.top/ak/live.php?id=btv&sm=.m3u8
-#https://nkafmbewiff.gpcdn.net/tile_2/master.m3u8
+https://nkafmbewiff.gpcdn.net/tile_2/master.m3u8
 http://103.135.253.32:8080/BTV/index.m3u8
 
 #EXTINF:-1 tvg-chno="112" tvg-id="7c5fee98-96e2-43df-95f4-ae8ded8e9efe" tvg-name="BTV CTG" tvg-logo="https://s3.aynaott.com/storage/20e835171a2d078ca6c678fc95bd4bbd" group-title="Bangla",বিটিভি চট্টগ্রাম
