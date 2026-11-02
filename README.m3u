@@ -778,7 +778,7 @@ https://ottlive.dishhome.com.np/protected/GgTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
 #EXTINF:-1 tvg-chno="477" tvg-logo="https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,w_384,h_216/https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/EurosportHD_BoxCover_3f6e5dd6-b266-4e52-9b32-13ee2dde23e0.png", EUROSPORT HD
-http://103.114.11.37:8081/Eurosport-HD/index.m3u8?token=sboxcast
+#http://103.114.11.37:8081/Eurosport-HD/index.m3u8?token=sboxcast
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814
@@ -869,7 +869,7 @@ https://p4kp.rjmbts.workers.dev/24016.m3u8
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bn-ch-1/1104678.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/500px-T_Sports_logo.svg.png" group-title="AynaOTT - Sports",T Sports
-http://103.185.24.134:3001/TSportsHD/index.m3u8
+https://live.msnetworks.net/ptv-sports/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T3f1NQyV/20260524-024937.png" group-title="Religious",Quran TV
 https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/sharjahtvquranpublish/shqurantv_source/chunks.m3u8
@@ -1078,10 +1078,10 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/PrLZryqH/Jio-TV.jpg" tvg-id="756" tvg-name="Colors Bangla HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bengali_HD.png" group-title="JioTV+ | Bengali",Colors Bangla HD
-http://103.114.11.37:8081/Colors-bangla/index.m3u8?token=sboxcast
-http://103.135.253.32:8080/COLORS-BANGLA-HD/index.m3u8
-http://103.114.11.37:8081/Colors-bangla/index.m3u8?token=dsgdfgsdfgasf
 http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/25088.m3u8
+#http://103.114.11.37:8081/Colors-bangla/index.m3u8?token=sboxcast
+#http://103.135.253.32:8080/COLORS-BANGLA-HD/index.m3u8
+http://103.114.11.37:8081/Colors-bangla/index.m3u8?token=dsgdfgsdfgasf
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=01f7b9f7bf7e425f86d6dfd478390e3f:5fde68100a7856d055038236ffc7c84a
