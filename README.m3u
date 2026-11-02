@@ -7,31 +7,31 @@ telegram:-@SKY LIFE BD
 #EXTM3U x-tvg-url="http://223.25.71.211:5001/epg.xml.gz"
 
 #EXTINF:-1, tvg-logo="https://media.info/l/o/5/5824.1689874022.png", TNT SPORTS UNLIMITED
-http://pixtv.org/live/Y8EF19JC9S2E529/NZCZbqDgoz/1281083.m3u8
+#http://pixtv.org/live/Y8EF19JC9S2E529/NZCZbqDgoz/1281083.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Astro_Sports_UHD_1_%282024%29.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original", ASTRO SPORTS UHD
 #http://pixtv.org/live/Y8EF19JC9S2E529/NZCZbqDgoz/1470225.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original", SKY SPORTS UHD 1
-http://pixtv.org/live/Y8EF19JC9S2E529/NZCZbqDgoz/1281426.m3u8
+#http://pixtv.org/live/Y8EF19JC9S2E529/NZCZbqDgoz/1281426.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original", SKY SPORTS UHD 2
-http://pixtv.org/live/Y8EF19JC9S2E529/NZCZbqDgoz/1281427.m3u8
+#http://pixtv.org/live/Y8EF19JC9S2E529/NZCZbqDgoz/1281427.m3u8
 
 #EXTINF:-1, tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_F1_GB_logo.png?1734014987", SKY SPORTS F1 UHD
-http://pixtv.org/live/Y8EF19JC9S2E529/NZCZbqDgoz/1281084.m3u8
+#http://pixtv.org/live/Y8EF19JC9S2E529/NZCZbqDgoz/1281084.m3u8
 
 #EXTINF:-1, tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/Sky_Bundesliga_1.png", SKY BUNDESLIGA UHD
-http://pixtv.org/live/Y8EF19JC9S2E529/NZCZbqDgoz/1281069.m3u8
+#http://pixtv.org/live/Y8EF19JC9S2E529/NZCZbqDgoz/1281069.m3u8
 
 #EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/Sky_Sport_1_4K_UHD.svg/revision/latest/scale-to-width-down/250?cb=20260705180342", SKY SPORTS 1 UHD
-http://pixtv.org/live/Y8EF19JC9S2E529/NZCZbqDgoz/1434884.m3u8
+#http://pixtv.org/live/Y8EF19JC9S2E529/NZCZbqDgoz/1434884.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/52/BeIN_4K_logo.jpg?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=original", BEIN UHD
-http://pixtv.org/live/Y8EF19JC9S2E529/NZCZbqDgoz/1441959.m3u8
+#http://pixtv.org/live/Y8EF19JC9S2E529/NZCZbqDgoz/1441959.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original", DIGI 4K
-http://pixtv.org/live/Y8EF19JC9S2E529/NZCZbqDgoz/1287085.m3u8
+#http://pixtv.org/live/Y8EF19JC9S2E529/NZCZbqDgoz/1287085.m3u8
 
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDBZGLe3kkW2NdV8Bu9Ft9ec2LUNASdh98xZsU1zqB3auUxKd-kHJG8aL0&s=10", NEPAL PREMIER LEAGUE LIVE
 http://bosstv.click:8080/live/18012689/77561563/132249.m3u8
