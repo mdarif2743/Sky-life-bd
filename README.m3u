@@ -304,7 +304,8 @@ https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/STCT2_HEVC/wv-pr/manifest.mpd
  
 #EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/STCT3_264_Color.png" group-title="STC TV SPORT ©",STCtv Thmanyeh 3 HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4bc8e4e871589a45e7c0c7d245c243c6:
+#KODIPROP:inputstream.adaptive.license_key=4bc8e4e871589a45e7c0c7d245c243c6:4bc8e4e871589a45e7c0c7d245c243c6:4c5e8108e0f3cea4b588f5727d3de482
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/STCT3_HEVC/wv-pr/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/AD1_264_Color.png" group-title="STC TV SPORT ©",STCtv AD SPORTS 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
