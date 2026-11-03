@@ -791,13 +791,20 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bn-ch-1/1104
 http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/302020.m3u8
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bn-ch-1/1104670.m3u8
 
+#EXTINF:-1 tvg-chno="404" tvg-logo="https://epg.pw/media/images/epg/2025/05/09/20250509042549016858_59.png", Cricbuzz 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=88108f87e67cd151f9519101fc80c467:7f2ef277964796a9fb76afe361e2344c
+https://cbuzz1.starzplayarabia.com/out/v1/f017da8419e0495784291700c11700a5/index.mpd
+
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=48bef83b4c6a3c5189b01b0126210da4:bd085230b7b09e50954fe0af111a8a9f
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-chno="404" tvg-logo="https://epg.pw/media/images/epg/2025/05/09/20250509042549016858_59.png", Cricbuzz 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife2/DASH/CricLife2.mpd
+#https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife2/DASH/CricLife2.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
