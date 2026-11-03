@@ -886,6 +886,7 @@ https://s1.ideationtec.live/Saudi_Sunnah_HD/Saudi_Sunnah_HD.m3u8
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/SaudiSunnah-141/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/445e46fa18ca002bff3de50203fdf3af.jpg?width=700", BIG BOSS BANGLA
+http://ott1.co/live/7799/9977/796230.ts
 #http://bosstv.click:8080/live/18012689/77561563/172219.m3u8
 
 #EXTINF:-1 tvg-id="btvhd" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/BTV.webp" group-title="Bangla",BTV.HD
@@ -1246,6 +1247,7 @@ http://live.balajibroadband.com:3500/live/3418.m3u8
 
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/PrLZryqH/Jio-TV.jpg" tvg-id="156" tvg-name="Star Gold HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="JioTV+ | Movies",Star Gold HD
+http://ott1.co/live/7799/9977/194.ts
 #http://103.114.11.37:8081/StarGold/index.m3u8?token=sboxcast
 http://103.135.253.32:8080/STAR-GOLD-HD/index.m3u8
 #http://103.114.11.37:8081/StarGold/index.m3u8?token=dsgdfgsdfgasf
