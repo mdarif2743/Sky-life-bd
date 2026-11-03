@@ -845,14 +845,13 @@ https://bl.rutube.ru/livestream/5f5dc9d64b43dfc740e92f2bdf2b0d38/index.m3u8?s=wG
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Hard/logo_transparent_cb_(1)_prev_ui.png",Willow Cricket HD
+https://p4kp.rjmbts.workers.dev/15521.m3u8
 http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/302022.m3u8
 http://pixtv.org/live/Y8EF19JC9S2E529/NZCZbqDgoz/1404524.m3u8
 https://tvsen5.aynaott.com/willowhd/index.m3u8
 http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/31131/index.m3u8
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-Willow1.m3u8
 http://tvsen5.aynascope.net/willowhd/index.m3u8
-https://p4kp.rjmbts.workers.dev/15521.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZcJANelaW8aBRREj0hAfcWIjvYWJdJ_Epg&usqp=CAU",Willow Cricket 2
 #http://pixtv.org/live/Y8EF19JC9S2E529/NZCZbqDgoz/1404523.m3u8
@@ -861,8 +860,8 @@ https://p4kp.rjmbts.workers.dev/15521.m3u8
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-Willow2.m3u8
 
 #EXTINF:-1 tvg-chno="410" tvg-id="Fox.501.uk" tvg-logo="http://greenpa1.com/fox.png" group-title="Sports",Fox Sports 501 HD
-http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/308295.m3u8
 https://p4kp.rjmbts.workers.dev/24016.m3u8
+http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/308295.m3u8
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bn-ch-1/1104678.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/500px-T_Sports_logo.svg.png" group-title="AynaOTT - Sports",T Sports
