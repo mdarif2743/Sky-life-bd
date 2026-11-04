@@ -6,6 +6,18 @@ telegram:-@SKY LIFE BD
 #EXTM3U x-tvg-url="https://streamflexsmm.in/content-jiotvplus.media.jio/metadata/v2/livechannels/epg.xml.gz"
 #EXTM3U x-tvg-url="http://223.25.71.211:5001/epg.xml.gz"
 
+#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/web-images/logo(1).png?optimizer=image&width=200" group-title="Cricket", STYX SPORTS 1
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-gstyx.styxsports.live/STYX/streams/Kt2jpAAecYkMJfYx6135404234716.m3u8
+
+#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/web-images/logo(1).png?optimizer=image&width=200" group-title="Cricket", STYX SPORTS 2
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-gstyx.styxsports.live/STYX/streams/qMuQNDu7JKijEELN6211332844820.m3u8
+
+#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/web-images/logo(1).png?optimizer=image&width=200" group-title="Cricket", STYX SPORTS 3
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-gstyx.styxsports.live/STYX/streams/68oRKR23qeWZvCXu6248791548119.m3u8
+
 #EXTINF:-1, tvg-logo="https://media.info/l/o/5/5824.1689874022.png", TNT SPORTS UNLIMITED
 
 
@@ -90,11 +102,10 @@ https://jmp2.uk/rok-b4273871759a5631bd536d2214f175e5.m3u8
 https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/mdarif2743/Sky-life-bd/main/IMG_20260723_130039_939.jpg", SKY LIFE BD(FREE IPTV) LIVE CRICKET
-https://cdn-gstyx.styxsports.live/STYX/streams/qMuQNDu7JKijEELN6211332844820.m3u8
-https://cdn-gstyx.styxsports.live/STYX/streams/68oRKR23qeWZvCXu6248791548119.m3u8
+
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/mdarif2743/Sky-life-bd/main/IMG_20260723_130039_939.jpg", SKY LIFE BD(FREE IPTV) LIVE CRICKET
-http://103.135.253.32:8080/TEN-CRECKET/tracks-v1a1/mono.m3u8
+#http://103.135.253.32:8080/TEN-CRECKET/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/b/bb/Three_NZ_2023.svg/1280px-Three_NZ_2023.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail", THREE NZ
 https://mediapackage-sky-three-source.fullscreen.nz/index.m3u8
@@ -566,12 +577,6 @@ https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mp
 #KODIPROP:inputstream.adaptive.license_key=5fc8da8b94c447468ffe392157f8c75e:333b934fdde4c1ee87e7f1c5dac4cb8f
 #EXTHTTP:{"Origin":"https://portal.app.flow.com.py","Referer":"https://portal.app.flow.com.py/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"}
 https://cache4.zapitv.com/live/eds_c2/HYPERMOTION2/dash_live_ez/HYPERMOTION2.mpd
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="England vs Pakistan", England vs Pakistan (TAMASHA - AQ)
-
-#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/web-images/logo(1).png?optimizer=image&width=200" group-title="Cricket", Namibia Vs South Africa - HD QUALITY
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-gstyx.styxsports.live/STYX/streams/Kt2jpAAecYkMJfYx6135404234716.m3u8
 
 #EXTINF:-1 tvg-id="Si Solo Calcio.it" tvg-logo="https://i.ibb.co.com/7Q5vVhy/sportitaliaplus.png" group-title="SPORTS" , SOLOCALCIO ITALIA
 https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8
