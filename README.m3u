@@ -22,6 +22,12 @@ https://cdn-gstyx.styxsports.live/STYX/streams/68oRKR23qeWZvCXu6248791548119.m3u
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-gstyx.styxsports.live/STYX/streams/NM8GeZkuZtaEonaf6220693294451.m3u8
 
+#EXTINF:-1 tvg-id="1090552565" tvg-name="ACC Men's U19 Asia Cup 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028246/179378391827167_ACC_MensU19_Bangladesh_vs_Afghanistan_live_landscape_thumb.jpg" tvg-language="English" group-title="Cricket",ENG | Bangladesh vs Afghanistan - 5 Nov 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2037140/criclive0511/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=6ab21ad3e778a9d0372ec3387a1f521d-1793853003444
+
+#EXTINF:-1 tvg-id="1090552560" tvg-name="ACC Men's U19 Asia Cup 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028170/1793739045231457_ACC_MensU19_SL_vs_Malaysia_live_landscape_thumb.jpg" tvg-language="English" group-title="Cricket",ENG | Sri Lanka vs Malaysia - 5 Nov 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2037139/criclive0511/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=6ab21ad3e778a9d0372ec3387a1f521d-1793853003444
+
 #EXTINF:-1, tvg-logo="https://media.info/l/o/5/5824.1689874022.png", TNT SPORTS UNLIMITED
 
 
