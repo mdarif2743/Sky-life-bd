@@ -61,6 +61,10 @@ http://elitenova.net/live/MAGTF8AV71/bUiJLEJKG5/1434884.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original", DIGI 4K
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Nottingham%20Forest%20Vs%20Manchester%20City.jpg" group-title="Football", PEACOCK ENG FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7958dfdd2dc78d547fa387ca43e9fccf:a147d16dccfe009c7ad64c11c5db23ee
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oqqqgttdec/out/v1/d120aa86304f4f28a77896fcb03c658b/cenc.mpd
 
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDBZGLe3kkW2NdV8Bu9Ft9ec2LUNASdh98xZsU1zqB3auUxKd-kHJG8aL0&s=10", NEPAL PREMIER LEAGUE LIVE
 http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/416136.m3u8
