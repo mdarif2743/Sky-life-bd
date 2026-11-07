@@ -505,6 +505,17 @@ http://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/vwq77hfgzw/o
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/premier_sports_2._SL170_FMpng_.png" group-title="Prime Video Live TV United Kingdom",Premier Sports 2
 http://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
 
+#EXTINF:-1 tvg-logo="https://images.daznservices.com/di/library/DAZN_News/2/5d/dazn-italia-logo-serie-a-tim_125h4bd1b9au41tfluworyuu2t.png?t=-1370687098" group-title="Football", Parma Vs Bologna - DAZN ITALIA FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3cab879732fb4ba028c83b3be8816638:81919805a79e04b19094931bcc7c6b18
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/chgemku7j2/out/v1/01a941d9b4544c85843d4fd046193a07/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://images.daznservices.com/di/library/DAZN_News/2/5d/dazn-italia-logo-serie-a-tim_125h4bd1b9au41tfluworyuu2t.png?t=-1370687098" group-title="Football", Parma Vs Bologna - DAZN ITALIA FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1d4aa3a79a326fe42bc566c7a50afa8:195651be924446ca0902f667b610e3ff
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xxeg8rmdzh/out/v1/65c35bcbe3284ec0a36c0b8dfa3061b6/cenc.mpd
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/W3XpzQy/cazetv.png" ,CAZE TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
