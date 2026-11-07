@@ -61,6 +61,17 @@ http://elitenova.net/live/MAGTF8AV71/bUiJLEJKG5/1434884.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original", DIGI 4K
 
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/VfB%20Stuttgart%20Vs%20SV%20Werder%20Bremen.jpg" group-title="Football", VfB Stuttgart Vs SV Werder Bremen - SKY SPORT DE FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=28c270de72ed2ffab8b477c2f3d35c61:dfe35a85f9ba6326a2f9f8514bac99b8
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n59gzaiyg6/out/v1/eea6111c001f40d09881242cf50a4dd8/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/VfB%20Stuttgart%20Vs%20SV%20Werder%20Bremen.jpg" group-title="Football", VfB Stuttgart Vs SV Werder Bremen - SKY SPORT DE FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=28c270de72ed2ffab8b477c2f3d35c61:dfe35a85f9ba6326a2f9f8514bac99b8
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n59gzaiyg6/out/v1/eea6111c001f40d09881242cf50a4dd8/cenc.mpd
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Nottingham%20Forest%20Vs%20Manchester%20City.jpg" group-title="Football", PEACOCK ENG FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7958dfdd2dc78d547fa387ca43e9fccf:a147d16dccfe009c7ad64c11c5db23ee
@@ -523,7 +534,6 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/chgemku7j2/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e1d4aa3a79a326fe42bc566c7a50afa8:195651be924446ca0902f667b610e3ff
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xxeg8rmdzh/out/v1/65c35bcbe3284ec0a36c0b8dfa3061b6/cenc.mpd
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/W3XpzQy/cazetv.png" ,CAZE TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
