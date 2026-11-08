@@ -428,7 +428,10 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5c52hx2xgb/out/v1/bfba4ade9a4e461abced445f84834e4a/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2022/08/logo-liga-inggris.jpg?quality=60" group-title="live", EPL
-
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=09d34ac8d64803c1f8b1bddada99d638:752ab3efc7eb3601c8d3c6b5a89ffa39
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yd0huk04ob/out/v1/bc2ed690e3134c4c82a7c51b7174b5ae/cenc.mpd
 
 #EXTINF:-1, tvg-logo="https://crystalpng.com/wp-content/uploads/2023/06/La-liga-new-logo-red.png", LALIGA LIVE
 
