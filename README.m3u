@@ -39,6 +39,13 @@ https://cdn01.medialive.one:2096/GEOSUPERFHD/index.m3u8
 #EXTINF:-1, tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/0dfe36254353879.Y3JvcCwxNjE0LDEyNjMsODUxLDA.jpg", SAFF FOOTBALL 2026 LIVE (T SPORTS)
 http://45.117.61.162/01_Tsports_HD/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png?utm_source=ar.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled" group-title="LIVE EVENT", beIN SPORTS 3 ENGLISH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+
 #EXTINF:-1, tvg-logo="https://media.info/l/o/5/5824.1689874022.png", TNT SPORTS UNLIMITED
 
 
