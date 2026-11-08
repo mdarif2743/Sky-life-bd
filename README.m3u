@@ -1616,13 +1616,16 @@ https://cdn01.medialive.one:2096/ABBTAKNEWSFHD/index.m3u8
 https://vodzong.mjunoon.tv:8087/streamtest/ApnaChannel-134/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ARYDigital.pk" tvg-logo="https://i.imgur.com/TVP7g03.png" group-title="Pakistan" group-title="Entertainment",ARY Digital Asia HD
+https://arydigitalm.aryzap.com/v1/0183ea2408f90b8ed5941a38bc72/018ad63a21f809831f17036fbae4/ARYDigitalHDh264_1080p.m3u8?isSubM3u8=1
 https://cdn01.medialive.one:2096/ARYDIGITALFHD/index.m3u8
 https://ml-pull-dvc-myco.io:2096/ARY_DIGITAL/index.m3u8
 
 #EXTINF:-1 tvg-id="ARYNews.pk" tvg-logo="https://i.imgur.com/nFnxmFC.jpeg" group-title="Pakistan" group-title="News",ARY News
+https://arynewsm.aryzap.com/v1/0183ea205add0b8ed5941a38bc6f/018ad63928611ea50695040da296/ARYNewsH264_1080p.m3u8?isSubM3u8=1
 https://cdn01.medialive.one:2096/ARYNEWSFHD/index.m3u8
 
 #EXTINF:-1 tvg-id="ARYZindagi.pk" tvg-logo="https://i.ibb.co/PGjDpGt0/ARY-Zindagi.png" group-title="Pakistan" group-title="Entertainment",ARY Zindagi
+https://aryzindagim.aryzap.com/v1/01847acaa0f70b8ed5aa6ed04abe/01847acacfc30b8ed5aa6ed04ac1/ARYZindagiH264_1080p.m3u8?isSubM3u8=1
 https://cdn4.mjunoon.tv:8087/streamtest/85M/chunks.m3u8
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/ARYzindagi-abr/live/vsat-aryzindagi-M/chunks.m3u8
 
