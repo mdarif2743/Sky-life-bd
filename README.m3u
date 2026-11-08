@@ -418,8 +418,10 @@ https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/OMSP_HEVC/wv-pr/manifest.mpd
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
 
 #EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2022/08/logo-liga-inggris.jpg?quality=60" group-title="live", EPL
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa23a7c0d9c82f0c7b113506e202af8c:a883237ef30932b731f71aa59a0805c0
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oln41tn1gj/out/v1/1247ce6ac92b4ee3be02e7082954348a/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2022/08/logo-liga-inggris.jpg?quality=60" group-title="live", EPL
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
