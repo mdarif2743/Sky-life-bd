@@ -15,7 +15,6 @@ https://cdn-gstyx.styxsports.live/STYX/streams/Kt2jpAAecYkMJfYx6135404234716.m3u
 https://cdn-gstyx.styxsports.live/STYX/streams/qMuQNDu7JKijEELN6211332844820.m3u8
 
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/web-images/logo(1).png?optimizer=image&width=200" group-title="Cricket", STYX SPORTS 3
-https://live1.entertv.com.bd/zibo_tapmad-19114/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-gstyx.styxsports.live/STYX/streams/68oRKR23qeWZvCXu6248791548119.m3u8
 
@@ -24,7 +23,7 @@ https://cdn-gstyx.styxsports.live/STYX/streams/68oRKR23qeWZvCXu6248791548119.m3u
 https://cdn-gstyx.styxsports.live/STYX/streams/NM8GeZkuZtaEonaf6220693294451.m3u8
 
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/web-images/logo(1).png?optimizer=image&width=200" group-title="Cricket", STYX SPORTS 5
-https://live1.entertv.com.bd/zibo_tapmad-19996/index.m3u8
+
 
 #EXTINF:-1, tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/0dfe36254353879.Y3JvcCwxNjE0LDEyNjMsODUxLDA.jpg", SAFF FOOTBALL 2026 LIVE
 https://live2.jorvakstreamcache.com/live/channel7.m3u8?
@@ -65,7 +64,7 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/
 
 
 #EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/Sky_Sport_1_4K_UHD.svg/revision/latest/scale-to-width-down/250?cb=20260705180342", SKY SPORTS 1 UHD
-http://elitenova.net/live/MAGTF8AV71/bUiJLEJKG5/1434884.m3u8
+
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/52/BeIN_4K_logo.jpg?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=original", BEIN UHD
 
@@ -115,7 +114,7 @@ https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
 http://str24.l9574.com/905.stream/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.abf514cc-bb21-4f3c-900b-065784936f1b/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg", BAN VS WI TEST(tapmad ZIBO PLAY WW)
-https://live1.entertv.com.bd/zibo_tapmad-19121/index.m3u8
+
 
 #EXTINF:-1, tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.abf514cc-bb21-4f3c-900b-065784936f1b/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg", BAN VS WI TEST
 http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=sboxcast
