@@ -96,8 +96,8 @@ https://d3bq19vx8xhpwy.cloudfront.net/live/myStream/chunklist_w881581177.m3u8
 
 
 #EXTINF:-1 tvg-id="ptv_sports_hd" tvg-logo="http://monirul.bro.bd/assets/images/PTV SPORTS HD1745044993.png" group-title="Sports",PTV SPORTS HD
-https://live.msnetworks.net/ptv-sports/master.m3u8
-http://103.114.11.37:8081/PTV/index.m3u8?token=dsgdfgsdfgasf
+#https://live.msnetworks.net/ptv-sports/master.m3u8
+http://103.238.115.159:8080/PS/video.m3u8?token=ZIBOPLAYVS
 https://live.incableinternet.com/ptv-sports/720p.m3u8
 http://103.135.253.32:8080/PTV-SPORTS/tracks-v1a1/mono.m3u8
 http://str24.l9574.com/601.stream/index.m3u8
