@@ -36,7 +36,8 @@ https://live05.miekgo.app/live/33860426.m3u8
 #EXTINF:-1, tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/0dfe36254353879.Y3JvcCwxNjE0LDEyNjMsODUxLDA.jpg", SAFF FOOTBALL 2026 LIVE
 https://cdn01.medialive.one:2096/GEOSUPERFHD/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/0dfe36254353879.Y3JvcCwxNjE0LDEyNjMsODUxLDA.jpg", SAFF FOOTBALL 2026 LIVE (T SPORTS)
+#EXTINF:-1, tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/0dfe36254353879.Y3JvcCwxNjE0LDEyNjMsODUxLDA.jpg", SAFF FOOTBALL 2026 LIVE AQ
+https://vetointv.akamaized.net/Dreamboat-CH01/master.m3u8
 http://45.117.61.162/01_Tsports_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png?utm_source=ar.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled" group-title="LIVE EVENT", beIN SPORTS 3 ENGLISH
