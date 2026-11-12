@@ -91,7 +91,9 @@ http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/416136.m3u8
 http://bosstv.click:8080/live/18012689/77561563/132249.m3u8
 
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDBZGLe3kkW2NdV8Bu9Ft9ec2LUNASdh98xZsU1zqB3auUxKd-kHJG8aL0&s=10", NEPAL PREMIER LEAGUE LIVE
-https://live-ottint-fstream.nettv.com.np/npl/live_match/index.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b4d7fc89103597185058cc4c81a1800d:17062472ba2a3f1db709d3bb7761c936
+https://ott-edge-mtdc04.nettv.com.np/npl/live_match3/index.mpd
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/mdarif2743/Sky-life-bd/main/IMG_20260723_130039_939.jpg", SKY LIFE BD(FREE IPTV) live sports
 https://d3bq19vx8xhpwy.cloudfront.net/live/myStream/chunklist_w881581177.m3u8
