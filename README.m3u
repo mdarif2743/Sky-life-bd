@@ -2,8 +2,8 @@
 telegram:-@SKY LIFE BD 
 আরিফ উদ্দিন
 #EXTM3U 
-EXTINF:-1, url-tvg="https://sflex.fun/content-jiotvplus.media.jio/metadata/v2/livechannels/epg.xml.gz" 
-EXTINF:-1, x-tvg-url="https://sflex.fun/content-jiotvplus.media.jio/metadata/v2/livechannels/epg.xml.gz"
+#EXTM3U x-tvg-url="https://sflex.fun/content-jiotvplus.media.jio/metadata/v2/livechannels/epg.xml.gz" 
+#EXTM3U x-tvg-url="https://sflex.fun/content-jiotvplus.media.jio/metadata/v2/livechannels/epg.xml.gz"
 
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/web-images/logo(1).png?optimizer=image&width=200" group-title="Cricket", STYX SPORTS 1
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
