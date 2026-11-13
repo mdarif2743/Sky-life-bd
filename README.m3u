@@ -1983,31 +1983,31 @@ http://103.175.73.12:8080/live/151/151_0.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/d9fe8070073c6dd614ce7a46158aea0cbd561b0b/IPTV/SkyNZ1.m3u8
+
 
 #EXTINF:-1 tvg-id="SKY.Sport.2.nz" tvg-logo="https://i.postimg.cc/KvFM8c0S/sky_sport_2.png" group-title="WORLD SPORTS",Sky Sport2 NZ FHD
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/d9fe8070073c6dd614ce7a46158aea0cbd561b0b/IPTV/SkyNZ2.m3u8
+
 
 #EXTINF:-1 tvg-id="SKY.Sport.3.nz" tvg-logo="https://i.postimg.cc/L88gjCdx/sky_sport_3.png" group-title="WORLD SPORTS",Sky Sport3 NZ FHD
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/d9fe8070073c6dd614ce7a46158aea0cbd561b0b/IPTV/SkyNZ3.m3u8
+
 
 #EXTINF:-1 tvg-id="SKY.Sport.4.nz" tvg-logo="https://i.postimg.cc/52KYgBbb/sky-sport-4.png" group-title="WORLD SPORTS",Sky Sport4 NZ FHD
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/d9fe8070073c6dd614ce7a46158aea0cbd561b0b/IPTV/SkyNZ4.m3u8
+
 
 #EXTINF:-1 tvg-id="SKY.Sport.5.nz" tvg-logo="https://i.postimg.cc/3wyyckxp/sky_sport_5.png" group-title="WORLD SPORTS",Sky Sport5 NZ FHD
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/d9fe8070073c6dd614ce7a46158aea0cbd561b0b/IPTV/SkyNZ5.m3u8
+
 
 #EXTINF:-1 tvg-id="SKY.Sport.6.nz" tvg-logo="https://i.postimg.cc/LsrqKmJW/sky_sport_6.png" group-title="WORLD SPORTS",Sky Sport6 NZ FHD
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/d9fe8070073c6dd614ce7a46158aea0cbd561b0b/IPTV/SkyNZ6.m3u8
+
 
 #EXTINF:-1 tvg-id="SKY.Sport.7.nz" tvg-logo="https://i.postimg.cc/G2G4b6Ym/sky_sport_7.png" group-title="WORLD SPORTS",Sky Sport7 NZ FHD
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/d9fe8070073c6dd614ce7a46158aea0cbd561b0b/IPTV/SkyNZ7.m3u8
+
 
 #EXTINF:-1 tvg-id="SKY.Sport.8.nz" tvg-logo="https://i.postimg.cc/PJMNwZSG/Sky-Sport-PL.png" group-title="WORLD SPORTS",Sky Sport Premier League FHD
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/d9fe8070073c6dd614ce7a46158aea0cbd561b0b/IPTV/SkyNZ8.m3u8
+
 
 #EXTINF:-1 tvg-id="sky.sport.9.nz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Sky_Sport_9_NZ.svg/revision/latest/scale-to-width-down/200?cb=20230830143632", SKY SPORT NZ 9
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/d9fe8070073c6dd614ce7a46158aea0cbd561b0b/IPTV/SkyNZ9.m3u8
+
 
 #EXTINF:0 tvg-id="BEINSPORT 1 FR" tvg-logo="https://i.ibb.co.com/TM78YHzf/BEIN1.png" group-title="SPORTS",BEIN SPORT 1 AU
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2029,25 +2029,25 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/
 https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nhqnn4L9/Picsart-26-01-03-14-44-00-721.jpg",beIN Sports 1 HD QA
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/6123/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nhqnn4L9/Picsart-26-01-03-14-44-00-721.jpg",beIN Sports 3 HD QA
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/6124/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nhqnn4L9/Picsart-26-01-03-14-44-00-721.jpg",beIN Sports 4 HD QA
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/6125/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nhqnn4L9/Picsart-26-01-03-14-44-00-721.jpg",beIN Sports 5 HD QA
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/6126/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nhqnn4L9/Picsart-26-01-03-14-44-00-721.jpg",beIN Sports 6 HD QA
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/6127/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nhqnn4L9/Picsart-26-01-03-14-44-00-721.jpg",beIN Sports 7 HD QA
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/6128/index.m3u8
+
 
 #EXTINF:-1 group-title="list sport ini khusus digital tv.apk" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN SPORT ARAB 8
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/32043/index.m3u8
+
 
 #EXTINF:-1 group-title="list sport ini khusus digital tv.apk" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN SPORT ARAB 9
 
