@@ -1366,6 +1366,7 @@ http://live.balajibroadband.com:3500/live/3418.m3u8
 
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/PrLZryqH/Jio-TV.jpg" tvg-id="156" tvg-name="Star Gold HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="JioTV+ | Movies",Star Gold HD
+http://116.90.120.149:8000/play/a12a/index.m3u8
 http://103.114.11.37:8081/StarGold/index.m3u8?token=sboxcast
 http://103.135.253.32:8080/STAR-GOLD-HD/index.m3u8
 #http://103.114.11.37:8081/StarGold/index.m3u8?token=dsgdfgsdfgasf
