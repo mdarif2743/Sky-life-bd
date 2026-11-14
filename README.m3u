@@ -1580,9 +1580,9 @@ https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg014
 https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/discovery-channel-bengali.png" group-title="SM_IPTV",Discovery Channel
-https://sm-monirul.xyz/@monirul_Islam_SM/stream.php?id=discovery_hd&e=.m3u8
-http://103.135.253.32:8080/DISCOVERY/tracks-v1a1/mono.m3u8
-http://103.185.24.134:3001/Discovery/index.m3u8
+#https://sm-monirul.xyz/@monirul_Islam_SM/stream.php?id=discovery_hd&e=.m3u8
+#http://103.135.253.32:8080/DISCOVERY/tracks-v1a1/mono.m3u8
+#http://103.185.24.134:3001/Discovery/index.m3u8
 
 #EXTINF:-1 tvg-id="3444" group-title="Infotainment" tvg-logo="https://tatalogo.pages.dev/219.png",Discovery HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1620,9 +1620,9 @@ https://cc-zko1curyce7jh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://techandeat.online/sliv/stream.m3u8?id=1000009252|Referer=https://techandeat.online/
 http://103.185.24.134:3001/SONY-BBC/index.m3u8
 
-#EXTINF:-1 group-logo="https://i.postimg.cc/mk41wvy1/Jio-TV.jpg" tvg-id="562" group-title="JioTV | Lifestyle" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP.png",Travelxp HD Hindi
+#EXTINF:-1 group-logo="https://i.postimg.cc/mk41wvy1/Jio-TV.jpg" tvg-id="562" group-title="JioTV | Lifestyle" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP.png",Travelxp HD BANGLA
+https://limon-iptv-link.limon20202.workers.dev/s/fKEHg9pcx-rAcTehRcc2UOX4UAdayYPOJIKzx3ips0f-vDOWydxjZh9qOyKVzn5n6JpE5_j-jnRjJCmrp4RX9iB1cyTfnb9zkJ1bJmusL0G4A3wDEDAzfDcNhmCRxp6RI9mO0qIe6FZwsewMvublpSMC2RfKDCQOdALkeRiwHIy28FEdl_IxuXNu2Oy5.m3u8
 http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/20622.ts
-http://103.17.193.159:5001/live/562.m3u8
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/PrLZryqH/Jio-TV.jpg" tvg-id="578" tvg-name="History TV18 HD Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Hindi.png" group-title="JioTV+ | Infotainment",History TV18 HD Hindi
 https://n18syndication.akamaized.net/bpk-tv/History_TV18_Hindi_NW18_MOB/output01/master.m3u8
