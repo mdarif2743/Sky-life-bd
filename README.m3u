@@ -1857,6 +1857,7 @@ http://103.185.24.134:3001/NICK/index.m3u8
 http://103.165.93.31:8095/nick/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="nick hd" tvg-logo="http://monirul.bro.bd/assets/images/NICK1745041451.png" group-title="Kids",NICK HD
+http://116.90.120.149:8000/play/a11j/index.m3u8
 http://line.iptvhunt.com:80/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=1540022&extension=ts&play_token=B736hyE5ks
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2022/02/Disney-Kids-Network-to-launch-new-kids-channel-%E2%80%98Super-Hungama%E2%80%99.jpg" group-title="KIDS", SUPER HUNGAMA
