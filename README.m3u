@@ -1837,6 +1837,7 @@ http://103.114.11.37:8081/Duronto/index.m3u8?token=dsgdfgsdfgasf
 https://box.bbaria.net/DurontoTV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="hungama" tvg-logo="http://monirul.bro.bd/assets/images/HUNGAMA1745041551.png" group-title="Kids",HUNGAMA
+https://bdixgen.site//MAC/SHGOLD/play.php?id=834525
 http://103.135.253.32:8080/HUNGAMA/index.m3u8
 http://103.185.24.134:3001/HUNGAMA/index.m3u8
 
@@ -1853,9 +1854,10 @@ http://103.185.24.134:3001/NICK/index.m3u8
 http://103.165.93.31:8095/nick/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="nick hd" tvg-logo="http://monirul.bro.bd/assets/images/NICK1745041451.png" group-title="Kids",NICK HD
-
+http://line.iptvhunt.com:80/play/live.php?mac=A0%3ABB%3A3E%3A77%3A64%3A0F&stream=1540022&extension=ts&play_token=B736hyE5ks
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2022/02/Disney-Kids-Network-to-launch-new-kids-channel-%E2%80%98Super-Hungama%E2%80%99.jpg" group-title="KIDS", SUPER HUNGAMA
+https://bdixgen.site//MAC/SHGOLD/play.php?id=834501
 https://sm-monirul.xyz/@monirul_Islam_SM/stream.php?id=super_hungama&sm=.m3u8
 http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8
 
