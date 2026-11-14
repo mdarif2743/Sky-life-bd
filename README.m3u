@@ -5,6 +5,9 @@ telegram:-@SKY LIFE BD
 #EXTM3U x-tvg-url="https://sflex.fun/content-jiotvplus.media.jio/metadata/v2/livechannels/epg.xml.gz" 
 #EXTM3U x-tvg-url="https://sflex.fun/content-jiotvplus.media.jio/metadata/v2/livechannels/epg.xml.gz"
 
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/mdarif2743/Sky-life-bd/main/IMG_20260723_130039_939.jpg", SKY LIFE BD ALL TIME NAAT
+http://116.90.120.149:8000/play/a0tx/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/web-images/logo(1).png?optimizer=image&width=200" group-title="Cricket", STYX SPORTS 1
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-gstyx.styxsports.live/STYX/streams/Kt2jpAAecYkMJfYx6135404234716.m3u8
