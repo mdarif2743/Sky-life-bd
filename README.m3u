@@ -24,27 +24,6 @@ https://cdn-gstyx.styxsports.live/STYX/streams/NM8GeZkuZtaEonaf6220693294451.m3u
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/web-images/logo(1).png?optimizer=image&width=200" group-title="Cricket", STYX SPORTS 5
 https://cdn-origin.voirli.com/live/PUNEOLYM_dafa/chunks.m3u8
 
-#EXTINF:-1, tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/0dfe36254353879.Y3JvcCwxNjE0LDEyNjMsODUxLDA.jpg", SAFF FOOTBALL 2026 LIVE
-http://116.204.149.16/T_SportsFHD/index.m3u8
-https://live2.jorvakstreamcache.com/live/channel7.m3u8?
-https://live2.jorvakstreamcache.com/live/channel12.m3u8
-
-#EXTINF:-1, tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/0dfe36254353879.Y3JvcCwxNjE0LDEyNjMsODUxLDA.jpg", SAFF FOOTBALL 2026 LIVE
-https://live2.domainkqt.cc/live/channel19.m3u8
-https://live2.jorvakstreamcache.com/live/channel14.m3u8
-https://live05.miekgo.app/live/33860426.m3u8
-
-#EXTINF:-1, tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/0dfe36254353879.Y3JvcCwxNjE0LDEyNjMsODUxLDA.jpg", SAFF FOOTBALL 2026 LIVE
-https://cdn01.medialive.one:2096/GEOSUPERFHD/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/0dfe36254353879.Y3JvcCwxNjE0LDEyNjMsODUxLDA.jpg", SAFF FOOTBALL 2026 LIVE
-https://live-sg-aws.bongobd.com/hls/v2.TfNwct-D964tAEFJSzA0Ug/1794674071/bongoiptv/SAFFmatch08_mid/chunks.m3u8
-http://103.238.115.159:8080/T-SPORRTS-HD/index.m3u8?token=AKASH
-
-#EXTINF:-1, tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/0dfe36254353879.Y3JvcCwxNjE0LDEyNjMsODUxLDA.jpg", SAFF FOOTBALL 2026 LIVE AQ
-#http://45.117.61.162/01_Tsports_HD/tracks-v1a1/mono.m3u8
-http://103.209.196.22:84/feed1001/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png?utm_source=ar.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled" group-title="LIVE EVENT", beIN SPORTS 3 ENGLISH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -894,7 +873,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 
 #EXTINF:-1 tvg-chno="477" tvg-logo="https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,w_384,h_216/https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/EurosportHD_BoxCover_3f6e5dd6-b266-4e52-9b32-13ee2dde23e0.png", EUROSPORT HD
 #http://103.114.11.37:8081/Eurosport-HD/index.m3u8?token=sboxcast
-https://livetv.shamon-cable.net:8443/Eurosport-HD/index.m3u8
+#https://livetv.shamon-cable.net:8443/Eurosport-HD/index.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814
