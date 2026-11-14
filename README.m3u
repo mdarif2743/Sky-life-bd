@@ -889,6 +889,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 
 #EXTINF:-1 tvg-chno="477" tvg-logo="https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,w_384,h_216/https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/EurosportHD_BoxCover_3f6e5dd6-b266-4e52-9b32-13ee2dde23e0.png", EUROSPORT HD
 #http://103.114.11.37:8081/Eurosport-HD/index.m3u8?token=sboxcast
+https://livetv.shamon-cable.net:8443/Eurosport-HD/index.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814
