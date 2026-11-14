@@ -37,6 +37,9 @@ https://live05.miekgo.app/live/33860426.m3u8
 #EXTINF:-1, tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/0dfe36254353879.Y3JvcCwxNjE0LDEyNjMsODUxLDA.jpg", SAFF FOOTBALL 2026 LIVE
 https://cdn01.medialive.one:2096/GEOSUPERFHD/index.m3u8
 
+#EXTINF:-1, tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/0dfe36254353879.Y3JvcCwxNjE0LDEyNjMsODUxLDA.jpg", SAFF FOOTBALL 2026 LIVE
+https://live-sg-aws.bongobd.com/hls/v2.R4kxz0aGfBqKUQ8fDBKHtg/1794669658/bongoiptv/SAFFmatch08_mid/chunks.m3u8|User-Agent=iphone
+
 #EXTINF:-1, tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/0dfe36254353879.Y3JvcCwxNjE0LDEyNjMsODUxLDA.jpg", SAFF FOOTBALL 2026 LIVE AQ
 #http://45.117.61.162/01_Tsports_HD/tracks-v1a1/mono.m3u8
 http://103.209.196.22:84/feed1001/index.m3u8
