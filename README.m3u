@@ -983,7 +983,7 @@ http://tvsen5.aynascope.net/willowhd/index.m3u8
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-Willow2.m3u8
 
 #EXTINF:-1 tvg-chno="410" tvg-id="Fox.501.uk" tvg-logo="http://greenpa1.com/fox.png" group-title="Sports",Fox Sports 501 HD
-http://103.238.115.159:8080/foxx/video.m3u8?token=ZIBOPLAYVS
+#http://103.238.115.159:8080/foxx/video.m3u8?token=ZIBOPLAYVS
 https://p4kp.rjmbts.workers.dev/24016.m3u8
 http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/308295.m3u8
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bn-ch-1/1104678.m3u8
