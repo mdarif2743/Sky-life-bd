@@ -8,6 +8,9 @@ telegram:-@SKY LIFE BD
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/mdarif2743/Sky-life-bd/main/IMG_20260723_130039_939.jpg", SKY LIFE BD ALL TIME NAAT
 http://116.90.120.149:8000/play/a0tx/index.m3u8
 
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0B-38PnyvWOIeEsZrsBfpaTbjaAGdMXfyuaOp4VZmMTUcX04QiEwKmj1N&s=10", SUNNATE BORA IJTIMA LIVE 2026
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/web-images/logo(1).png?optimizer=image&width=200" group-title="Cricket", STYX SPORTS 1
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-gstyx.styxsports.live/STYX/streams/Kt2jpAAecYkMJfYx6135404234716.m3u8
