@@ -1290,6 +1290,7 @@ https://playyonogames.in/sliv/stream.m3u8?id=1000009248|Referer=https://playyono
 https://ev-eu-hw-fast-mpd.starzplayarabia.com/SONY_SAB/dash/drm/index.mpd
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/PrLZryqH/Jio-TV.jpg" tvg-id="144" tvg-name="Colors HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsHD.png" group-title="JioTV+ | Entertainment",Colors HD
+http://live.balajibroadband.com:3500/live/144.m3u8
 http://103.114.11.37:8081/Colors-HD/index.m3u8?token=sboxcast
 #http://103.135.253.32:8080/Color-HD/index.m3u8
 http://103.114.11.37:8081/Colors-HD/index.m3u8?token=dsgdfgsdfgasf
@@ -1902,6 +1903,7 @@ https://login.bheem.tv/bpk-tv/22603/output/index.mpd
 https://login.bheem.tv/bpk-tv/22096/output/index.mpd
 
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sonic-bangla.png" group-title="SM_IPTV",Sonic Bangla
+http://live.balajibroadband.com:3500/live/1345.m3u8
 http://116.90.120.149:8000/play/a12e/index.m3u8
 https://sm-monirul.xyz/@monirul_Islam_SM/stream.php?id=sonic&sm=.m3u8
 http://live.balajibroadband.com:3500/live/1345.m3u8
