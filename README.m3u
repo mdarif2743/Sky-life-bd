@@ -1874,7 +1874,7 @@ http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/200455.m3u8
 https://sony.dongobd247.workers.dev/stream.m3u8?id=1000001971|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000001971
 
 #EXTINF:-1 tvg-id="nick" tvg-logo="http://monirul.bro.bd/assets/images/NICK1745041451.png" group-title="Kids",NICK
-#http://103.17.193.159:5001/live/1341.m3u8
+https://ireentv.pages.dev/Nick_Bangla_Server_3.m3u8
 http://103.135.253.32:8080/NICK/index.m3u8
 http://103.185.24.134:3001/NICK/index.m3u8
 http://103.165.93.31:8095/nick/tracks-v1a1/mono.m3u8
