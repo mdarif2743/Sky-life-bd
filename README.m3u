@@ -3,7 +3,7 @@ telegram:-@SKY LIFE BD
 আরিফ উদ্দিন
 #EXTM3U 
 #EXTM3U x-tvg-url="https://sflex.fun/content-jiotvplus.media.jio/metadata/v2/livechannels/epg.xml.gz" 
-#EXTM3U x-tvg-url="https://sflex.fun/content-jiotvplus.media.jio/metadata/v2/livechannels/epg.xml.gz"
+#EXTM3U x-tvg-url=""
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/mdarif2743/Sky-life-bd/main/IMG_20260723_130039_939.jpg", SKY LIFE BD ALL TIME NAAT
 http://116.90.120.149:8000/play/a0tx/index.m3u8
