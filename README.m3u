@@ -131,6 +131,13 @@ http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=dsgdfgsdfgasf
 #EXTINF:-1, tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark", BAN VS SA TEST
 http://103.16.24.4:8083/14.m3u8
 
+#EXTINF:-1 tvg-id="B0HRNBGJB1" tvg-name="Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.3d3a187e-ae33-416b-bc6b-02cd63444282/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d872367d3ff927c4abf0198dfeb01d2:47945393588cf479b728df327f3bef53
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vmsojksiyc/out/v1/5d915e7f388946c09ed9d07fd40f9f96/cenc.mpd
+
 #EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/GenericIDWWE.PNG/revision/latest?cb=20141006222432", WWE NETWORK
 http://103.114.11.37:8081/WWE-24/7/index.m3u8?token=sboxcast
 
