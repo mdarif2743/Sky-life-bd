@@ -1703,7 +1703,7 @@ https://cdn01.medialive.one:2096/ABBTAKNEWSFHD/index.m3u8
 https://vodzong.mjunoon.tv:8087/streamtest/ApnaChannel-134/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ARYDigital.pk" tvg-logo="https://i.imgur.com/TVP7g03.png" group-title="Pakistan" group-title="Entertainment",ARY Digital Asia HD
-https://arydigitalm.aryzap.com/v1/0183ea2408f90b8ed5941a38bc72/018ad63a21f809831f17036fbae4/ARYDigitalHDh264_1080p.m3u8?isSubM3u8=1
+#https://arydigitalm.aryzap.com/v1/0183ea2408f90b8ed5941a38bc72/018ad63a21f809831f17036fbae4/ARYDigitalHDh264_1080p.m3u8?isSubM3u8=1
 https://cdn01.medialive.one:2096/ARYDIGITALFHD/index.m3u8
 https://ml-pull-dvc-myco.io:2096/ARY_DIGITAL/index.m3u8
 
