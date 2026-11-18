@@ -1893,6 +1893,7 @@ http://103.114.11.37:8081/Duronto/index.m3u8?token=dsgdfgsdfgasf
 https://box.bbaria.net/DurontoTV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="hungama" tvg-logo="http://monirul.bro.bd/assets/images/HUNGAMA1745041551.png" group-title="Kids",HUNGAMA
+http://103.17.193.159:5001/live/1391.m3u8
 https://bdixgen.site//MAC/SHGOLD/play.php?id=834525
 http://103.135.253.32:8080/HUNGAMA/index.m3u8
 http://103.185.24.134:3001/HUNGAMA/index.m3u8
@@ -1916,6 +1917,7 @@ http://live.balajibroadband.com:3500/live/1226.m3u8
 http://116.90.120.149:8000/play/a11j/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2022/02/Disney-Kids-Network-to-launch-new-kids-channel-%E2%80%98Super-Hungama%E2%80%99.jpg" group-title="KIDS", SUPER HUNGAMA
+http://103.17.193.159:5001/live/1392.m3u8
 https://bdixgen.site//MAC/SHGOLD/play.php?id=834501
 https://sm-monirul.xyz/@monirul_Islam_SM/stream.php?id=super_hungama&sm=.m3u8
 http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8
