@@ -1802,20 +1802,19 @@ https://cdn.pishow.tv/ott/live/226/master.m3u8
 #EXTINF:-1 tvg-id="9487112" tvg-name="&Pictures HD" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/75364a7b9f09477b9ee80016a6440b6b/version/0" group-title="Movies",&Pictures HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-http://str24.l9574.com/705.stream/index.m3u8
+#http://str24.l9574.com/705.stream/index.m3u8
 
 #EXTINF:-1 tvg-id="9624887" tvg-name="Zee Biskope" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/bb424c74bfd54392a86b4a343996b6d5/version/0" group-title="Entertainment",Zee Biskope
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-http://premiumplug.fun/tee/zee5.php/0-9-216.m3u8
 
 #EXTINF:-1 tvg-id="9487104" tvg-name="Zee Bollywood" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/e1de996d54864c78b8daf60d63974223/version/0" group-title="Movies",Zee Bollywood
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-http://premiumplug.fun/tee/zee5.php/0-9-zeeclassic.m3u8
 http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/181291.ts
 
 #EXTINF:-1 tvg-id="9487096" tvg-name="Zee Cinema HD" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/c91e031d66e1443a9412978290a260db/version/0" group-title="Movies",Zee Cinema HD
+https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_Cinema/dash/drm/index.mpd
 http://103.114.11.37:8081/Z-Cinema/index.m3u8?token=sboxcast
 http://103.114.11.37:8081/Z-Cinema/index.m3u8?token=dsgdfgsdfgasf
 http://premiumplug.fun/tee/zee5.php/0-9-zeecinemahd.m3u8
@@ -1829,6 +1828,7 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 #EXTINF:-1 tvg-id="9487052" tvg-name="Zee Action" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/34108078d7874122b00072cb48a6968a/version/0" group-title="Movies",Zee Action
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=
+http://103.175.73.12:8080/live/270/270_0.m3u8
 http://107.167.16.138/zeeaction/index.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TTAGFHG.png" group-title="Djibouti",MBC Bollywood (1080p) [Geo-blocked]
