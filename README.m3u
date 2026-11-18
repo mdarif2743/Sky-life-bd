@@ -128,7 +128,7 @@ https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
 https://wbd.skandha.tv/EuroSport/EuroSport.isml/.mpd
 
 #EXTINF:-1, tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark", BAN VS SA TEST
-http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/423586.m3u8
+https://river-1.rutube.ru/stream/genetta-411.ntv.rutube.ru/XSyPBLWWpe66PROnv4t-pg/1795592395/7c13a51576b9ff2601f08f5d57dd5169/720p_stream.m3u8
 
 #EXTINF:-1, tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark", BAN VS SA TEST FANCOAD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
