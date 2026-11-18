@@ -1364,6 +1364,7 @@ https://d47ddb99.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 https://285abc3a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQW5kVFZfSExT/playlist.m3u8
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/PrLZryqH/Jio-TV.jpg" tvg-id="931" tvg-name="Star Bharat HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Bharat_HD.png" group-title="JioTV+ | Entertainment",Star Bharat HD
+http://103.17.193.159:5001/live/931.m3u8
 #http://103.135.253.32:8080/STAR-BHARAT/index.m3u8
 http://116.90.120.149:8000/play/a13b/index.m3u8
 http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/200441.m3u8
@@ -1502,12 +1503,14 @@ https://techandeat.online/sliv/stream.m3u8?id=1000009258|Referer=https://techand
 https://p4kp.rjmbts.workers.dev/22124.m3u8
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/mk41wvy1/Jio-TV.jpg" tvg-id="1104" group-title="JioTV | English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png",Star Movies HD
+http://103.17.193.159:5001/live/1104.m3u8
 https://p4kp.rjmbts.workers.dev/349.m3u8
 http://103.114.11.37:8081/Star-Movies/index.m3u8?token=sboxcast
 #http://103.114.11.37:8081/Star-Movies/index.m3u8?token=dsgdfgsdfgasf
 http://103.185.24.134:3001/Star-Movies/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/mk41wvy1/Jio-TV.jpg" tvg-id="1110" group-title="JioTV | English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png",Star Movies Select HD
+http://103.17.193.159:5001/live/1110.m3u8
 https://p4kp.rjmbts.workers.dev/353.m3u8
 http://103.114.11.37:8081/Star-movies-select/index.m3u8?token=sboxcast
 #http://103.114.11.37:8081/Star-movies-select/index.m3u8?token=dsgdfgsdfgasf
