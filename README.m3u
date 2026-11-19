@@ -1753,7 +1753,7 @@ https://cdn01.medialive.one:2096/HUMENTFHD/index.m3u8
 https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8
 
 #EXTINF:-1 tvg-id="HumTV.pk" tvg-logo="https://i.ibb.co/Tx4GfKT5/Hum-TV-HD.png" group-title="Pakistan" group-title="Entertainment",Hum Entertainment EUROPE
-http://103.135.253.32:8080/HUM-TV/index.m3u8
+https://toffee.aliflaila.live/channel/28.m3u8
 https://j6nfugukcl.gpcdn.net/tile_3/master.m3u8
 https://media.hmair.xyz/api/play/HUM.m3u8
 
@@ -1804,6 +1804,7 @@ https://cdn.pishow.tv/ott/live/226/master.m3u8
 #EXTINF:-1 tvg-id="9487112" tvg-name="&Pictures HD" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/75364a7b9f09477b9ee80016a6440b6b/version/0" group-title="Movies",&Pictures HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=
+https://toffee.aliflaila.live/channel/30.m3u8
 #http://str24.l9574.com/705.stream/index.m3u8
 
 #EXTINF:-1 tvg-id="9624887" tvg-name="Zee Biskope" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/bb424c74bfd54392a86b4a343996b6d5/version/0" group-title="Entertainment",Zee Biskope
