@@ -4,6 +4,7 @@ telegram:-@SKY LIFE BD
 #EXTM3U 
 #EXTM3U x-tvg-url="https://sflex.fun/content-jiotvplus.media.jio/metadata/v2/livechannels/epg.xml.gz" 
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
+#EXTM3U url-tvg="https://rokon-iptv.pages.dev/epg.xml.gz"
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/mdarif2743/Sky-life-bd/main/IMG_20260723_130039_939.jpg", SKY LIFE BD ALL TIME NAAT
 http://116.90.120.149:8000/play/a0tx/index.m3u8
