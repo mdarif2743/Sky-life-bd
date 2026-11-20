@@ -1458,7 +1458,7 @@ http://163.61.226.31:9981/stream/channelid/1225596390?profile=pass
 
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexHD.png" group-title="HINDI", COLORS CINEPLEX HD
-http://iptv12k.com:35461/live/m260807923420398/111111/8910.m3u8
+http://103.17.193.159:5001/live/1477.m3u8
 http://live.balajibroadband.com:3500/live/1477.m3u8
 http://103.185.24.134:3001/COLORS-CINEPLEX-HD/tracks-v1a1/mono.m3u8
 http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/200465.m3u8
@@ -1467,12 +1467,14 @@ http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/200465.m3u8
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/6c2dad79b7261eb3553da450272e25279ea0bfaa/streams/gb/YuppTV/ColorsCineplexUK.m3u8
 
 #EXTINF:-1 tvg-id="colorscineplexbollywood" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexBollywood.png" group-title="Movies",Colors Cineplex Bollywood
+http://103.17.193.159:5001/live/1763.m3u8
 http://163.61.226.31:9981/stream/channelid/1709941389?profile=pass
 http://live.balajibroadband.com:3500/live/1763.m3u8
 http://103.17.193.159:5001/live/1763.m3u8
 http://202.70.146.135:8000/play/a058/index.m3u8
 
 #EXTINF:-1 tvg-id="colors-cineplex-superhit" tvg-name="Colors Cineplex Superhit" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexSuperhit.png" group-title="BDIX 1",Colors Cineplex Superhit
+http://103.17.193.159:5001/live/1450.m3u8
 http://163.61.226.31:9981/stream/channelid/2039746374?profile=pass
 http://live.balajibroadband.com:3500/live/1450.m3u8
 
