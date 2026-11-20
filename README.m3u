@@ -33,6 +33,12 @@ https://cdn-gstyx.styxsports.live/STYX/streams/NM8GeZkuZtaEonaf6220693294451.m3u
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/web-images/logo(1).png?optimizer=image&width=200" group-title="Cricket", STYX SPORTS 5
 https://cdn-origin.voirli.com/live/PUNEOLYM_dafa/chunks.m3u8
 
+#EXTINF:-1 tvg-id="live_fc_porto_vs_usc_paredes_bein_sports_us" tvg-name="[Live] FC Porto Vs USC Paredes - beIN SPORTS US" tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/336/image/dark" group-title="live_sports" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",[Live] FC Porto Vs USC Paredes - beIN SPORTS US
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png?utm_source=ar.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled" group-title="LIVE EVENT", beIN SPORTS 3 ENGLISH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
