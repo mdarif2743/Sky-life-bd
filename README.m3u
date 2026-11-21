@@ -2061,7 +2061,7 @@ http://103.175.73.12:8080/live/151/151_0.m3u8
 
 
 #EXTINF:-1 tvg-id="SKY.Sport.2.nz" tvg-logo="https://i.postimg.cc/KvFM8c0S/sky_sport_2.png" group-title="WORLD SPORTS",Sky Sport2 NZ FHD
-
+https://cdnlivetv.tv/secure/api/v1/6add40b32d4a99e073641041/playlist.m3u8?token=NmFkZDQwYjMyZDRhOTllMDczNjQxMDQxOjE3OTUyOTIzMzY0NTM6Y2RubGl2ZXR2LnR2OjZlZjQ4N2VmMWJmMzc2NjMuNmVjNTAyYjNjZWM1ZmFmZTI4ZmE3NmRmODY5MTlmNDg3ZmFjYTNhMWVkYzQ2MWMzY2FjMjZiOTVlZTEyY2QxMA
 
 #EXTINF:-1 tvg-id="SKY.Sport.3.nz" tvg-logo="https://i.postimg.cc/L88gjCdx/sky_sport_3.png" group-title="WORLD SPORTS",Sky Sport3 NZ FHD
 
