@@ -1876,6 +1876,7 @@ http://107.167.16.138/zing/index.m3u8?token=test
 http://107.167.16.138/zeezesthd/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="zoom" tvg-logo="http://monirul.bro.bd/assets/images/ZOOM1745040961.png" group-title="Hindi",ZOOM
+https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
 https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 
 #EXTINF:-1 tvg-chno="135" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/lcMc75Xr.png" group-title="Services",ShortsTV Active
