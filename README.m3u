@@ -98,7 +98,7 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n59gzaiyg6/
 http://116.90.120.149:8000/play/a129/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://emiratescricket.com/storage/uploads/news/1671272759.png", INTERNATIONAL T20 LEAGUE LIVE
-http://107.167.16.138/zeezesthd/index.m3u8?token=test
+http://107.167.16.138/zeezesthd/tracks-v1a1/mono.ts.m3u8?token=test
 
 #EXTINF:-1, tvg-logo="https://emiratescricket.com/storage/uploads/news/1671272759.png", INTERNATIONAL T20 LEAGUE LIVE
 https://d3bq19vx8xhpwy.cloudfront.net/live/myStream/playlist.m3u8
