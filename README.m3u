@@ -94,14 +94,11 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/c7di7zkdor/out/v1
 #KODIPROP:inputstream.adaptive.license_key=28c270de72ed2ffab8b477c2f3d35c61:dfe35a85f9ba6326a2f9f8514bac99b8
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n59gzaiyg6/out/v1/eea6111c001f40d09881242cf50a4dd8/cenc.mpd
 
-#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDBZGLe3kkW2NdV8Bu9Ft9ec2LUNASdh98xZsU1zqB3auUxKd-kHJG8aL0&s=10", NEPAL PREMIER LEAGUE LIVE
-http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/416136.m3u8
-http://bosstv.click:8080/live/18012689/77561563/132249.m3u8
+#EXTINF:-1, tvg-logo="https://emiratescricket.com/storage/uploads/news/1671272759.png", INTERNATIONAL T20 LEAGUE LIVE
+http://116.90.120.149:8000/play/a129/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDBZGLe3kkW2NdV8Bu9Ft9ec2LUNASdh98xZsU1zqB3auUxKd-kHJG8aL0&s=10", NEPAL PREMIER LEAGUE LIVE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b4d7fc89103597185058cc4c81a1800d:17062472ba2a3f1db709d3bb7761c936
-https://ott-edge-mtdc04.nettv.com.np/npl/live_match3/index.mpd
+#EXTINF:-1, tvg-logo="https://emiratescricket.com/storage/uploads/news/1671272759.png", INTERNATIONAL T20 LEAGUE LIVE
+http://107.167.16.138/zeezesthd/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="1090555678" tvg-name="ACC Men's Asia Cup Rising Stars 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029507/179518385665422_AsiaCup_RisingStar_IND_vs_PAK_Live_landscape_thumb.jpg" tvg-language="English" group-title="Cricket",ENG | India A vs Pakistan Shaheens - 22 Nov 2026
 https://sonymtmnew-akamaized.pages.dev/hls/live/2119931/cricodi_2211/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=8ca74c4227868b35abf716f6b257de49-1795339871243
@@ -2040,7 +2037,7 @@ http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/416135.m3u8
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/PrLZryqH/Jio-TV.jpg" tvg-id="460" tvg-name="Star Sports Select 1 HD" tvg-logo="https://img.media.jio.com/tvpimages/96/65/302113_1749664252703_l_medium.jpg" group-title="JioTV+ | Sports",Star Sports Select 1 HD
 #http://str24.l9574.com/736.stream/index.m3u8
-http://103.114.11.37:8081/Star-select-1/index.m3u8?token=sboxcast
+#http://103.114.11.37:8081/Star-select-1/index.m3u8?token=sboxcast
 http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/416134.m3u8
 http://103.135.253.32:8080/STAR-SPORTS-SELECT-1/index.m3u8
 #http://103.114.11.37:8081/Star-select-1/index.m3u8?token=dsgdfgsdfgasf
@@ -2048,13 +2045,11 @@ http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/433642.m3u8
 https://flussonic.defineatoz.com/starsportsselect1/tracks-v1/mono.m3u8
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/PrLZryqH/Jio-TV.jpg" tvg-id="461" tvg-name="Star Sports Select 2 HD" tvg-logo="https://img.media.jio.com/tvpimages/98/79/302114_1749665414817_l_medium.jpg" group-title="JioTV+ | Sports",Star Sports Select 2 HD
+http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/416136.m3u8
 #http://str24.l9574.com/737.stream/index.m3u8
 http://103.114.11.37:8081/Star-select-2/index.m3u8?token=sboxcast
-#http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/302026.m3u8
-http://103.114.11.37:8081/Star-select-2/index.m3u8?token=dsgdfgsdfgasf
 http://str24.l9574.com/737.stream/index.m3u8
 http://103.155.18.186:8000/play/a0ap/index.m3u8
-https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="StarSportsKhel.in" tvg-name="Star Sports Khel KB" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_KHEL/images/LOGO_HD/LOGO_HD_image.png" tvg-country="IN" group-title="Sports" tvg-quality="576p",Star Sports Khel KB
 http://103.175.73.12:8080/live/151/151_0.m3u8
