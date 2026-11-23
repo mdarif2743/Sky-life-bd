@@ -95,6 +95,9 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/c7di7zkdor/out/v1
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n59gzaiyg6/out/v1/eea6111c001f40d09881242cf50a4dd8/cenc.mpd
 
 #EXTINF:-1, tvg-logo="https://emiratescricket.com/storage/uploads/news/1671272759.png", INTERNATIONAL T20 LEAGUE LIVE
+http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/35.m3u8
+
+#EXTINF:-1, tvg-logo="https://emiratescricket.com/storage/uploads/news/1671272759.png", INTERNATIONAL T20 LEAGUE LIVE
 http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/22.m3u8
 
 #EXTINF:-1, tvg-logo="https://emiratescricket.com/storage/uploads/news/1671272759.png", INTERNATIONAL T20 LEAGUE LIVE
