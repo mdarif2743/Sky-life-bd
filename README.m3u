@@ -160,7 +160,7 @@ https://river-1.rutube.ru/stream/genetta-411.ntv.rutube.ru/XSyPBLWWpe66PROnv4t-p
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 
 #EXTINF:-1, tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark", BAN VS SA TEST
-
+https://sflex.fun/SFlex-StarShare/1856.m3u8
 
 #EXTINF:-1, tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark", BAN VS SA TEST
 #http://116.204.149.16/T_SportsFHD/index.m3u8
@@ -168,13 +168,6 @@ http://103.16.24.4:8083/14.m3u8
 
 #EXTINF:-1, tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark", BAN VS SA TEST
 http://bosstv.click:8080/live/18012689/77561563/92703.m3u8
-
-#EXTINF:-1 tvg-id="B0HRNBGJB1" tvg-name="Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.3d3a187e-ae33-416b-bc6b-02cd63444282/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Bangladesh tour of South Africa 2026 - 1st Test DAY 4 - South Africa vs Bangladesh
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6de0d161884e8b45e47f4edc5e9db94d:bfaccd3662dfb1d046887ecc050a576e
-https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/phoqztxsmq/out/v1/5fb252d563bb47cdb5f829c0674633cf/cenc.mpd
 
 #EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/GenericIDWWE.PNG/revision/latest?cb=20141006222432", WWE NETWORK
 http://103.114.11.37:8081/WWE-24/7/index.m3u8?token=sboxcast
