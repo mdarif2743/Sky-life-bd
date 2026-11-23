@@ -7,7 +7,7 @@ telegram:-@SKY LIFE BD
 #EXTM3U url-tvg="https://rokon-iptv.pages.dev/epg.xml.gz"
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/mdarif2743/Sky-life-bd/main/IMG_20260723_130039_939.jpg", SKY LIFE BD ALL TIME NAAT
-http://116.90.120.149:8000/play/a0tx/index.m3u8
+
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/mdarif2743/Sky-life-bd/main/IMG_20260723_130039_939.jpg", SKY LIFE BD AL QURAN 24/7
 http://66.45.232.131:9994/stream/1/
@@ -134,7 +134,7 @@ https://afghanlive.tv/aa/proxy.php?s=aHR0cHM6Ly90Z24uYm96enR2LmNvbS9lc2hndHYtZHZ
 
 
 #EXTINF:-1 tvg-id="ptv_sports_hd" tvg-logo="http://monirul.bro.bd/assets/images/PTV SPORTS HD1745044993.png" group-title="Sports",PTV SPORTS HD
-#https://live.msnetworks.net/ptv-sports/master.m3u8
+https://live.msnetworks.net/ptv-sports/master.m3u8
 http://103.238.115.159:8080/PS/video.m3u8?token=ZIBOPLAYVS
 https://live.incableinternet.com/ptv-sports/720p.m3u8
 http://103.135.253.32:8080/PTV-SPORTS/tracks-v1a1/mono.m3u8
@@ -1696,7 +1696,7 @@ https://techandeat.online/sliv/stream.m3u8?id=1000009252|Referer=https://techand
 http://103.185.24.134:3001/SONY-BBC/index.m3u8
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/mk41wvy1/Jio-TV.jpg" tvg-id="562" group-title="JioTV | Lifestyle" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP.png",Travelxp HD BANGLA
-http://live.balajibroadband.com:3500/live/562.m3u8
+http://103.17.193.159:5001/live/562.m3u8
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/PrLZryqH/Jio-TV.jpg" tvg-id="578" tvg-name="History TV18 HD Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Hindi.png" group-title="JioTV+ | Infotainment",History TV18 HD Hindi
 https://n18syndication.akamaized.net/bpk-tv/History_TV18_Hindi_NW18_MOB/output01/master.m3u8
@@ -2070,7 +2070,7 @@ http://103.175.73.12:8080/live/151/151_0.m3u8
 
 
 #EXTINF:-1 tvg-id="SKY.Sport.2.nz" tvg-logo="https://i.postimg.cc/KvFM8c0S/sky_sport_2.png" group-title="WORLD SPORTS",Sky Sport2 NZ FHD
-https://cdnlivetv.tv/secure/api/v1/6add40b32d4a99e073641041/playlist.m3u8?token=NmFkZDQwYjMyZDRhOTllMDczNjQxMDQxOjE3OTUyOTIzMzY0NTM6Y2RubGl2ZXR2LnR2OjZlZjQ4N2VmMWJmMzc2NjMuNmVjNTAyYjNjZWM1ZmFmZTI4ZmE3NmRmODY5MTlmNDg3ZmFjYTNhMWVkYzQ2MWMzY2FjMjZiOTVlZTEyY2QxMA
+
 
 #EXTINF:-1 tvg-id="SKY.Sport.3.nz" tvg-logo="https://i.postimg.cc/L88gjCdx/sky_sport_3.png" group-title="WORLD SPORTS",Sky Sport3 NZ FHD
 
@@ -2336,7 +2336,7 @@ https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/200545.m3u8
 
 #EXTINF:-1 tvg-id="DisneyJunior.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_JUNIOR/images/LOGO_HD/image.png" group-title="Kids",Disney Junior (India) (576p)
-http://103.135.253.32:8080/NICK-Jr/index.m3u8
+http://103.17.193.159:5001/live/1374.m3u8
 
 #EXTINF:-1 tvg-id="disney-channel" tvg-logo="https://live.dinesh29.com.np/logos/disney-channel.png" group-title="Kids",Disney Channel HD
 
