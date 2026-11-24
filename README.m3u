@@ -2082,36 +2082,35 @@ http://103.175.73.12:8080/live/151/151_0.m3u8
 #EXTINF:-1 tvg-id="" group-title="WORLD SPORTS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/203_1920x1080_HTV.png?w=272",Hub Sports 3 HD
 
 
-#EXTINF:-1 tvg-id="SKY.Sport.1.nz" tvg-logo="https://i.postimg.cc/wxDNzRcQ/sky-sport-1.png" group-title="WORLD SPORTS",Sky Sport1 NZ FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiCaDVOGM8wgBw18Mei1njcVTupogaZeOSI-W0TurByB960mN39vdPaKz-&s=10",SKY SPORT 1
+https://ranapkz.site/RANAPKX73/MAXCDNz/play.php?id=809392.m3u8
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://img.dge-prod.dicelaboratory.com/thumbnails/219027/original/latest.jpg",SKY SPORT 2
+https://ranapkz.site/RANAPKX73/MAXCDNz/play.php?id=809393.m3u8
 
-#EXTINF:-1 tvg-id="SKY.Sport.2.nz" tvg-logo="https://i.postimg.cc/KvFM8c0S/sky_sport_2.png" group-title="WORLD SPORTS",Sky Sport2 NZ FHD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgRPRTdN80czHlpzRGR6wKKMotkgSlaTNMqQPlysZwSg&s=10",SKY SPORT 3
+https://ranapkz.site/RANAPKX73/MAXCDNz/play.php?id=809394.m3u8
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://iili.io/ofJBEwG.jpg",SKY SPORT 4
+https://ranapkz.site/RANAPKX73/MAXCDNz/play.php?id=809395.m3u8
 
-#EXTINF:-1 tvg-id="SKY.Sport.3.nz" tvg-logo="https://i.postimg.cc/L88gjCdx/sky_sport_3.png" group-title="WORLD SPORTS",Sky Sport3 NZ FHD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://iili.io/ofJC00B.jpg",SKY SPORT 5
+https://ranapkz.site/RANAPKX73/MAXCDNz/play.php?id=809375.m3u8
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://iili.io/ofJTTJV.webp",SKY SPORT 6
+https://ranapkz.site/RANAPKX73/MAXCDNz/play.php?id=809374.m3u8
 
-#EXTINF:-1 tvg-id="SKY.Sport.4.nz" tvg-logo="https://i.postimg.cc/52KYgBbb/sky-sport-4.png" group-title="WORLD SPORTS",Sky Sport4 NZ FHD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://iili.io/ofBCeIV.webp",SKY SPORT 7
+https://ranapkz.site/RANAPKX73/MAXCDNz/play.php?id=809373.m3u8
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://iili.io/ofBCvLP.webp",SKY SPORT 8
+https://ranapkz.site/RANAPKX73/MAXCDNz/play.php?id=809372.m3u8
 
-#EXTINF:-1 tvg-id="SKY.Sport.5.nz" tvg-logo="https://i.postimg.cc/3wyyckxp/sky_sport_5.png" group-title="WORLD SPORTS",Sky Sport5 NZ FHD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://iili.io/ofBCkhB.webp",SKY SPORT 9
+https://ranapkz.site/RANAPKX73/MAXCDNz/play.php?id=809371.m3u8
 
-
-#EXTINF:-1 tvg-id="SKY.Sport.6.nz" tvg-logo="https://i.postimg.cc/LsrqKmJW/sky_sport_6.png" group-title="WORLD SPORTS",Sky Sport6 NZ FHD
-
-
-#EXTINF:-1 tvg-id="SKY.Sport.7.nz" tvg-logo="https://i.postimg.cc/G2G4b6Ym/sky_sport_7.png" group-title="WORLD SPORTS",Sky Sport7 NZ FHD
-
-
-#EXTINF:-1 tvg-id="SKY.Sport.8.nz" tvg-logo="https://i.postimg.cc/PJMNwZSG/Sky-Sport-PL.png" group-title="WORLD SPORTS",Sky Sport Premier League FHD
-
-
-#EXTINF:-1 tvg-id="sky.sport.9.nz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Sky_Sport_9_NZ.svg/revision/latest/scale-to-width-down/200?cb=20230830143632", SKY SPORT NZ 9
-
+#EXTINF:-1 group-title="Sports" tvg-logo="https://iili.io/ofHtIf4.webp",SKY SPORT SELECT
+https://ranapkz.site/RANAPKX73/MAXCDNz/play.php?id=809380.m3u8
 
 #EXTINF:0 tvg-id="BEINSPORT 1 FR" tvg-logo="https://i.ibb.co.com/TM78YHzf/BEIN1.png" group-title="SPORTS",BEIN SPORT 1 AU
 #KODIPROP:inputstreamaddon=inputstream.adaptive
