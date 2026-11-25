@@ -1414,6 +1414,9 @@ http://103.17.193.159:5001/live/931.m3u8
 http://116.90.120.149:8000/play/a13b/index.m3u8
 http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/200441.m3u8
 
+#EXTINF:-1 tvg-id="SonyKALHindi.us@SD" tvg-logo="https://raw.githubusercontent.com/13balvinder/Logos/refs/heads/main/LOGOS/INDIA/sonykal-low.png" group-title="GEC HINDI",Sony KAL Hindi USA (1080p) [Digital No Ad]
+https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IQ2n0WY.png" group-title="United Kingdom",Utsav Bharat (720p)
 https://d1taaads3ztvmu.cloudfront.net/120723/smil:lifeokuk.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 
