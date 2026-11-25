@@ -1045,7 +1045,7 @@ http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/308295.m3u8
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bn-ch-1/1104678.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/500px-T_Sports_logo.svg.png" group-title="AynaOTT - Sports",T Sports
-http://103.238.115.159:8080/tsportsuser1232/video.m3u8?token=ZIBOPLAYVS
+http://103.209.196.22:84/feed1001/index.m3u8
 https://live.msnetworks.net/ptv-sports/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cvnps2J.jpg" group-title="United Kingdom",Takbeer TV (720p)
