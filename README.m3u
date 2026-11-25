@@ -121,10 +121,14 @@ http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/22.m3u8
 http://107.167.16.138/zeezesthd/tracks-v1a1/mono.ts.m3u8?token=test
 
 #EXTINF:-1, tvg-logo="https://emiratescricket.com/storage/uploads/news/1671272759.png", INTERNATIONAL T20 LEAGUE LIVE
-https://d3bq19vx8xhpwy.cloudfront.net/live/myStream/playlist.m3u8
+#https://d3bq19vx8xhpwy.cloudfront.net/live/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="1090555986" tvg-name="ACC Men's Asia Cup Rising Stars 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029679/1795357669078765_ACRS26_SL_A_VS_BAN_A_landscape_thumb.jpg" tvg-language="English" group-title="Cricket",ENG | Sri Lanka A vs Bangladesh A - 23 Nov 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/2120301/criclive2311/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=1c01850651891dbc16fe51f1f11f4405-1795427595860
+#EXTINF:-1 tvg-chno="404" tvg-logo="https://epg.pw/media/images/epg/2025/05/09/20250509042549016858_59.png", Cricbuzz 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=88108f87e67cd151f9519101fc80c467:7f2ef277964796a9fb76afe361e2344c
+https://cbuzz1.starzplayarabia.com/out/v1/f017da8419e0495784291700c11700a5/index.mpd
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/mdarif2743/Sky-life-bd/main/IMG_20260723_130039_939.jpg", SKY LIFE BD(FREE IPTV) live sports
 
@@ -204,10 +208,10 @@ http://103.17.193.159:5001/live/891.m3u8
 https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.thedailystar.net/sites/default/files/styles/big_1/public/images/2023/10/11/rabbi.jpg", SKY LIFE BD(FREE IPTV) RABBITHOLEBD LIVE
-https://hpc5-nmc-mnc.mydex.tv/_tkn_st=1793848863~exp=1793877723~acl=%2fbpk-tv%2f202%2fdefault%2f*~eti=82367ab0791b30e792f9f72c2fe75804~sid=d9c26c620353f067~imax=2~hmac=4262273107cf9442317a7146a18821e5945041231cee52d41fccc2f87d5cb6e5/bpk-tv/202/default/202-audio_140257_und=140000-video=4150000.m3u8
+
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/mdarif2743/Sky-life-bd/main/IMG_20260723_130039_939.jpg", SKY LIFE BD(FREE IPTV) LIVE CRICKET
-#http://103.135.253.32:8080/TEN-CRECKET/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1, tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/b/bb/Three_NZ_2023.svg/1280px-Three_NZ_2023.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail", THREE NZ
 https://mediapackage-sky-three-source.fullscreen.nz/index.m3u8
@@ -971,13 +975,6 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bn-ch-1/1104
 #EXTINF:-1 tvg-chno="409" tvg-logo="https://epg.pw/media/images/epg/2025/05/09/20250509042549016858_59.png", Cricbuzz
 http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/302020.m3u8
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bn-ch-1/1104670.m3u8
-
-#EXTINF:-1 tvg-chno="404" tvg-logo="https://epg.pw/media/images/epg/2025/05/09/20250509042549016858_59.png", Cricbuzz 1
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=88108f87e67cd151f9519101fc80c467:7f2ef277964796a9fb76afe361e2344c
-https://cbuzz1.starzplayarabia.com/out/v1/f017da8419e0495784291700c11700a5/index.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
