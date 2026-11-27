@@ -199,7 +199,7 @@ http://bosstv.click:8080/live/18012689/77561563/92703.m3u8
 http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/24.m3u8
 
 #EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/GenericIDWWE.PNG/revision/latest?cb=20141006222432", WWE NETWORK
-
+http://103.114.11.37:8081/WWE-24/7/index.m3u8?token=sbox
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/mdarif2743/Sky-life-bd/main/IMG_20260723_130039_939.jpg", SKY LIFE BD( live football)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1048,6 +1048,7 @@ http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/308295.m3u8
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bn-ch-1/1104678.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/500px-T_Sports_logo.svg.png" group-title="AynaOTT - Sports",T Sports
+http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=sbox
 http://103.209.196.22:84/feed1001/index.m3u8
 https://live.msnetworks.net/ptv-sports/master.m3u8
 
@@ -1876,13 +1877,8 @@ http://116.90.120.149:8000/play/a132/index.m3u8
 http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/181291.ts
 
 #EXTINF:-1 tvg-id="9487096" tvg-name="Zee Cinema HD" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/c91e031d66e1443a9412978290a260db/version/0" group-title="Movies",Zee Cinema HD
+http://103.114.11.37:8081/Z-Cinema/index.m3u8?token=sbox
 https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_Cinema/dash/drm/index.mpd
-http://103.114.11.37:8081/Z-Cinema/index.m3u8?token=sboxcast
-http://103.114.11.37:8081/Z-Cinema/index.m3u8?token=dsgdfgsdfgasf
-http://premiumplug.fun/tee/zee5.php/0-9-zeecinemahd.m3u8
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-http://103.114.11.37:8081/Z-Cinema/index.m3u8?token=dsgdfgsdfgasf
 
 #EXTINF:-1 tvg-chno="338" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022HVX3.png?lock=720x540" group-title="Movies",Zee Cinema HD APAC
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8
@@ -1954,8 +1950,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/pl
 https://cdn.pishow.tv/ott/live/415/master.m3u8
 
 #EXTINF:-1 tvg-id="duranta_tv" tvg-logo="http://monirul.bro.bd/assets/images/DURANTA TV1745043400.png" group-title="Kids",DURANTA TV
-#http://103.135.253.32:8080/DORONTU-TV/index.m3u8
-http://103.114.11.37:8081/Duronto/index.m3u8?token=dsgdfgsdfgasf
+http://103.114.11.37:8081/Duronto/index.m3u8?token=sbox
 https://box.bbaria.net/DurontoTV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="hungama" tvg-logo="http://monirul.bro.bd/assets/images/HUNGAMA1745041551.png" group-title="Kids",HUNGAMA
