@@ -963,13 +963,13 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd
 
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png",Star Sports 1 Hindi
-http://116.90.120.149:8000/play/a122/index.m3u8
+http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/416137.ts
 https://p4kp.rjmbts.workers.dev/22147.m3u8
 http://str24.l9574.com/724.stream/index.m3u8
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bn-ch-1/2047231.m3u8
 
 #EXTINF:-1 tvg-id="1033" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_HD.png" group-title="Sports",Star Sports 2 Hindi HD
-http://116.90.120.149:8000/play/a12v/index.m3u8
+#http://116.90.120.149:8000/play/a12v/index.m3u8
 https://p4kp.rjmbts.workers.dev/22148.m3u8
 http://27.116.22.53:5001/live/1984.m3u8
 http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/433655.m3u8
