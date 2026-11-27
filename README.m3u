@@ -84,11 +84,8 @@ https://hrt-stream.movie.af/live/smil:solhetv.smil/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/52/BeIN_4K_logo.jpg?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=original", BEIN UHD
 
 
-#EXTINF:-1 tvg-id="1090556383" tvg-name="ACC Men's Asia Cup Rising Stars 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029928/1795591484279654_ACC_Rising_Star_SF_SRI_vs_IND_live_landscape_thumb.jpg" tvg-language="English" group-title="Cricket",ENG | Sri Lanka A vs India A - Semi-Final - 26 Nov 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/2119931/cricodi_2611/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=bf70a30e36c4c414c596a302e49cd731-1795688062742
-
-#EXTINF:-1 tvg-id="1090556383" tvg-name="ACC Men's Asia Cup Rising Stars 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029928/1795591484279654_ACC_Rising_Star_SF_SRI_vs_IND_live_landscape_thumb.jpg" tvg-language="Hindi" group-title="Cricket",HIN | Sri Lanka A vs India A - Semi-Final - 26 Nov 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/2119921/cricodi_2611/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=bf70a30e36c4c414c596a302e49cd731-1795688062742
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029940/1795599539816102_ACC_Rising_Star_SF_PAK_vs_BAN_live_landscape_thumb.jpg" group-title="sonyliv-Cricket", Pakistan A vs Bangladesh A - Semi-Final - 27 Nov 2026 [ENG] - ACC Men's Asia Cup Rising Stars 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive2711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795828753~acl=/*~id=58610981822818846338771415857890~hmac=6a301dea736da8210677a6f236e3f74ac57f87dfd1cee91cb66fd50bfdc9ca21
 
 #EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/SS_4K.jpg/revision/latest?cb=20250620093344", STAR 4K
 https://sflex.fun/SFlex-StarShare/796230.m3u8
