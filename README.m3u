@@ -1066,7 +1066,7 @@ https://playlist.nocablenetwork.workers.dev/stream/24.ts
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-Willow2.m3u8
 
 #EXTINF:-1 tvg-chno="410" tvg-id="Fox.501.uk" tvg-logo="http://greenpa1.com/fox.png" group-title="Sports",Fox Sports 501 HD
-#http://103.238.115.159:8080/foxx/video.m3u8?token=ZIBOPLAYVS
+https://playlist.nocablenetwork.workers.dev/stream/26.ts
 https://p4kp.rjmbts.workers.dev/24016.m3u8
 http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/308295.m3u8
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bn-ch-1/1104678.m3u8
@@ -1100,14 +1100,12 @@ https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/SaudiSunnah-141/
 https://sflex.fun/SFlex-StarShare/796230.m3u8
 
 #EXTINF:-1 tvg-id="btvhd" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/BTV.webp" group-title="Bangla",BTV.HD
+https://playlist.nocablenetwork.workers.dev/stream/49.ts
 https://drk6xq0vhn.gpcdn.net/hls/btv_720/index.m3u8
 #http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/49.m3u8
-http://103.238.115.159:8080/111/video.m3u8?token=ZIBOPLAYVS
-http://103.238.115.159:8080/ffd/video.m3u8?token=ZIBOPLAYVS
-#http://bosstv.click:8080/live/18012689/77561563/131992.m3u8
 #http://sm-monirul.top/ak/live.php?id=btv&sm=.m3u8
 https://nkafmbewiff.gpcdn.net/tile_2/master.m3u8
-http://103.135.253.32:8080/BTV/index.m3u8
+
 
 #EXTINF:-1 tvg-chno="112" tvg-id="7c5fee98-96e2-43df-95f4-ae8ded8e9efe" tvg-name="BTV CTG" tvg-logo="https://s3.aynaott.com/storage/20e835171a2d078ca6c678fc95bd4bbd" group-title="Bangla",বিটিভি চট্টগ্রাম
 https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8?e=1781708095&u=f54c14f5-0c1d-4106-885c-3bcd7626f69f&token=7377f7bab9e2e5f62698a765ec325756
@@ -1186,13 +1184,14 @@ https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
 https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8
 
 #EXTINF:-1 tvg-chno="118" tvg-id="70e97db9-5a9e-4642-874e-af3d30ba9925" tvg-name="RTV" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/RTV.webp" group-title="Recorded TV",RTV
-#https://j6nfugukcl.gpcdn.net/tile_6/master.m3u8
+https://j6nfugukcl.gpcdn.net/tile_6/master.m3u8
 https://tvsen5.aynaott.com/RtvHD/index.m3u8
 
 #EXTINF:-1 tvg-id="1a2c8ec3-61d5-4355-80e2-fc3c9b178a0d" tvg-name="NTV" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/NTV.webp?raw=true" group-title="Recorded TV",NTV
 https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
 
 #EXTINF:-1 tvg-id="0be12af9-e713-4c65-b4ed-b735793a0418" tvg-name="Deepto TV" tvg-logo="https://imglink.cc/cdn/2ODX-FAGY4.png" group-title="Recorded TV",Deepto TV
+https://playlist.nocablenetwork.workers.dev/stream/47.ts
 https://nkafmbewiff.gpcdn.net/tile_6/master.m3u8
 https://tvsen5.aynaott.com/tK2BNdfsdfsdf/index.m3u8
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
@@ -1212,7 +1211,7 @@ https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8
 http://116.204.149.16/globaltv/index.m3u8
 
 #EXTINF:-1 tvg-id="gtv" tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Gazi%20TV.webp" group-title="Bangla",GTV
-#http://103.135.253.32:8080/Gazi-TV/index.m3u8
+https://playlist.nocablenetwork.workers.dev/stream/46.ts
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/television-app/TeleVision-Assets@main/Ananda%20TV.webp" group-title="SM_IPTV",Ananda TV
